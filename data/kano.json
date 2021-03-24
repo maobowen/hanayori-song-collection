@@ -1,0 +1,135 @@
+{
+  "pv": [
+    {
+      "name": "寄明月",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "wGM8AN07BYo"},
+        "bilibili": {"id": "BV1fr4y1F79m"}
+      }],
+      "otherArtists": ["hitona"]
+    },
+    {
+      "name": "ただ君に晴れ",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "o2x1DBRCZJg"},
+        "bilibili": {"id": "BV12k4y127mJ"}
+      }]
+    },
+    {
+      "name": "ここから、ここから",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "vHMV44Uza4g"},
+        "bilibili": {"id": "BV1UT4y157ns"}
+      }],
+      "otherArtists": ["nonono", "hareru", "hitona"]
+    },
+    {
+      "name": "チューリングラブ",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "nHBMfi7kEXc"},
+        "bilibili": {"id": "BV1cC4y1Y7JD"}
+      }],
+      "otherArtists": ["hareru"]
+    },
+    {
+      "name": "言って。",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "WIfleHqox_A"},
+        "bilibili": {"id": "BV1EQ4y1P7cb"}
+      }]
+    },
+    {
+      "name": "インスタントヘヴン",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "q9J01TicygM"},
+        "bilibili": {"id": "BV1dK4y1r7Wc"}
+      }],
+      "otherArtists": ["nonono", "hareru", "hitona"]
+    },
+    {
+      "name": "ヒトリゴト",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "1HssP4Q47sA"},
+        "bilibili": {"id": "BV1R7411u7xQ"}
+      }],
+      "otherArtists": ["kagura-nana"]
+    },
+    {
+      "name": "フラワーポップガール",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "WnR-jeatjQ8"},
+        "bilibili": {"id": "BV1wJ411D7uR"}
+      }],
+      "otherArtists": ["nonono", "hareru", "hitona"]
+    },
+    {
+      "name": "命に嫌われている。",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "NWG_lwQgTK8"},
+        "bilibili": {"id": "BV1nE411B7UN"}
+      }]
+    },
+    {
+      "name": "說好不哭",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "jBYHaRKo-kg"},
+        "bilibili": {"id": "BV1EJ411M7VG"}
+      }]
+    },
+    {
+      "name": "自己紹介の歌",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "SWZGRkXINME"},
+        "bilibili": {"id": "BV1Gt411F7LW"}
+      }]
+    }
+  ],
+  "special": [
+    {
+      "name": "アイロニ",
+      "language": "ja",
+      "clips": [{
+        "bilibili": {"id": "BV11V411h76o", "t": 10}
+      }],
+      "notes": "Bilibili Macro Link-VR 全息演唱会2020"
+    },
+    {
+      "name": "フラワーポップガール",
+      "language": "ja",
+      "clips": [{
+        "bilibili": {"id": "BV11V411h76o", "t": 632}
+      }],
+      "otherArtists": ["hareru", "hitona"],
+      "notes": "Bilibili Macro Link-VR 全息演唱会2020"
+    },
+    {
+      "name": "NO,Thank You!",
+      "language": "ja",
+      "clips": [{
+        "bilibili": {"id": "BV1Mt4y1k7sL", "t": 97}
+      }],
+      "otherArtists": ["mononobe-alice", "kagura-nana", "yousa"],
+      "notes": "Bilibili Macro Link-VR 全息演唱会2020"
+    },
+    {
+      "name": "星之回响",
+      "language": "zh",
+      "clips": [{
+        "bilibili": {"id": "BV1KJ411C7qF"}
+      }],
+      "otherArtists": ["hareru", "ruki", "yousa", "kagura-mea", "mononobe-alice", "shirakami-fubuki", "natsuiro-matsuri"],
+      "notes": "哔哩哔哩2020拜年祭"
+    }
+  ]
+}

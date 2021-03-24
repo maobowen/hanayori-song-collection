@@ -1,0 +1,63 @@
+{
+  "pv": [
+    {
+      "name": "奏",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "saScdNQzzx0"},
+        "bilibili": {"id": "BV1QD4y1d7r1"}
+      }]
+    },
+    {
+      "name": "ここから、ここから",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "vHMV44Uza4g"},
+        "bilibili": {"id": "BV1UT4y157ns"}
+      }],
+      "otherArtists": ["kano", "hareru", "hitona"]
+    },
+    {
+      "name": "インスタントヘヴン",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "q9J01TicygM"},
+        "bilibili": {"id": "BV1dK4y1r7Wc"}
+      }],
+      "otherArtists": ["kano", "hareru", "hitona"]
+    },
+    {
+      "name": "青春なんていらないわ",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "FWUAM_2dpNw"},
+        "bilibili": {"id": "BV1d7411x7us"}
+      }]
+    },
+    {
+      "name": "說好不哭",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "mCR6dFOiqyE"},
+        "bilibili": {"id": "BV1PJ41197fE"}
+      }]
+    },
+    {
+      "name": "フラワーポップガール",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "WnR-jeatjQ8"},
+        "bilibili": {"id": "BV1wJ411D7uR"}
+      }],
+      "otherArtists": ["kano", "hareru", "hitona"]
+    },
+    {
+      "name": "自己紹介の歌",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "kO0tEE-TeMA"},
+        "bilibili": {"id": "BV124411f7SL"}
+      }]
+    }
+  ]
+}

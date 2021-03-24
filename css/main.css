@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --avatar-size: 176px;
+  --bg: #1c2022;
+  --border-radius: 4px;
+  --dark-card: #151515;
+  --dark-font-0: #e8e8e8;
+  --divider: rgba(47, 47, 47, .75);
+  --inter-card-spacing: 10px;
+  --link-hover: #00a1d6;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--dark-font-0);
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  transition: color .3s;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+main {
+  margin: 0 auto;
+  max-width: 1710px;
+}
+
+.banner {
+  background-image: url('../images/banner_hanayori.jpg');
+  background-size: cover;
+  border-radius: 0 0 var(--border-radius) var(--border-radius);
+  margin-bottom: var(--inter-card-spacing);
+  padding-bottom: 16.52%;  /* https://stackoverflow.com/a/10441480 */
+  position: relative;
+  transition: background-image .2s ease, background-size 1s ease;
+  width: 100%;
+}
+
+/* GitHub Corners: https://tholman.com/github-corners/ */
+@keyframes octocat-wave {
+  0%, 100% { transform:rotate(0); }
+  20%, 60% { transform:rotate(-25deg); }
+  40%, 80% { transform:rotate(10deg); }
+}
+
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+
+@media (max-width: 500px) {
+  .github-corner:hover .octo-arm {
+    animation: none;
+  }
+
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
+}
+/* End of GitHub Corners */
+
+.content-card {
+  background-color: var(--dark-card);
+  border-radius: var(--border-radius);
+  margin-bottom: var(--inter-card-spacing);
+  padding: 15px 20px 18px !important;
+}
+
+.affix-top {
+  position: sticky;
+  top: 0;
+}
+
+.avatar {
+  border: 3px solid hsla(0, 0%, 100%, .4);
+  display: block;
+  height: var(--avatar-size);
+  margin: 0 auto;
+  width: var(--avatar-size);
+}
+
+#home-container .avatar {
+  transition: .3s all ease-in-out;
+}
+
+#home-container .avatar:hover {
+  transform: scale(1.05);
+}
+
+.icon-bilibili:hover {
+  color: #00b5e5;
+}
+
+.icon-twitter:hover {
+  color: #1da1f2;
+}
+
+.icon-youtube:hover {
+  color: #f00;
+}
+
+.twemoji img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
+section:not(:last-child) {
+  border-bottom: 1px solid var(--divider);
+  margin-bottom: 0.75rem;
+}
+
+section h5 {
+  line-height: 2rem;
+}
+
+section table th, section table td {
+  max-width: min(30vw, 513px);  /* 513 = 1710 * .3 */
+  vertical-align: middle !important;
+}
+
+.other-artists {
+  font-size: 0.75rem;
+}
+
+footer {
+  background-color: var(--dark-card);
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
+  padding: 15px 20px 18px;
+  text-align: center;
+}
+
+footer a .fab {
+  font-size: 2rem;
+}
+
+#back-to-top {
+  transition: background-color .3s;
+}
+
+#back-to-top:hover {
+  background-color: #ff5252;
+}
+
+@media (min-width: 992px) {
+  aside {
+    margin-right: var(--inter-card-spacing);
+  } 
+}
