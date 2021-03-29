@@ -221,6 +221,133 @@
   ],
   "live": [
     {
+      "name": "春泥棒",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 1}
+      }, {
+        "date": "2021-03-02T12:00:00.000Z",
+        "youtube": {"id": "UoiFi-TcuZg", "t": 1148},
+        "bilibiliAlt": {"id": "BV1sN41197cm", "p": 2}
+      },{
+        "date": "2021-01-29T12:00:00.000Z",
+        "bilibili": {"id": "BV1PE411R7w2", "p": -44, "t": 2673},
+        "bilibiliAlt": {"id": "BV1wz4y1D7CT", "p": 4}
+      }]
+    },
+    {
+      "name": "創聖のアクエリオン",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 2}
+      }, {
+        "date": "2020-12-15T12:00:00.000Z",
+        "youtube": {"id": "ziebSbEFtW0", "t": 2247},
+        "bilibiliAlt": {"id": "BV1UK411u7QL", "p": 4}
+      }]
+    },
+    {
+      "name": "さよなら大好きな人",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 3}
+      }, {
+        "date": "2021-01-15T12:00:00.000Z",
+        "youtube": {"id": "FcZ8NcE13Bk", "t": 463},
+        "bilibiliAlt": {"id": "BV1zK411u7pq", "p": 1}
+      }, {
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 6}
+      }]
+    },
+    {
+      "name": "春を告げる",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 4}
+      }]
+    },
+    {
+      "name": "怪物",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 5}
+      }, {
+        "date": "2021-03-02T12:00:00.000Z",
+        "youtube": {"id": "UoiFi-TcuZg", "t": 2705},
+        "bilibiliAlt": {"id": "BV1sN41197cm", "p": 4}
+      }, {
+        "date": "2021-02-23T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1bK4y1S75g", "p": 4}
+      }]
+    },
+    {
+      "name": "たぶん",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 6}
+      }, {
+        "date": "2021-02-06T12:00:00.000Z",
+        "bilibili": {"id": "BV1PE411R7w2", "p": -45, "t": 6641},
+        "bilibiliAlt": {"id": "BV1cT4y1N7ry", "p": 9}
+      }, {
+        "date": "2021-01-15T12:00:00.000Z",
+        "youtube": {"id": "FcZ8NcE13Bk", "t": 4715},
+        "bilibiliAlt": {"id": "BV1zK411u7pq", "p": 8}
+      }, {
+        "date": "2021-01-02T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1sz4y167p6", "p": 6}
+      }]
+    },
+    {
+      "name": "Good-bye days",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 7}
+      }]
+    },
+    {
+      "name": "ルル",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 8}
+      }]
+    },
+    {
+      "name": "グッバイ宣言",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 9}
+      }]
+    },
+    {
+      "name": "愛言葉Ⅲ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV14K4y1T7aj", "p": 10}
+      }, {
+        "date": "2020-12-12T11:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1vX4y1u7Xr", "p": 11}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 4070},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 4093},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 8},
+        "notes": "3Dお披露目"
+      }]
+    },
+
+    {
       "name": "みくみくにしてあげる♪【してやんよ】",
       "language": "ja",
       "clips": [{
@@ -258,6 +385,9 @@
       "clips": [{
         "date": "2021-03-09T12:00:00.000Z",
         "bilibiliAlt": {"id": "BV1CK4y1K7mY", "p": 5}
+      }, {
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 6}
       }]
     },
     {
@@ -302,6 +432,12 @@
         "date": "2021-01-29T12:00:00.000Z",
         "bilibili": {"id": "BV1PE411R7w2", "p": -44, "t": 5059},
         "bilibiliAlt": {"id": "BV1wz4y1D7CT", "p": 7}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 2834},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 2857},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 7},
+        "notes": "3Dお披露目"
       }]
     },
     {
@@ -321,6 +457,9 @@
       "clips": [{
         "date": "2021-03-09T12:00:00.000Z",
         "bilibiliAlt": {"id": "BV1CK4y1K7mY", "p": 12}
+      }, {
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 8}
       }]
     },
 
@@ -337,37 +476,12 @@
       }]
     },
     {
-      "name": "春泥棒",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-03-02T12:00:00.000Z",
-        "youtube": {"id": "UoiFi-TcuZg", "t": 1148},
-        "bilibiliAlt": {"id": "BV1sN41197cm", "p": 2}
-      },{
-        "date": "2021-01-29T12:00:00.000Z",
-        "bilibili": {"id": "BV1PE411R7w2", "p": -44, "t": 2673},
-        "bilibiliAlt": {"id": "BV1wz4y1D7CT", "p": 4}
-      }]
-    },
-    {
       "name": "天使にふれたよ！",
       "language": "ja",
       "clips": [{
         "date": "2021-03-02T12:00:00.000Z",
         "youtube": {"id": "UoiFi-TcuZg", "t": 2112},
         "bilibiliAlt": {"id": "BV1sN41197cm", "p": 3}
-      }]
-    },
-    {
-      "name": "怪物",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-03-02T12:00:00.000Z",
-        "youtube": {"id": "UoiFi-TcuZg", "t": 2705},
-        "bilibiliAlt": {"id": "BV1sN41197cm", "p": 4}
-      }, {
-        "date": "2021-02-23T12:00:00.000Z",
-        "bilibiliAlt": {"id": "BV1bK4y1S75g", "p": 4}
       }]
     },
     {
@@ -443,6 +557,9 @@
         "date": "2021-03-02T12:00:00.000Z",
         "youtube": {"id": "UoiFi-TcuZg", "t": 6531},
         "bilibiliAlt": {"id": "BV1sN41197cm", "p": 11}
+      }, {
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 2}
       }]
     },
 
@@ -494,6 +611,9 @@
         "date": "2021-02-06T12:00:00.000Z",
         "bilibili": {"id": "BV1PE411R7w2", "p": -45, "t": 882},
         "bilibiliAlt": {"id": "BV1cT4y1N7ry", "p": 1}
+      }, {
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 1}
       }]
     },
     {
@@ -563,22 +683,6 @@
       }]
     },
     {
-      "name": "たぶん",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-02-06T12:00:00.000Z",
-        "bilibili": {"id": "BV1PE411R7w2", "p": -45, "t": 6641},
-        "bilibiliAlt": {"id": "BV1cT4y1N7ry", "p": 9}
-      }, {
-        "date": "2021-01-15T12:00:00.000Z",
-        "youtube": {"id": "FcZ8NcE13Bk", "t": 4715},
-        "bilibiliAlt": {"id": "BV1zK411u7pq", "p": 8}
-      }, {
-        "date": "2021-01-02T12:00:00.000Z",
-        "bilibiliAlt": {"id": "BV1sz4y167p6", "p": 6}
-      }]
-    },
-    {
       "name": "学猫叫",
       "language": "zh",
       "clips": [{
@@ -622,6 +726,12 @@
         "date": "2021-01-29T12:00:00.000Z",
         "bilibili": {"id": "BV1PE411R7w2", "p": -44, "t": 3417},
         "bilibiliAlt": {"id": "BV1wz4y1D7CT", "p": 5}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 1304},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 1328},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 4},
+        "notes": "3Dお披露目"
       }]
     },
     {
@@ -661,6 +771,12 @@
       }, {
         "date": "2021-01-02T12:00:00.000Z",
         "bilibiliAlt": {"id": "BV1sz4y167p6", "p": 11}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 4399},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 4422},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 9},
+        "notes": "3Dお披露目"
       }]
     },
 
@@ -702,6 +818,12 @@
       "clips": [{
         "date": "2021-01-17T12:00:00.000Z",
         "bilibiliAlt": {"id": "BV1dT4y1N776", "p": 6}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 2184},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 2207},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 6},
+        "notes": "3Dお披露目"
       }]
     },
     {
@@ -729,15 +851,6 @@
       }]
     },
 
-    {
-      "name": "さよなら大好きな人",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-01-15T12:00:00.000Z",
-        "youtube": {"id": "FcZ8NcE13Bk", "t": 463},
-        "bilibiliAlt": {"id": "BV1zK411u7pq", "p": 1}
-      }]
-    },
     {
       "name": "さくらんぼ",
       "language": "ja",
@@ -805,6 +918,9 @@
         "date": "2021-01-15T12:00:00.000Z",
         "youtube": {"id": "FcZ8NcE13Bk", "t": 5799},
         "bilibiliAlt": {"id": "BV1zK411u7pq", "p": 9}
+      }, {
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 7}
       }]
     },
     {
@@ -851,6 +967,13 @@
         "date": "2020-12-15T12:00:00.000Z",
         "youtube": {"id": "ziebSbEFtW0", "t": 1511},
         "bilibiliAlt": {"id": "BV1UK411u7QL", "p": 2}
+      }, {
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 4}
+      }, {
+        "date": "2020-11-14T10:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1zz4y1y7Kt", "p": 1},
+        "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战V"
       }]
     },
     {
@@ -994,15 +1117,6 @@
       }]
     },
     {
-      "name": "創聖のアクエリオン",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-12-15T12:00:00.000Z",
-        "youtube": {"id": "ziebSbEFtW0", "t": 2247},
-        "bilibiliAlt": {"id": "BV1UK411u7QL", "p": 4}
-      }]
-    },
-    {
       "name": "恋空予報",
       "language": "ja",
       "clips": [{
@@ -1021,6 +1135,12 @@
       }, {
         "date": "2020-12-12T11:00:00.000Z",
         "bilibiliAlt": {"id": "BV1vX4y1u7Xr", "p": 1}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 751},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 774},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 2},
+        "notes": "3Dお披露目"
       }]
     },
     {
@@ -1098,12 +1218,213 @@
         "bilibiliAlt": {"id": "BV1vX4y1u7Xr", "p": 9}
       }]
     },
+
     {
-      "name": "愛言葉Ⅲ",
+      "name": "あわてんぼうのサンタクロース",
       "language": "ja",
       "clips": [{
-        "date": "2020-12-12T11:00:00.000Z",
-        "bilibiliAlt": {"id": "BV1vX4y1u7Xr", "p": 11}
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 1}
+      }]
+    },
+    {
+      "name": "ハレ晴レユカイ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 2}
+      }]
+    },
+    {
+      "name": "God knows...",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 3}
+      }]
+    },
+    {
+      "name": "雪の華",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 4}
+      }]
+    },
+    {
+      "name": "おジャ魔女カーニバル!!",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-28T13:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Jz4y1k7MG", "p": 5}
+      }]
+    },
+
+    {
+      "name": "タッチ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 3}
+      }]
+    },
+    {
+      "name": "だんご大家族",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 5}
+      }]
+    },
+    {
+      "name": "ノルニル",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 6}
+      }]
+    },
+    {
+      "name": "翼をください",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 7}
+      }]
+    },
+    {
+      "name": "風を食む",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 8}
+      }, {
+        "date": "2020-11-14T10:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1zz4y1y7Kt", "p": 2},
+        "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战V"
+      }]
+    },
+    {
+      "name": "はじめてのチュウ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 9}
+      }]
+    },
+    {
+      "name": "Twinkle, Twinkle, Little Star",
+      "language": "zh",
+      "clips": [{
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1Ta4y1x7xw", "p": 10}
+      }]
+    },
+
+    {
+      "name": "自己紹介の歌",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 209},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 231},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 1},
+        "notes": "3Dお披露目"
+      }]
+    },
+    {
+      "name": "紅蓮華",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 1064},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 1087},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 3},
+        "notes": "3Dお披露目"
+      }]
+    },
+    {
+      "name": "トライアングラー",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 1891},
+        "bilibili": {"id": "BV1za4y1p72o", "t": 1914},
+        "bilibiliAlt": {"id": "BV1CZ4y1V7GY", "p": 5},
+        "notes": "3Dお披露目"
+      }]
+    },
+
+    {
+      "name": "ニンジーン Loves you yeah!",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 1}
+      }]
+    },
+    {
+      "name": "平行線",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 2}
+      }]
+    },
+    {
+      "name": "インスタントヘヴン",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 3}
+      }]
+    },
+    {
+      "name": "ルカルカ☆ナイトフィーバー",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 4}
+      }]
+    },
+    {
+      "name": "きゅんっ！ヴァンパイアガール",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 5}
+      }]
+    },
+    {
+      "name": "Q",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 7}
+      }]
+    },
+    {
+      "name": "Happy Halloween",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 8}
+      }]
+    },
+    {
+      "name": "ハッピーシンセサイザ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 9}
+      }]
+    },
+    {
+      "name": "te-yut-te",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-11-01T12:00:00.000Z",
+        "bilibiliAlt": {"id": "BV1QZ4y1V734", "p": 10}
       }]
     }
   ]
