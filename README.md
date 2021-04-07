@@ -48,6 +48,7 @@
 
 | 日本时间 | 平台 | 官方源 | 非官方源 | 注释 |
 | :-: | :-: | :-: | :-: | :-: |
+| 2020/04/03 21:00 | Bilibili |  | X |  |
 | 2020/03/20 21:00 | Bilibili |  |  | 生日 |
 | 2020/03/19 23:00 | YouTube |  |  | 生日 |
 | 2021/03/14 21:00 | Bilibili |  | X |  |
@@ -69,10 +70,11 @@
 | 2020/11/22 22:00 | Bilibili |  | X |  |
 | 2020/11/15 21:00 | Bilibili |  | X |  |
 | 2020/11/03 22:00 | YouTube | Y | X |  |
-| 2020/10/24 20:00 | Bilibili |  |  |  |
-| 2020/10/17 23:00 | Bilibili |  |  |  |
-| 2020/10/17 19:00 | Bilibili |  |  | 2020年度哔哩哔哩虚拟主播冰火歌合战IV |
-| 2020/10/03 21:00 | YouTube, Bilibili |  |  | 3D发布演唱会 |
+| 2020/10/24 20:00 | Bilibili |  | X |  |
+| 2020/10/17 23:00 | Bilibili |  | X |  |
+| 2020/10/17 19:00 | Bilibili |  | X | [2020年度哔哩哔哩虚拟主播冰火歌合战IV](https://www.bilibili.com/blackboard/live/activity-rhDqfH24V.html) |
+| 2020/10/06 21:00 | Bilibili |  | X | [国庆中秋大联欢](https://www.bilibili.com/blackboard/live/activity-BxTZr-65X.html) |
+| 2020/10/03 21:00 | YouTube, Bilibili | YB |  | 3D发布演唱会 |
 | 2020/09/27 22:00 | Bilibili |  |  |  |
 | 2020/09/13 22:00 | Bilibili |  |  |  |
 | 2020/09/09 21:00 | YouTube |  |  |  |
@@ -131,6 +133,7 @@
 
 | 日本时间 | 平台 | 官方源 | 非官方源 | 注释 |
 | :-: | :-: | :-: | :-: | :-: |
+| 2021/04/09 21:00 | Bilibili |  |  |  |
 | 2021/03/26 21:00 | Bilibili |  | X |  |
 | 2021/03/09 21:00 | Bilibili |  | X |  |
 | 2021/03/02 21:00 | YouTube | Y | X |  |
@@ -145,11 +148,11 @@
 | 2020/12/12 20:00 | Bilibili |  | X |  |
 | 2020/11/28 22:00 | Bilibili |  | X |  |
 | 2020/11/14 23:00 | Bilibili |  | X |  |
-| 2020/11/14 19:00 | Bilibili |  | X | 2020年度哔哩哔哩虚拟主播冰火歌合战V |
+| 2020/11/14 19:00 | Bilibili |  | X | [2020年度哔哩哔哩虚拟主播冰火歌合战V](https://www.bilibili.com/blackboard/live/activity-hynNoB7eJ.html) |
 | 2020/11/07 21:00 | YouTube, Bilibili | YB | X | 3D发布演唱会 |
 | 2020/11/01 21:00 | Bilibili |  | X |  |
-| 2020/10/23 21:00 | YouTube, Bilibili |  |  |  |
-| 2020/10/08 20:00 | Bilibili |  |  |  |
+| 2020/10/23 21:00 | YouTube, Bilibili | YB | X |  |
+| 2020/10/08 20:00 | Bilibili |  | X | [国庆中秋大联欢](https://www.bilibili.com/blackboard/live/activity-BxTZr-65X.html) |
 | 2020/09/22 21:00 | Bilibili |  |  |  |
 | 2020/09/08 21:00 | YouTube |  |  |  |
 | 2020/08/25 20:00 | Bilibili |  |  | 虚拟主播陪你过七夕 |
