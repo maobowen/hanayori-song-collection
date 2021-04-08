@@ -75,9 +75,9 @@
 | 2020/10/17 19:00 | Bilibili |  | X | [2020年度哔哩哔哩虚拟主播冰火歌合战IV](https://www.bilibili.com/blackboard/live/activity-rhDqfH24V.html) |
 | 2020/10/06 21:00 | Bilibili |  | X | [国庆中秋大联欢](https://www.bilibili.com/blackboard/live/activity-BxTZr-65X.html) |
 | 2020/10/03 21:00 | YouTube, Bilibili | YB |  | 3D发布演唱会 |
-| 2020/09/27 22:00 | Bilibili |  |  |  |
-| 2020/09/13 22:00 | Bilibili |  |  |  |
-| 2020/09/09 21:00 | YouTube |  |  |  |
+| 2020/09/27 22:00 | Bilibili |  | X |  |
+| 2020/09/13 22:00 | Bilibili |  | X |  |
+| 2020/09/09 21:00 | YouTube | Y | X |  |
 | 2020/08/29 22:00 | YouTube, Bilibili |  |  |  |
 | 2020/08/25 23:30 | Bilibili |  |  | 虚拟主播陪你过七夕 |
 | 2020/08/16 22:00 | Bilibili |  |  |  |
@@ -153,8 +153,8 @@
 | 2020/11/01 21:00 | Bilibili |  | X |  |
 | 2020/10/23 21:00 | YouTube, Bilibili | YB | X |  |
 | 2020/10/08 20:00 | Bilibili |  | X | [国庆中秋大联欢](https://www.bilibili.com/blackboard/live/activity-BxTZr-65X.html) |
-| 2020/09/22 21:00 | Bilibili |  |  |  |
-| 2020/09/08 21:00 | YouTube |  |  |  |
+| 2020/09/22 21:00 | Bilibili |  | X |  |
+| 2020/09/08 21:00 | YouTube | Y | X |  |
 | 2020/08/25 20:00 | Bilibili |  |  | 虚拟主播陪你过七夕 |
 | 2020/08/11 21:00 | Bilibili |  |  |  |
 | 2020/08/07 22:00 | YouTube, Bilibili |  |  | 一周年纪念直播 |
