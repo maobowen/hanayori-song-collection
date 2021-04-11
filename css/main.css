@@ -123,9 +123,14 @@ section h5 {
   line-height: 2rem;
 }
 
-section table th, section table td {
+section table tr th, section table tr td {
   max-width: min(30vw, 513px);  /* 513 = 1710 * .3 */
   vertical-align: middle !important;
+}
+
+#live-section table tr th:first-child, #live-section table tr td:first-child,
+#live-section table tr th:last-child, #live-section table tr td:last-child {
+  max-width: min(15vw, 256.5px);
 }
 
 .other-artists {

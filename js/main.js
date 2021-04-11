@@ -145,17 +145,13 @@ class Song {
       for (const clip of clips) {
         let source = new Map();
         for (const [key, value] of Object.entries(clip)) {
-          switch (key) {
-          case 'date':
+          if (key === 'date') {
             source.set(key, new Date(value));
-            break;
-          case 'youtube':
+          } else if (key.includes('youtube')) {
             source.set(key, new YouTubeSource(value));
-            break;
-          case 'bilibili': case 'bilibiliAlt':
+          } else if (key.includes('bilibili')) {
             source.set(key, new BilibiliSource(value));
-            break;
-          default:
+          } else {
             source.set(key, value);
           }
         }
@@ -306,13 +302,10 @@ const renderSection = (section, songs) => {
         let sourceHtml = '';
         if (Array.isArray(song.clips) && song.clips.length === 1) {
           for (const [key, source] of song.clips[0]) {
-            switch (source.constructor) {
-            case YouTubeSource:
+            if (source instanceof YouTubeSource) {
               sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}">${YOUTUBE_ICON}</a>`;
-              break;
-            case BilibiliSource:
+            } else if (source instanceof BilibiliSource) {
               sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
-              break;
             }
           }
         }
@@ -339,19 +332,17 @@ const renderSection = (section, songs) => {
         if (Array.isArray(song.clips) && song.clips.length) {
           for (const clip of song.clips) {
             // Build HTML for date and sources
-            let officialSourceHtml = '';
-            let unofficialSourceHtml = '';
+            let streamSourceHtml = '';
+            let cutoutSourceHtml = '';
             for (const [key, source] of clip) {
-              switch (key) {
-              case 'youtube':
-                officialSourceHtml += (officialSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}">${YOUTUBE_ICON}</a>`;
-                break;
-              case 'bilibili':
-                officialSourceHtml += (officialSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
-                break;
-              case 'bilibiliAlt':
-                unofficialSourceHtml += (unofficialSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
-                break;
+              if (source instanceof YouTubeSource) {
+                streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}">${YOUTUBE_ICON}</a>`;
+              } else if (source instanceof BilibiliSource) {
+                if (key.includes('Cutout')) {
+                  cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+                } else {
+                  streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+                }
               }
             }
             clips.push({
@@ -361,8 +352,8 @@ const renderSection = (section, songs) => {
                 day: '2-digit',
                 timeZone: 'Asia/Tokyo'
               }),
-              'officialSources': officialSourceHtml,
-              'unofficialSources': unofficialSourceHtml,
+              'streamSources': streamSourceHtml,
+              'cutoutSources': cutoutSourceHtml,
               'notes': clip.has('notes') ? clip.get('notes') : ''
             });
           }
@@ -375,16 +366,16 @@ const renderSection = (section, songs) => {
                 <td${extraAttrs}>${songNameHtml}</td>
                 <td${extraAttrs}>${language}</td>
                 <td>${clips[i].date}</td>
-                <td>${clips[i].officialSources}</td>
-                <td>${clips[i].unofficialSources}</td>
+                <td>${clips[i].streamSources}</td>
+                <td>${clips[i].cutoutSources}</td>
                 <td${extraAttrs}></td>
                 <td>${clips[i].notes}</td>
               </tr>`);
           } else {  // Other rows
             $(`#${section}-section table tbody`).append(`<tr>
                 <td>${clips[i].date}</td>
-                <td>${clips[i].officialSources}</td>
-                <td>${clips[i].unofficialSources}</td>
+                <td>${clips[i].streamSources}</td>
+                <td>${clips[i].cutoutSources}</td>
                 <td>${clips[i].notes}</td>
               </tr>`);
           }
