@@ -32,7 +32,7 @@
 
 - 官方源：YouTube 官方频道 (Y)、哔哩哔哩官方账号 (B)
   - 官方协力字幕组：[花寄字幕组](https://space.bilibili.com/436457842)、[小鹿字幕组](https://space.bilibili.com/1815452749)、[花丸家字幕组](https://space.bilibili.com/1321544091)、[小人鱼字幕组](https://space.bilibili.com/690942069)
-- 非官方源：[花丸晴琉早安社](https://space.bilibili.com/3017286) (Z)、[小东人魚午安社](https://space.bilibili.com/31049854) (W)、[野野宫ののの游戏社](https://space.bilibili.com/582466811) (G)
+- 非官方源：[花丸晴琉早安社](https://space.bilibili.com/3017286) (Z)、[小东人魚午安社](https://space.bilibili.com/31049854) (W)、[野野宫ののの游戏社](https://space.bilibili.com/582466811) (G)、[全面发展咸鱼社](https://space.bilibili.com/496198837) (Q)
 
 ### 鹿乃
 
@@ -48,7 +48,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [2020/04/11 21:00](https://t.bilibili.com/512205799582409763) | Bilibili |  |  | [X](https://t.bilibili.com/512455496104898141) |  |
+| [2020/04/11 21:00](https://t.bilibili.com/512205799582409763) | Bilibili |  | Z | [X](https://t.bilibili.com/512455496104898141) |  |
 | [2020/04/03 21:00](https://t.bilibili.com/509237092425788502) | Bilibili |  | Z |  |  |
 | [2020/03/20 21:00](https://t.bilibili.com/504041925752734315) | Bilibili |  |  |  | 生日 |
 | [2020/03/19 23:00](https://twitter.com/hanamaruhareru/status/1372822629552254977) | YouTube |  |  |  | 生日 |
@@ -78,7 +78,7 @@
 | [2020/10/06 21:00](https://t.bilibili.com/442812863385743061) | Bilibili |  | Z | [X](https://t.bilibili.com/443050413733945140) | [国庆中秋大联欢](https://www.bilibili.com/blackboard/dynamic/3908​) |
 | [2020/10/03 21:00](https://t.bilibili.com/441699612158401192) | YouTube, Bilibili | YB |  |  | 3D发布演唱会 |
 | [2020/09/27 22:00](https://t.bilibili.com/439473118294269122) | Bilibili |  | Z | [X](https://t.bilibili.com/439729695343435434) |  |
-| [2020/09/13 22:00](https://t.bilibili.com/434277938741823926) | Bilibili |  | Z | [X](https://t.bilibili.com/434531255906706886) |  |
+| [2020/09/13 22:00](https://t.bilibili.com/434277938741823926) | Bilibili |  | BZ | [X](https://t.bilibili.com/434531255906706886) |  |
 | [2020/09/09 21:00](https://twitter.com/hanamaruhareru/status/1303637296709693440) | YouTube | Y | Z |  |  |
 | [2020/08/29 22:00](https://t.bilibili.com/428711639646550812) | YouTube, Bilibili |  |  |  |  |
 | [2020/08/25 23:30](https://t.bilibili.com/427227290363852569) | Bilibili |  |  | [X](https://t.bilibili.com/427497091618374640) | [虚拟主播陪你过七夕](https://www.bilibili.com/blackboard/dynamic/3332) |
@@ -134,11 +134,37 @@
 | [2019/08/25 21:00](https://t.bilibili.com/291410112240838290) | Bilibili |  |  | [X](https://t.bilibili.com/291637436271507887) |  |
 | [2019/08/17 22:00](https://t.bilibili.com/288441443733302883) | Bilibili |  |  |  |  |
 
+B站歌回切片单曲更新状态：
+
+| 歌曲 | UP主 | 发布日期 | 歌回日期 |
+| :-: | :-: | :-: | :-: |
+| ありがとう・・・ | B | 2021/04/05 | 2021/03/14 |
+| you -Visionen im Spiegel | B | 2021/03/30 | 2021/01/31 |
+| 小さな恋のうた | B | 2021/03/07 | 2021/02/14 |
+| ダーリンダンス | B | 2021/03/06 | 2021/01/09 |
+| 廻廻奇譚 | B | 2021/02/27 | 2021/01/09 |
+| 白雪姬 | B | 2021/02/23 | 2021/01/09 |
+| 小さなてのひら | B | 2021/02/14 | 2020/12/27 |
+| 竈門炭治郎のうた | B | 2021/02/11 | 2020/12/27 |
+| はるのとなり | B | 2021/01/29 | 2021/01/24 |
+| フリージア | B | 2021/01/24 | 2021/01/09 |
+| StarCrew | B | 2021/01/21 | 2020/12/23 |
+| 届かない恋 | B | 2021/01/12 | 2020/12/27 |
+| 籠ノ鳥 | B | 2021/01/10 | 2021/01/03 |
+| glow | B | 2021/01/09 | 2020/12/27 |
+| 僕が死のうと思ったのは | B | 2020/12/30 | 2020/12/12 |
+| アヤノの幸福理論 | B | 2020/12/08 | 2020/11/22 |
+| 銀の龍の背に乗って | B | 2020/11/24 | 2020/10/24 |
+| 言って。 | B | 2020/09/17 | 2020/09/09 |
+| 春天在哪里 | Z | 2021/04/04 | 2021/04/03 |
+| 明日への扉 | Z* | 2021/03/14 | 2021/03/14 |
+| カタオモイ | Z | 2021/02/21 | 2021/02/21 |
+| Alice in Musicland | Z | 2020/09/14 | 2020/09/13 |
 ### 小東ひとな
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [2021/04/09 21:00](https://t.bilibili.com/511540951537280852) | Bilibili |  |  | [X](https://t.bilibili.com/511705173900557797) |  |
+| [2021/04/09 21:00](https://t.bilibili.com/511540951537280852) | Bilibili |  | W | [X](https://t.bilibili.com/511705173900557797) |  |
 | [2021/03/26 21:00](https://t.bilibili.com/506345754795494074) | Bilibili |  | W | [X](https://t.bilibili.com/506508229112399144) |  |
 | [2021/03/09 21:00](https://t.bilibili.com/500037293953876307) | Bilibili |  | W | [X](https://t.bilibili.com/500207022467290178) |  |
 | [2021/03/02 21:00](https://twitter.com/kohigashihitona/status/1366698882046988288) | YouTube | Y | W |  |  |
@@ -150,18 +176,18 @@
 | [2021/01/02 21:00](https://t.bilibili.com/475545693918683692) | Bilibili |  | W | [X](https://t.bilibili.com/475706523256943448) |  |
 | [2020/12/31 21:00](https://t.bilibili.com/474803514979981622) | Bilibili |  |  |  | [2020年度哔哩哔哩虚拟主播冰火歌合战VI](https://www.bilibili.com/blackboard/live/activity-KR-a2hmi7.html) |
 | [2020/12/22 21:00](https://t.bilibili.com/471463718342742994) | Bilibili |  | W | [X](https://t.bilibili.com/471624294284916277) |  |
-| [2020/12/15 21:00](https://twitter.com/kohigashihitona/status/1338685802625204224) | YouTube | Y | W+ |  |  |
+| [2020/12/15 21:00](https://twitter.com/kohigashihitona/status/1338685802625204224) | YouTube | Y | W |  |  |
 | [2020/12/12 20:00](https://t.bilibili.com/467752875187311153) | Bilibili |  | W | [X](https://t.bilibili.com/467893316319668382) |  |
 | [2020/11/28 22:00](https://t.bilibili.com/462557708515689775) | Bilibili |  | W | [x](https://t.bilibili.com/462721363948353964) |  |
-| [2020/11/14 23:00](https://t.bilibili.com/457495024406520489) | Bilibili |  | W | [X](https://t.bilibili.com/457542221800351584) |  |
+| [2020/11/14 23:00](https://t.bilibili.com/457495024406520489) | Bilibili |  | BW | [X](https://t.bilibili.com/457542221800351584) |  |
 | [2020/11/14 19:00](https://t.bilibili.com/457362494598974694) | Bilibili |  | W | [X](https://t.bilibili.com/457470611809121463) | [2020年度哔哩哔哩虚拟主播冰火歌合战V](https://www.bilibili.com/blackboard/live/activity-hynNoB7eJ.html) |
 | [2020/11/07 21:00](https://t.bilibili.com/454764902675524607) | YouTube, Bilibili | YB | W |  | 3D发布演唱会 |
 | [2020/11/01 21:00](https://t.bilibili.com/452538400215603800) | Bilibili |  | W | [X](https://t.bilibili.com/452689355432306633) | [虚拟万圣夜](https://www.bilibili.com/blackboard/dynamic/4514) |
 | [2020/10/23 21:00](https://t.bilibili.com/449198607877563394) | YouTube, Bilibili | YB | W |  |  |
 | [2020/10/08 20:00](https://t.bilibili.com/443632338857775949) | Bilibili |  | W | [X](https://t.bilibili.com/443779961178323779) | [国庆中秋大联欢](https://www.bilibili.com/blackboard/dynamic/3908​) |
-| [2020/09/22 21:00](https://t.bilibili.com/437694963179775389) | Bilibili |  | W | [X](https://t.bilibili.com/437849843992000507) |  |
+| [2020/09/22 21:00](https://t.bilibili.com/437694963179775389) | Bilibili |  | BW | [X](https://t.bilibili.com/437849843992000507) |  |
 | [2020/09/12 20:00](https://t.bilibili.com/434355200903531531) | Bilibili |  |  | [X](https://t.bilibili.com/434495590503345694) |  |
-| [2020/09/08 21:00](https://twitter.com/kohigashihitona/status/1303301706990592002) | YouTube | Y | W |  |  |
+| [2020/09/08 21:00](https://twitter.com/kohigashihitona/status/1303301706990592002) | YouTube | Y | BW |  |  |
 | [2020/08/25 20:00](https://t.bilibili.com/427304599770304481) | Bilibili |  |  | [X](https://t.bilibili.com/427446681584659044) | [虚拟主播陪你过七夕](https://www.bilibili.com/blackboard/dynamic/3332) |
 | [2020/08/11 21:00](https://t.bilibili.com/422109420214156535) | Bilibili |  |  | [X](https://t.bilibili.com/422264305324818174) |  |
 | [2020/08/07 22:00](https://t.bilibili.com/420625075222883606) | YouTube, Bilibili |  |  |  | [一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
@@ -196,6 +222,17 @@
 | [2019/09/29 21:00](https://t.bilibili.com/304590967443936062) | Bilibili |  |  |  |  |
 | [2019/09/07 20:00](https://t.bilibili.com/295694294877590604) | Bilibili |  |  |  |  |
 | [2019/08/24 21:00](https://t.bilibili.com/291196411849674720) | Bilibili |  |  |  |  |
+
+B站歌回切片单曲更新状态：
+
+| 歌曲 | UP主 | 发布日期 | 歌回日期 |
+| :-: | :-: | :-: | :-: |
+| 天使にふれたよ！ | B | 2021/03/26 | 2021/03/02 |
+| ドライフラワー | B | 2021/02/05 | 2021/01/17 |
+| 廻廻奇譚 | B | 2021/01/14 | 2021/01/02 |
+| 約束をしよう | B | 2020/12/30 | 2020/12/22 |
+| Twinkle, Twinkle, Little Star | B | 2021/11/15 | 2020/11/14 |
+| うっせぇわ | W | 2020/12/17 | 2020/12/15 |
 
 ---
 

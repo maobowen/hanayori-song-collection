@@ -186,5 +186,6 @@ export const HANAYORI_MEMBER_IDS = ['kano', 'nonono', 'hareru', 'hitona'];
  * negative page numbers can be used in JSON files.
  */
 export const BILIBILI_PLAYLIST_PAGES = new Map([
-  ['BV1PE411R7w2', 45]
+  ['BV1jE411X7hH', 77],
+  ['BV1PE411R7w2', 48]
 ]);
