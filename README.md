@@ -38,7 +38,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 注释 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2020/08/07 23:00](https://t.bilibili.com/419627100919688801) | YouTube, Bilibili |  |  | 3D发布演唱会及[一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
+| [2020/08/07 23:00](https://t.bilibili.com/419627100919688801) | YouTube, Bilibili | YB |  | 3D发布演唱会及[一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
 
 ### 野々宮ののの
 
@@ -48,8 +48,10 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2020/04/18 20:00](https://t.bilibili.com/514803395811242248) | Bilibili |  | Z |  | 个性装扮套装发售 |
+| [2020/04/16 22:00](https://twitter.com/hanamaruhareru/status/1383013680229412867) | YouTube | Y | Z |  |  |
 | [2020/04/11 21:00](https://t.bilibili.com/512205799582409763) | Bilibili |  | Z | [X](https://t.bilibili.com/512455496104898141) |  |
-| [2020/04/03 21:00](https://t.bilibili.com/509237092425788502) | Bilibili |  | Z |  |  |
+| [2020/04/03 21:00](https://t.bilibili.com/509237092425788502) | Bilibili |  | Z |  | [千舰感谢回](https://www.bilibili.com/blackboard/live/activity-QgxmHwp7Xq.html) |
 | [2020/03/20 21:00](https://t.bilibili.com/504041925752734315) | Bilibili |  |  |  | 生日 |
 | [2020/03/19 23:00](https://twitter.com/hanamaruhareru/status/1372822629552254977) | YouTube |  |  |  | 生日 |
 | [2021/03/14 21:00](https://t.bilibili.com/501815410407366776) | Bilibili |  | Z | [X](https://t.bilibili.com/502063745418151628) |  |
@@ -80,11 +82,11 @@
 | [2020/09/27 22:00](https://t.bilibili.com/439473118294269122) | Bilibili |  | Z | [X](https://t.bilibili.com/439729695343435434) |  |
 | [2020/09/13 22:00](https://t.bilibili.com/434277938741823926) | Bilibili |  | BZ | [X](https://t.bilibili.com/434531255906706886) |  |
 | [2020/09/09 21:00](https://twitter.com/hanamaruhareru/status/1303637296709693440) | YouTube | Y | Z |  |  |
-| [2020/08/29 22:00](https://t.bilibili.com/428711639646550812) | YouTube, Bilibili |  |  |  |  |
-| [2020/08/25 23:30](https://t.bilibili.com/427227290363852569) | Bilibili |  |  | [X](https://t.bilibili.com/427497091618374640) | [虚拟主播陪你过七夕](https://www.bilibili.com/blackboard/dynamic/3332) |
-| [2020/08/16 22:00](https://t.bilibili.com/423887532381073602) | Bilibili |  |  | [X](https://t.bilibili.com/424139483756088323) |  |
-| [2020/08/07 21:00](https://t.bilibili.com/420547774398023452) | YouTube, Bilibili |  |  |  | [一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
-| [2020/08/02 23:00](https://t.bilibili.com/418692322757812311) | Bilibili |  |  | [X](https://t.bilibili.com/418960217046475127) |  |
+| [2020/08/29 22:00](https://t.bilibili.com/428711639646550812) | YouTube, Bilibili | Y | BZ |  |  |
+| [2020/08/25 23:30](https://t.bilibili.com/427227290363852569) | Bilibili |  | Z | [X](https://t.bilibili.com/427497091618374640) | [虚拟主播陪你过七夕](https://www.bilibili.com/blackboard/dynamic/3332) |
+| [2020/08/16 22:00](https://t.bilibili.com/423887532381073602) | Bilibili |  | BZ | [X](https://t.bilibili.com/424139483756088323) |  |
+| [2020/08/07 21:00](https://t.bilibili.com/420547774398023452) | YouTube, Bilibili | YB |  |  | [一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
+| [2020/08/02 23:00](https://t.bilibili.com/418692322757812311) | Bilibili |  | BZ | [X](https://t.bilibili.com/418960217046475127) |  |
 | [2020/07/25 21:00](https://twitter.com/hanamaruhareru/status/1286982535126253568) | YouTube |  |  |  |  |
 | [2020/07/19 22:00](https://t.bilibili.com/413710779171222092) | Bilibili |  |  | [X](https://t.bilibili.com/413746869778485683) |  |
 | [2020/07/11 23:00](https://t.bilibili.com/410528457511082234) | Bilibili |  |  |  | [此间少年——虚拟主播致青春主题活动](https://www.bilibili.com/blackboard/dynamic/2704) |
@@ -138,6 +140,8 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| さよならメモリーズ | B | 2021/04/27 | 2021/04/03 |
+| うまぴょい伝説 | B | 2021/04/26 | 2021/04/16 |
 | ありがとう・・・ | B | 2021/04/05 | 2021/03/14 |
 | you -Visionen im Spiegel | B | 2021/03/30 | 2021/01/31 |
 | 小さな恋のうた | B | 2021/03/07 | 2021/02/14 |
@@ -164,6 +168,8 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/04/24 21:00](https://t.bilibili.com/517107194794862858) | Bilibili |  | W | [X](https://t.bilibili.com/517270906055103394) |  |
+| [2021/04/22 21:00](https://twitter.com/kohigashihitona/status/1385069554389250049) | YouTube | Y | W |  |  |
 | [2021/04/09 21:00](https://t.bilibili.com/511540951537280852) | Bilibili |  | W | [X](https://t.bilibili.com/511705173900557797) |  |
 | [2021/03/26 21:00](https://t.bilibili.com/506345754795494074) | Bilibili |  | W | [X](https://t.bilibili.com/506508229112399144) |  |
 | [2021/03/09 21:00](https://t.bilibili.com/500037293953876307) | Bilibili |  | W | [X](https://t.bilibili.com/500207022467290178) |  |
@@ -188,9 +194,9 @@ B站歌回切片单曲更新状态：
 | [2020/09/22 21:00](https://t.bilibili.com/437694963179775389) | Bilibili |  | BW | [X](https://t.bilibili.com/437849843992000507) |  |
 | [2020/09/12 20:00](https://t.bilibili.com/434355200903531531) | Bilibili |  |  | [X](https://t.bilibili.com/434495590503345694) |  |
 | [2020/09/08 21:00](https://twitter.com/kohigashihitona/status/1303301706990592002) | YouTube | Y | BW |  |  |
-| [2020/08/25 20:00](https://t.bilibili.com/427304599770304481) | Bilibili |  |  | [X](https://t.bilibili.com/427446681584659044) | [虚拟主播陪你过七夕](https://www.bilibili.com/blackboard/dynamic/3332) |
-| [2020/08/11 21:00](https://t.bilibili.com/422109420214156535) | Bilibili |  |  | [X](https://t.bilibili.com/422264305324818174) |  |
-| [2020/08/07 22:00](https://t.bilibili.com/420625075222883606) | YouTube, Bilibili |  |  |  | [一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
+| [2020/08/25 20:00](https://t.bilibili.com/427304599770304481) | Bilibili |  | W* | [X](https://t.bilibili.com/427446681584659044) | [虚拟主播陪你过七夕](https://www.bilibili.com/blackboard/dynamic/3332) |
+| [2020/08/11 21:00](https://t.bilibili.com/422109420214156535) | Bilibili |  | W* | [X](https://t.bilibili.com/422264305324818174) |  |
+| [2020/08/07 22:00](https://t.bilibili.com/420625075222883606) | YouTube, Bilibili | YB |  |  | [一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
 | [2020/07/21 21:00](https://t.bilibili.com/414337711252575090) | Bilibili |  |  | [X](https://t.bilibili.com/414456312479140419) |  |
 | [2020/07/12 20:00](https://twitter.com/kohigashihitona/status/1282147671789015040) | YouTube |  |  |  |  |
 | [2020/07/10 20:00](https://t.bilibili.com/410234698927673793) | Bilibili |  |  | [X](https://t.bilibili.com/410373396306332731) | [此间少年——虚拟主播致青春主题活动](https://www.bilibili.com/blackboard/dynamic/2704) |
@@ -227,6 +233,7 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| タッチ | B | 2021/04/26 | 2021/04/22 |
 | 天使にふれたよ！ | B | 2021/03/26 | 2021/03/02 |
 | ドライフラワー | B | 2021/02/05 | 2021/01/17 |
 | 廻廻奇譚 | B | 2021/01/14 | 2021/01/02 |

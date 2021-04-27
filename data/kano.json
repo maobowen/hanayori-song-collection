@@ -131,5 +131,37 @@
       "otherArtists": ["hareru", "ruki", "yousa", "kagura-mea", "mononobe-alice", "shirakami-fubuki", "natsuiro-matsuri"],
       "notes": "哔哩哔哩2020拜年祭"
     }
+  ],
+  "live": [
+    {
+      "name": "自己紹介の歌",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-08-07T23:00:00.000Z",
+        "youtube": {"id": "EFnkyA_taPA", "t": 4500},
+        "bilibili": {"id": "BV1354y1U7Un", "t": 4520},
+        "notes": "3Dお披露目&1周年記念配信"
+      }]
+    },
+    {
+      "name": "ワールドイズマイン",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-08-07T23:00:00.000Z",
+        "youtube": {"id": "EFnkyA_taPA", "t": 4679},
+        "bilibili": {"id": "BV1354y1U7Un", "t": 4699},
+        "notes": "3Dお披露目&1周年記念配信"
+      }]
+    },
+    {
+      "name": "愛言葉Ⅲ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-08-07T23:00:00.000Z",
+        "youtube": {"id": "EFnkyA_taPA", "t": 5068},
+        "bilibili": {"id": "BV1354y1U7Un", "t": 5088},
+        "notes": "3Dお披露目&1周年記念配信"
+      }]
+    }
   ]
 }
