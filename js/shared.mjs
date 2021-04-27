@@ -57,7 +57,9 @@ export const ARTISTS = new Map([
     bilibili: 316381099,
     resources: {
       avatar: 'images/avatar_kano.jpg',
-      banner: 'images/banner_kano.jpg'
+      avatarNew: 'images/avatar_kano_current.jpg',
+      banner: 'images/banner_kano.jpg',
+      color: '#ea9a94'
     },
     profile: {
       nameCN: '鹿乃',
@@ -78,7 +80,9 @@ export const ARTISTS = new Map([
     bilibili: 441403698,
     resources: {
       avatar: 'images/avatar_nonono.jpg',
-      banner: 'images/banner_nonono.jpg'
+      avatarNew: 'images/avatar_nonono.jpg',
+      banner: 'images/banner_nonono.jpg',
+      color: '#70d8f0'
     },
     profile: {
       nameCN: '野野宮ののの',
@@ -99,7 +103,9 @@ export const ARTISTS = new Map([
     bilibili: 441381282,
     resources: {
       avatar: 'images/avatar_hareru.jpg',
-      banner: 'images/banner_hareru.jpg'
+      avatarNew: 'images/avatar_hareru_current.jpg',
+      banner: 'images/banner_hareru.jpg',
+      color: '#ffca46'
     },
     profile: {
       nameCN: '花丸晴琉',
@@ -120,7 +126,9 @@ export const ARTISTS = new Map([
     bilibili: 441382432,
     resources: {
       avatar: 'images/avatar_hitona.jpg',
-      banner: 'images/banner_hitona.jpg'
+      avatarNew: 'images/avatar_hitona_current.jpg',
+      banner: 'images/banner_hitona.jpg',
+      color: '#9ce376'
     },
     profile: {
       nameCN: '小东人魚',
@@ -186,6 +194,6 @@ export const HANAYORI_MEMBER_IDS = ['kano', 'nonono', 'hareru', 'hitona'];
  * negative page numbers can be used in JSON files.
  */
 export const BILIBILI_PLAYLIST_PAGES = new Map([
-  ['BV1jE411X7hH', 77],
-  ['BV1PE411R7w2', 48]
+  ['BV1jE411X7hH', 79],  // Hareru
+  ['BV1PE411R7w2', 48]   // Hitona
 ]);

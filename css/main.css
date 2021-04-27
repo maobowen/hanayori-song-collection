@@ -45,6 +45,12 @@ main {
   width: 100%;
 }
 
+.banner svg {
+  height: auto;
+  max-width: 80px;
+  width: 10vw;
+}
+
 /* GitHub Corners: https://tholman.com/github-corners/ */
 @keyframes octocat-wave {
   0%, 100% { transform:rotate(0); }
@@ -136,6 +142,20 @@ section table tr th, section table tr td {
 .other-artists {
   font-size: 0.75rem;
 }
+
+/* APlayer: https://aplayer.js.org/#/zh-Hans/ */
+.aplayer {
+  opacity: .92;
+}
+
+.aplayer.aplayer-fixed, .aplayer.aplayer-fixed .aplayer-body {
+  max-width: 450px;
+}
+
+.aplayer .aplayer-list-title, .aplayer .aplayer-title {
+  color: #000;
+}
+/* End of APlayer */
 
 footer {
   background-color: var(--dark-card);

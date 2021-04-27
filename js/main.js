@@ -84,6 +84,18 @@ class BilibiliSource extends Source {
     let isFirstParameter = { val: false };
     return this.buildUrl(url, isFirstParameter, 'page', 't');
   }
+
+  /**
+   * Get the direct URL of the audio source.
+   * @return {string} Direct URL of the audio source.
+   */
+  get audioDirectUrl() {
+    if (this.t !== 0) {
+      return null;
+    }
+    let p = this.p === 0 ? 1 : this.p;
+    return `https://1420723207941484.us-west-1.fc.aliyuncs.com/2016-08-15/proxy/bilibili/extractor/?audioOnly=1&bvid=${this.id}&p=${p}`;
+  }
 }
 
 /** Class representing a YouTube video source. */
@@ -179,6 +191,10 @@ const NICONICO_ICON = '<svg width="1em" height="1em" version="1.1" xmlns="http:/
 const YOUTUBE_ICON = '<svg width="1.3em" height="1.3em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-youtube" /></svg>';
 // Other constants
 const SECTIONS = ['pv', 'special', 'live'];
+// Global variables for APlayer
+let aplayer = null;
+let aplayerPvPlaylist = [];
+let shouldResumeAplayer = false;
 
 // Get query strings from URL: https://stackoverflow.com/a/2880929
 let urlParams = {};
@@ -267,9 +283,11 @@ const renderPage = (memberId) => {
  * Render song section.
  * @function renderSection
  * @param {string} section A section ID.
+ * @param {string} memberId A member ID.
  * @param {Song[]} songs An array of Song objects.
  */
-const renderSection = (section, songs) => {
+const renderSection = (section, memberId, songs) => {
+  const member = ARTISTS.get(memberId);
   if (songs && songs.length) {
     $(`#${section}-section table tbody`).empty();
     $(`#${section}-section h5`).text($(`#${section}-section h5`).text() + ` (${songs.length})`);
@@ -278,18 +296,23 @@ const renderSection = (section, songs) => {
       let songNameHtml = song.name;
       // Build HTML for collaborators
       let otherArtistsHtml = '';
+      let otherArtistsPlainText = '';
       if (Array.isArray(song.otherArtists)) {
         for (let i = 0; i < song.otherArtists.length; i++) {
           const otherArtist = song.otherArtists[i];
           if (otherArtist instanceof HanayoriMember) {
             otherArtistsHtml += `<a href="./?v=${otherArtist.id}">${otherArtist.name}</a>`;
+            otherArtistsPlainText += otherArtist.name;
           } else if (otherArtist instanceof Artist) {
             otherArtistsHtml += otherArtist.name;
+            otherArtistsPlainText += otherArtist.name;
           } else {
             otherArtistsHtml += otherArtist;
+            otherArtistsPlainText += otherArtist;
           }
           if (i < song.otherArtists.length - 1) {
             otherArtistsHtml += '・';
+            otherArtistsPlainText += ', ';
           }
         }
       }
@@ -306,6 +329,15 @@ const renderSection = (section, songs) => {
               sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}">${YOUTUBE_ICON}</a>`;
             } else if (source instanceof BilibiliSource) {
               sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+              // Add song to APlayer's playlist
+              if (section === 'pv' && source.audioDirectUrl) {
+                aplayerPvPlaylist.push({
+                  name: song.name,
+                  artist: member.name + (otherArtistsPlainText ? ', ' + otherArtistsPlainText : ''),
+                  url: source.audioDirectUrl,
+                  cover: member.resources.avatarNew
+                });
+              }
             }
           }
         }
@@ -397,7 +429,7 @@ const renderHomepage = () => {
   $('#home-container .row').empty();
   for (const memberId of HANAYORI_MEMBER_IDS) {
     const member = ARTISTS.get(memberId);
-    $('#home-container .row').append(`<div class="col-6 col-md-3">
+    $('#home-container .row').append(`<div class="col-6 col-md-3 mb-2">
         <a href="./?v=${memberId}">
           <img alt="Avatar of ${member.profile.nameEN}" class="avatar rounded-circle" src="${member.resources.avatar}" />
         </a>
@@ -420,7 +452,7 @@ const renderHomepage = () => {
           </a>
         </div>
         <div class="text-center">
-          <ul class="list-unstyled mb-0 mt-3">
+          <ul class="list-unstyled mb-0 mt-2">
             <li>${member.profile.nameCN}</li>
             <li>${member.profile.nameEN}</li>
             <li>${member.profile.class}年生</li>
@@ -440,7 +472,22 @@ $(document).ready(async () => {
       const songSections = processJSON(json);
       renderPage(memberId);
       for (let i = 0; i < songSections.length; i++) {
-        renderSection(SECTIONS[i], songSections[i]);
+        renderSection(SECTIONS[i], memberId, songSections[i]);
+      }
+      // Create APlayer: https://aplayer.js.org/#/zh-Hans/
+      if (aplayerPvPlaylist.length) {
+        aplayer = new APlayer({
+          audio: aplayerPvPlaylist,
+          container: $('#aplayer')[0],
+          fixed: true,
+          listFolded: true,
+          preload: 'none',
+          theme: ARTISTS.get(memberId).resources.color,
+          volume: .5
+        });
+        if ($(window).width() >= 992) {
+          aplayer.setMode('normal');
+        }
       }
     } else {
       renderHomepage();
@@ -458,15 +505,33 @@ $(document).ready(async () => {
       textColor: '#fff'
     });
   }
+});
 
-  // Stick the sidebar when scrolling
-  $(window).on('scroll', () => {
-    if ($(window).width() >= 992) {
-      if ($(window).scrollTop() > $('header.banner').outerHeight()) {
-        $('aside').addClass('affix-top');
-      } else {
-        $('aside').removeClass('affix-top');
-      }
+// Stick the sidebar when scrolling
+$(window).on('scroll', () => {
+  if ($(window).width() >= 992) {
+    if ($(window).scrollTop() > $('header.banner').outerHeight()) {
+      $('aside').addClass('affix-top');
+    } else {
+      $('aside').removeClass('affix-top');
     }
-  });
+  }
+});
+
+// Pause APlayer when opening a video
+$(document).on('lity:open', (event, instance) => {
+  if (aplayer instanceof APlayer) {
+    if (!aplayer.audio.paused) {
+      shouldResumeAplayer = true;
+    }
+    aplayer.pause();
+  }
+});
+
+// Resume APlayer after video is closed
+$(document).on('lity:remove', function(event, instance) {
+  if (aplayer instanceof APlayer && shouldResumeAplayer) {
+    shouldResumeAplayer = false;
+    aplayer.play();
+  }
 });
