@@ -229,6 +229,288 @@
   ],
   "live": [
     {
+      "name": "コネクト",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 412},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 1}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "ライオン",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 707},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 2}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "打上花火",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 1566},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 3}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "Preserved Roses",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 1874},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 4}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "Snow halation",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 2705},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 5}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "オリオンをなぞる",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 2975},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 6}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "君の知らない物語",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 3651},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 7}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "革命デュアリズム",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 4011},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 8}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "うまぴょい伝説",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 4655},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 9}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "紅蓮華",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 4938},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 10}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "トライアングラー",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 5375},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 11}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+
+    {
+      "name": "Butter-Fly",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 1}
+      }]
+    },
+    {
+      "name": "ライオン",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 2}
+      }]
+    },
+    {
+      "name": "ギラギラ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 3}
+      }, {
+        "date": "2021-03-06T12:00:00.000Z",
+        "youtube": {"id": "xwfgIntNmrY", "t": 1158},
+        "bilibiliCutoutU": {"id": "BV1Jy4y1872q", "p": 2}
+      }]
+    },
+    {
+      "name": "トライアングラー",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 4}
+      }]
+    },
+    {
+      "name": "ガーネット",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 5}
+      }]
+    },
+    {
+      "name": "错位时空",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 6}
+      }]
+    },
+    {
+      "name": "小さきもの",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 7}
+      }, {
+        "date": "2020-08-25T14:30:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 6}
+      }]
+    },
+    {
+      "name": "メドレー：Q&A リサイタル!、白金ディスコ、ふわふわ時間、crossing field、God knows...、ブルーバード、シルシ、Northern lights",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 8}
+      }]
+    },
+    {
+      "name": "unravel",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 9}
+      }]
+    },
+    {
+      "name": "竈門炭治郎のうた",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 10}
+      }, {
+        "date": "2020-12-27T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1Cv411e7uL"},
+        "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 10}
+      }]
+    },
+    {
+      "name": "炎",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 11}
+      }, {
+        "date": "2021-02-07T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1uz4y1U7QJ", "p": 7}
+      }, {
+        "date": "2020-12-30T13:00:00.000Z",
+        "youtube": {"id": "1FY3NjDLL70", "t": 4645},
+        "bilibiliCutoutU": {"id": "BV1TK4y157gt", "p": 9}
+      }, {
+        "date": "2020-12-12T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1Cp4y1q7iS", "p": 7}
+      }, {
+        "date": "2020-11-15T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1fK4y1Z7rA", "p": 8}
+      }, {
+        "date": "2020-11-03T13:00:00.000Z",
+        "youtube": {"id": "s4H11k12WIU", "t": 3064},
+        "bilibiliCutoutU": {"id": "BV1Xp4y1k7n2", "p": 6}
+      }, {
+        "date": "2020-10-17T15:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 1}
+      }]
+    },
+    {
+      "name": "紅蓮華",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 12}
+      }, {
+        "date": "2020-12-30T13:00:00.000Z",
+        "youtube": {"id": "1FY3NjDLL70", "t": 5484},
+        "bilibiliCutoutU": {"id": "BV1TK4y157gt", "p": 11}
+      }, {
+        "date": "2020-11-03T13:00:00.000Z",
+        "youtube": {"id": "s4H11k12WIU", "t": 3677},
+        "bilibiliCutoutU": {"id": "BV1Xp4y1k7n2", "p": 7}
+      }, {
+        "date": "2020-09-09T12:00:00.000Z",
+        "youtube": {"id": "JZ8Hrsa3CYE", "t": 3180},
+        "bilibiliCutoutU": {"id": "BV1Ly4y1y7Td", "p": 6}
+      }, {
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 1}
+      }]
+    },
+    {
+      "name": "一番の宝物",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 13}
+      }, {
+        "date": "2021-02-21T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1DV411e76x", "p": 13}
+      }, {
+        "date": "2021-01-24T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV17t4y16757", "p": 13}
+      }, {
+        "date": "2020-10-24T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1EV411y7zz", "p": 11}
+      }]
+    },
+    {
+      "name": "みちしるべ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 14}
+      }, {
+        "date": "2020-11-22T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1bp4y1r7eT", "p": 5}
+      }]
+    },
+
+    {
       "name": "うまぴょい伝説",
       "language": "ja",
       "clips": [{
@@ -253,6 +535,7 @@
       }, {
         "date": "2021-04-16T13:00:00.000Z",
         "youtube": {"id": "H2R-kuqY6Fg", "t": 1160},
+        "bilibiliCutoutO": {"id": "BV1z54y157RS"},
         "bilibiliCutoutU": {"id": "BV1y5411c7gV", "p": 2}
       }]
     },
@@ -278,6 +561,11 @@
       }, {
         "date": "2020-10-06T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1pA411775h", "p": 12}
+      }, {
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 4294},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 9},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 9}
       }]
     },
     {
@@ -337,7 +625,7 @@
         "date": "2020-10-06T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1pA411775h", "p": 11}
       }, {
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 7}
       }]
     },
@@ -373,6 +661,7 @@
       "clips": [{
         "date": "2021-04-16T13:00:00.000Z",
         "youtube": {"id": "H2R-kuqY6Fg", "t": 1568},
+        "bilibiliCutoutO": {"id": "BV1dB4y1c7nJ"},
         "bilibiliCutoutU": {"id": "BV1y5411c7gV", "p": 3}
       }, {
         "date": "2021-04-03T12:00:00.000Z",
@@ -385,6 +674,7 @@
       "clips": [{
         "date": "2021-04-16T13:00:00.000Z",
         "youtube": {"id": "H2R-kuqY6Fg", "t": 2053},
+        "bilibiliCutoutO": {"id": "BV1R84y1F7hA"},
         "bilibiliCutoutU": {"id": "BV1y5411c7gV", "p": 4}
       }, {
         "date": "2021-04-03T12:00:00.000Z",
@@ -418,6 +708,7 @@
         "bilibiliCutoutU": {"id": "BV1y5411c7gV", "p": 7}
       }, {
         "date": "2021-04-03T12:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1984y1F7EP"},
         "bilibiliCutoutU": {"id": "BV1WB4y1w7PD", "p": 11}
       }, {
         "date": "2021-03-06T12:00:00.000Z",
@@ -469,6 +760,11 @@
       }, {
         "date": "2020-10-17T15:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 7}
+      }, {
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 3355},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 7},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 7}
       }]
     },
     {
@@ -490,7 +786,7 @@
         "bilibili": {"id": "BV1Zy4y1k7qh", "t": 3444},
         "notes": "3Dお披露目"
       }, {
-        "date": "2020-08-07T21:00:00.000Z",
+        "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 2984},
         "bilibili": {"id": "BV1yi4y1u7s3", "t": 2984},
         "notes": "1周年記念配信"
@@ -616,7 +912,7 @@
         "date": "2021-01-31T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1Xy4y1J77P", "p": 12}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 11},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 11}
       }]
@@ -728,7 +1024,7 @@
         "date": "2021-03-14T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1YX4y137uA", "p": 1}
       }, {
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 4}
       }]
     },
@@ -859,19 +1155,10 @@
         "youtube": {"id": "xwfgIntNmrY", "t": 643},
         "bilibiliCutoutU": {"id": "BV1Jy4y1872q", "p": 1}
       }, {
-        "date": "2020-08-29T22:00:00.000Z",
+        "date": "2020-08-29T13:00:00.000Z",
         "youtube": {"id": "xtuPXCO9y_8", "t": 1206},
         "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 2},
         "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 2}
-      }]
-    },
-    {
-      "name": "ギラギラ",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-03-06T12:00:00.000Z",
-        "youtube": {"id": "xwfgIntNmrY", "t": 1158},
-        "bilibiliCutoutU": {"id": "BV1Jy4y1872q", "p": 2}
       }]
     },
     {
@@ -982,6 +1269,9 @@
       "clips": [{
         "date": "2021-02-21T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1DV411e76x", "p": 2}
+      }, {
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 9}
       }]
     },
     {
@@ -994,7 +1284,7 @@
         "date": "2021-01-03T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1oa4y1n7ao", "p": 13}
       }, {
-        "date": "2020-08-07T21:00:00.000Z",
+        "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 1502},
         "bilibili": {"id": "BV1yi4y1u7s3", "t": 1503},
         "notes": "1周年記念配信"
@@ -1072,7 +1362,7 @@
         "date": "2020-10-24T11:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1EV411y7zz", "p": 7}
       }, {
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 8}
       }]
     },
@@ -1090,20 +1380,6 @@
       "clips": [{
         "date": "2021-02-21T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1DV411e76x", "p": 12}
-      }]
-    },
-    {
-      "name": "一番の宝物",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-02-21T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1DV411e76x", "p": 13}
-      }, {
-        "date": "2021-01-24T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV17t4y16757", "p": 13}
-      }, {
-        "date": "2020-10-24T11:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1EV411y7zz", "p": 11}
       }]
     },
     {
@@ -1209,7 +1485,7 @@
         "bilibili": {"id": "BV1BK4y1h7ui", "t": 222},
         "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战IV"
       }, {
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 5}
       }]
     },
@@ -1279,7 +1555,7 @@
         "date": "2021-02-07T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1uz4y1U7QJ", "p": 4}
       }, {
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 1},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 1}
       }]
@@ -1290,31 +1566,6 @@
       "clips": [{
         "date": "2021-02-07T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1uz4y1U7QJ", "p": 6}
-      }]
-    },
-    {
-      "name": "炎",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-02-07T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1uz4y1U7QJ", "p": 7}
-      }, {
-        "date": "2020-12-30T13:00:00.000Z",
-        "youtube": {"id": "1FY3NjDLL70", "t": 4645},
-        "bilibiliCutoutU": {"id": "BV1TK4y157gt", "p": 9}
-      }, {
-        "date": "2020-12-12T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1Cp4y1q7iS", "p": 7}
-      }, {
-        "date": "2020-11-15T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1fK4y1Z7rA", "p": 8}
-      }, {
-        "date": "2020-11-03T13:00:00.000Z",
-        "youtube": {"id": "s4H11k12WIU", "t": 3064},
-        "bilibiliCutoutU": {"id": "BV1Xp4y1k7n2", "p": 6}
-      }, {
-        "date": "2020-10-17T15:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 1}
       }]
     },
     {
@@ -1356,7 +1607,7 @@
         "date": "2021-02-07T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1uz4y1U7QJ", "p": 12}
       }, {
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 10},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 10}
       }]
@@ -1471,10 +1722,13 @@
         "youtube": {"id": "8fg6K1fgAmE", "t": 1167},
         "bilibiliCutoutU": {"id": "BV1Fv411s7oT", "p": 2}
       }, {
-        "date": "2020-08-29T22:00:00.000Z",
+        "date": "2020-08-29T13:00:00.000Z",
         "youtube": {"id": "xtuPXCO9y_8", "t": 743},
         "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 1},
         "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 1}
+      }, {
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 10}
       }]
     },
     {
@@ -1494,7 +1748,7 @@
         "youtube": {"id": "8fg6K1fgAmE", "t": 2340},
         "bilibiliCutoutU": {"id": "BV1Fv411s7oT", "p": 5}
       }, {
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 6},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 6}
       }]
@@ -1549,6 +1803,10 @@
         "date": "2021-01-26T11:00:00.000Z",
         "youtube": {"id": "8fg6K1fgAmE", "t": 6728},
         "bilibiliCutoutU": {"id": "BV1Fv411s7oT", "p": 14}
+      }, {
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 6056},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 11}
       }]
     },
     
@@ -1615,7 +1873,7 @@
         "date": "2021-01-24T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV17t4y16757", "p": 12}
       }, {
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 9},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 9}
       }]
@@ -1793,10 +2051,13 @@
         "youtube": {"id": "1FY3NjDLL70", "t": 1040},
         "bilibiliCutoutU": {"id": "BV1TK4y157gt", "p": 2}
       }, {
-        "date": "2020-08-29T22:00:00.000Z",
+        "date": "2020-08-29T13:00:00.000Z",
         "youtube": {"id": "xtuPXCO9y_8", "t": 2480},
         "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 5},
         "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 5}
+      }, {
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 7}
       }]
     },
     {
@@ -1829,7 +2090,7 @@
         "date": "2020-09-27T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1zi4y177y1", "p": 4}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 6},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 6}
       }]
@@ -1842,9 +2103,14 @@
         "youtube": {"id": "1FY3NjDLL70", "t": 2294},
         "bilibiliCutoutU": {"id": "BV1TK4y157gt", "p": 5}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 3},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 3}
+      }, {
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 1428},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 3},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 3}
       }]
     },
     {
@@ -1867,7 +2133,7 @@
         "date": "2020-10-24T11:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1EV411y7zz", "p": 8}
       }, {
-        "date": "2020-08-29T22:00:00.000Z",
+        "date": "2020-08-29T13:00:00.000Z",
         "youtube": {"id": "xtuPXCO9y_8", "t": 3043},
         "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 6},
         "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 6}
@@ -1896,23 +2162,6 @@
       }]
     },
     {
-      "name": "紅蓮華",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-12-30T13:00:00.000Z",
-        "youtube": {"id": "1FY3NjDLL70", "t": 5484},
-        "bilibiliCutoutU": {"id": "BV1TK4y157gt", "p": 11}
-      }, {
-        "date": "2020-11-03T13:00:00.000Z",
-        "youtube": {"id": "s4H11k12WIU", "t": 3677},
-        "bilibiliCutoutU": {"id": "BV1Xp4y1k7n2", "p": 7}
-      }, {
-        "date": "2020-09-09T12:00:00.000Z",
-        "youtube": {"id": "JZ8Hrsa3CYE", "t": 3180},
-        "bilibiliCutoutU": {"id": "BV1Ly4y1y7Td", "p": 6}
-      }]
-    },
-    {
       "name": "自己紹介の歌",
       "language": "ja",
       "clips": [{
@@ -1925,7 +2174,7 @@
         "bilibili": {"id": "BV1Zy4y1k7qh", "t": 229},
         "notes": "3Dお披露目"
       }, {
-        "date": "2020-08-07T21:00:00.000Z",
+        "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 533},
         "bilibili": {"id": "BV1yi4y1u7s3", "t": 534},
         "notes": "1周年記念配信"
@@ -1966,15 +2215,6 @@
       "clips": [{
         "date": "2020-12-27T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 7}
-      }]
-    },
-    {
-      "name": "竈門炭治郎のうた",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-12-27T13:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1Cv411e7uL"},
-        "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 10}
       }]
     },
     {
@@ -2052,12 +2292,12 @@
         "youtube": {"id": "RRowRbOT9ac", "t": 3939},
         "bilibiliCutoutU": {"id": "BV1Rv41147vh", "p": 7}
       }, {
-        "date": "2020-08-29T22:00:00.000Z",
+        "date": "2020-08-29T13:00:00.000Z",
         "youtube": {"id": "xtuPXCO9y_8", "t": 1641},
         "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 3},
         "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 3}
       }, {
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 3}
       }]
     },
@@ -2094,6 +2334,11 @@
       "clips": [{
         "date": "2020-12-12T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1Cp4y1q7iS", "p": 2}
+      }, {
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 2599},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 5},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 5}
       }]
     },
     {
@@ -2184,7 +2429,7 @@
         "youtube": {"id": "ltjgYYLIb0U", "t": 7900},
         "bilibiliCutoutU": {"id": "BV11y4y1v7qN", "p": 14}
       }, {
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 1}
       }]
     },
@@ -2283,7 +2528,7 @@
         "date": "2020-11-29T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1ki4y1V7PG", "p": 15}
       }, {
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 10}
       }]
     },
@@ -2322,14 +2567,6 @@
       }]
     },
     {
-      "name": "みちしるべ",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-11-22T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1bp4y1r7eT", "p": 5}
-      }]
-    },
-    {
       "name": "Sincerely",
       "language": "ja",
       "clips": [{
@@ -2343,6 +2580,9 @@
       "clips": [{
         "date": "2020-11-22T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1bp4y1r7eT", "p": 7}
+      }, {
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 8}
       }]
     },
     {
@@ -2464,7 +2704,7 @@
       }]
     },
     {
-      "name": "ジブリメドレー：カントリーロード、ルージュの伝言、崖の上のポニョ、君をのせて、いのちの名前、となりのトトロ",
+      "name": "ジブリメドレー：カントリー・ロード、ルージュの伝言、崖の上のポニョ、君をのせて、いのちの名前、となりのトトロ",
       "language": "ja",
       "clips": [{
         "date": "2020-11-03T13:00:00.000Z",
@@ -2489,7 +2729,7 @@
         "date": "2020-10-24T11:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1EV411y7zz", "p": 3}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 5},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 5}
       }]
@@ -2541,6 +2781,9 @@
       "clips": [{
         "date": "2020-10-17T15:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 2}
+      }, {
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 3}
       }]
     },
     {
@@ -2558,7 +2801,7 @@
         "date": "2020-10-17T15:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 4}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 8},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 8}
       }]
@@ -2577,6 +2820,9 @@
       "clips": [{
         "date": "2020-10-17T15:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 6}
+      }, {
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 3}
       }]
     },
     {
@@ -2594,7 +2840,7 @@
         "date": "2020-10-17T15:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 9}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 9},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 9}
       }]
@@ -2621,6 +2867,11 @@
       "clips": [{
         "date": "2020-10-17T15:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 12}
+      }, {
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 2993},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 6},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 6}
       }]
     },
 
@@ -2690,7 +2941,7 @@
         "bilibili": {"id": "BV1Zy4y1k7qh", "t": 678},
         "notes": "3Dお披露目"
       }, {
-        "date": "2020-08-07T21:00:00.000Z",
+        "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 1105},
         "bilibili": {"id": "BV1yi4y1u7s3", "t": 1106},
         "notes": "1周年記念配信"
@@ -2708,6 +2959,9 @@
         "date": "2020-09-09T12:00:00.000Z",
         "youtube": {"id": "JZ8Hrsa3CYE", "t": 2846},
         "bilibiliCutoutU": {"id": "BV1Ly4y1y7Td", "p": 5}
+      }, {
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 2}
       }]
     },
     {
@@ -2751,7 +3005,7 @@
         "date": "2020-09-27T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1zi4y177y1", "p": 6}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 1},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 1}
       }]
@@ -2838,7 +3092,7 @@
         "youtube": {"id": "JZ8Hrsa3CYE", "t": 3676},
         "bilibiliCutoutU": {"id": "BV1Ly4y1y7Td", "p": 7}
       }, {
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 2},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 2}
       }]
@@ -2857,7 +3111,7 @@
       "name": "Ur-Style",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-29T22:00:00.000Z",
+        "date": "2020-08-29T13:00:00.000Z",
         "youtube": {"id": "xtuPXCO9y_8", "t": 2021},
         "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 4},
         "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 4}
@@ -2867,7 +3121,7 @@
       "name": "心做し",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-29T22:00:00.000Z",
+        "date": "2020-08-29T13:00:00.000Z",
         "youtube": {"id": "xtuPXCO9y_8", "t": 3681},
         "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 7},
         "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 7}
@@ -2878,23 +3132,15 @@
       "name": "When You Wish Upon a Star",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 2}
-      }]
-    },
-    {
-      "name": "小さきもの",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-08-25T23:30:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 6}
       }]
     },
     {
       "name": "七夕メドレー：愛を伝えたいだとか、創聖のアクエリオン、プラネタリウム、回る空うさぎ、小さな恋のうた",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-25T23:30:00.000Z",
+        "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 9}
       }]
     },
@@ -2903,7 +3149,7 @@
       "name": "summertime",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 2},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 2}
       }]
@@ -2912,7 +3158,7 @@
       "name": "夏恋花火",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 3},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 3}
       }]
@@ -2921,7 +3167,7 @@
       "name": "うたかた花火",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 4},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 4}
       }]
@@ -2930,7 +3176,7 @@
       "name": "打上花火",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 5},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 5}
       }]
@@ -2939,7 +3185,7 @@
       "name": "泡沫サタデーナイト！",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 7},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 7}
       }]
@@ -2948,7 +3194,7 @@
       "name": "夏の歌メドレー：夏、終わらないで。、夏色えがおで1,2,Jump!、鳥の詩、金魚花火、you -Visionen im Spiegel",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-16T22:00:00.000Z",
+        "date": "2020-08-16T13:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1m64y1c7mK", "p": 8},
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 8}
       }]
@@ -2958,16 +3204,21 @@
       "name": "まちがいさがし",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 4},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 4}
+      }, {
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 2016},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 4},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 4}
       }]
     },
     {
       "name": "アイロニ",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 7},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 7}
       }]
@@ -2976,7 +3227,7 @@
       "name": "メドレー：おじゃま虫、太陽系デスコ、プラネタリウム、津軽海峡・冬景色、もののけ姫",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-02T23:00:00.000Z",
+        "date": "2020-08-02T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 10},
         "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 10}
       }]
@@ -2986,10 +3237,141 @@
       "name": "ありがとうを伝えたい",
       "language": "ja",
       "clips": [{
-        "date": "2020-08-07T21:00:00.000Z",
+        "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 2539},
         "bilibili": {"id": "BV1yi4y1u7s3", "t": 2539},
         "notes": "1周年記念配信"
+      }]
+    },
+
+    {
+      "name": "少女レイ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 437},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 1},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 1}
+      }]
+    },
+    {
+      "name": "海の幽霊",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 990},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 2},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 2}
+      }]
+    },
+    {
+      "name": "乙女解剖",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 3965},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 8},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 8}
+      }]
+    },
+    {
+      "name": "ジブリメドレー：やさしさに包まれたなら、ルージュの伝言、カントリー・ロード、君をのせて、もののけ姫、いのちの名前",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-25T12:00:00.000Z",
+        "youtube": {"id": "UKFDNWeGxOs", "t": 4709},
+        "bilibiliCutoutO": {"id": "BV1Dk4y117wU", "p": 10},
+        "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 10}
+      }]
+    },
+
+    {
+      "name": "砂の惑星",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 1}
+      }]
+    },
+    {
+      "name": "弱虫モンブラン",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 2}
+      }]
+    },
+    {
+      "name": "VOCALOIDメドレー：どうぶつ占い、からくりピエロ、失う、いーあるふぁんくらぶ、吉原ラメント、シザーハンズ、トウキョウト・ロック・シティ、ワールドイズマイン、ロミオとシンデレラ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 4}
+      }]
+    },
+    {
+      "name": "愛してくれなくていいよ",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 5}
+      }]
+    },
+    {
+      "name": "Sweet Devil",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 6}
+      }]
+    },
+    {
+      "name": "ギガンティックO.T.N",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 7}
+      }]
+    },
+    {
+      "name": "ここにあること",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 8}
+      }]
+    },
+    {
+      "name": "ポラリス",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 9}
+      }]
+    },
+
+    {
+      "name": "LiSAさんメドレー：Catch the Moment、ROCK-mode、シルシ、コズミックジェットコースター、confidence driver、crossing field",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 4}
+      }]
+    },
+    {
+      "name": "First Love",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 5}
+      }]
+    },
+    {
+      "name": "Escape",
+      "language": "ja",
+      "clips": [{
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 6}
       }]
     }
   ]

@@ -24,6 +24,7 @@
 网站上不包含：
 
 - 非歌曲类视频，例如游戏或杂谈直播；
+- pixivFANBOX 会员限定歌回录像；
 - [歌手鹿乃](https://kano-official.amebaownd.com/)的所有作品或直播视频。唱见鹿与花寄鹿为两个独立的身份。
 
 虽然ののの毕业了，其他三位也转为个人势继续活动，但花寄箱一生推！
@@ -48,6 +49,9 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/05/09 21:00](https://t.bilibili.com/522596163000294837) | Bilibili |  |  | [X](https://t.bilibili.com/522841732041272843) |  |
+| [2021/05/08 21:00](https://twitter.com/hanamaruhareru/status/1390972924153143301) | YouTube | Y | Z | [X](https://twitter.com/quon01tama/status/1391028174989914114) | 久遠たま联动 |
+| [2020/05/02 21:00](https://t.bilibili.com/519998575369299807) | Bilibili |  | Z | [X](https://t.bilibili.com/520241520191651737) |  |
 | [2020/04/18 20:00](https://t.bilibili.com/514803395811242248) | Bilibili |  | Z |  | 个性装扮套装发售 |
 | [2020/04/16 22:00](https://twitter.com/hanamaruhareru/status/1383013680229412867) | YouTube | Y | Z |  |  |
 | [2020/04/11 21:00](https://t.bilibili.com/512205799582409763) | Bilibili |  | Z | [X](https://t.bilibili.com/512455496104898141) |  |
@@ -87,10 +91,10 @@
 | [2020/08/16 22:00](https://t.bilibili.com/423887532381073602) | Bilibili |  | BZ | [X](https://t.bilibili.com/424139483756088323) |  |
 | [2020/08/07 21:00](https://t.bilibili.com/420547774398023452) | YouTube, Bilibili | YB |  |  | [一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
 | [2020/08/02 23:00](https://t.bilibili.com/418692322757812311) | Bilibili |  | BZ | [X](https://t.bilibili.com/418960217046475127) |  |
-| [2020/07/25 21:00](https://twitter.com/hanamaruhareru/status/1286982535126253568) | YouTube |  |  |  |  |
-| [2020/07/19 22:00](https://t.bilibili.com/413710779171222092) | Bilibili |  |  | [X](https://t.bilibili.com/413746869778485683) |  |
+| [2020/07/25 21:00](https://twitter.com/hanamaruhareru/status/1286982535126253568) | YouTube | Y | BZ |  |  |
+| [2020/07/19 22:00](https://t.bilibili.com/413710779171222092) | Bilibili |  | B | [X](https://t.bilibili.com/413746869778485683) |  |
 | [2020/07/11 23:00](https://t.bilibili.com/410528457511082234) | Bilibili |  |  |  | [此间少年——虚拟主播致青春主题活动](https://www.bilibili.com/blackboard/dynamic/2704) |
-| [2020/07/04 23:00](https://t.bilibili.com/407930865590346884) | Bilibili |  |  | [X](https://t.bilibili.com/408199292451409178) |  |
+| [2020/07/04 23:00](https://t.bilibili.com/407930865590346884) | Bilibili |  | B | [X](https://t.bilibili.com/408199292451409178) |  |
 | [2020/06/24 20:00](https://twitter.com/hanamaruhareru/status/1275738389300428801) | YouTube |  |  |  |  |
 | [2020/06/20 21:00](https://t.bilibili.com/402735655963482535) | Bilibili |  |  | [X](https://t.bilibili.com/402971703072242642) |  |
 | [2020/06/07 22:00](https://t.bilibili.com/397911574470731983) | Bilibili |  |  | [X](https://t.bilibili.com/398163963923915753) |  |
@@ -140,6 +144,10 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| 魔法の絨毯 | B | 2021/05/09 | 2021/04/16 |
+| さくら | B | 2021/05/06 | 2021/04/16 |
+| SAKURA | B | 2021/05/02 | 2021/04/16 |
+| 春よ、来い | B | 2021/05/01 | 2021/04/03 |
 | さよならメモリーズ | B | 2021/04/27 | 2021/04/03 |
 | うまぴょい伝説 | B | 2021/04/26 | 2021/04/16 |
 | ありがとう・・・ | B | 2021/04/05 | 2021/03/14 |
@@ -164,10 +172,14 @@ B站歌回切片单曲更新状态：
 | 明日への扉 | Z* | 2021/03/14 | 2021/03/14 |
 | カタオモイ | Z | 2021/02/21 | 2021/02/21 |
 | Alice in Musicland | Z | 2020/09/14 | 2020/09/13 |
+
+*&#42; 包含在歌曲串烧中的单曲。*
 ### 小東ひとな
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/05/05 21:00](https://t.bilibili.com/521189161769566180) | Bilibili |  | W | [X](https://t.bilibili.com/521353366960189652) | 生日 |
+| [2021/05/04 21:00](https://twitter.com/kohigashihitona/status/1389510755637153792) | YouTube |  |  |  | 生日 |
 | [2021/04/24 21:00](https://t.bilibili.com/517107194794862858) | Bilibili |  | W | [X](https://t.bilibili.com/517270906055103394) |  |
 | [2021/04/22 21:00](https://twitter.com/kohigashihitona/status/1385069554389250049) | YouTube | Y | W |  |  |
 | [2021/04/09 21:00](https://t.bilibili.com/511540951537280852) | Bilibili |  | W | [X](https://t.bilibili.com/511705173900557797) |  |
@@ -197,9 +209,9 @@ B站歌回切片单曲更新状态：
 | [2020/08/25 20:00](https://t.bilibili.com/427304599770304481) | Bilibili |  | W* | [X](https://t.bilibili.com/427446681584659044) | [虚拟主播陪你过七夕](https://www.bilibili.com/blackboard/dynamic/3332) |
 | [2020/08/11 21:00](https://t.bilibili.com/422109420214156535) | Bilibili |  | W* | [X](https://t.bilibili.com/422264305324818174) |  |
 | [2020/08/07 22:00](https://t.bilibili.com/420625075222883606) | YouTube, Bilibili | YB |  |  | [一周年纪念直播](https://www.bilibili.com/blackboard/live/activity-o7EbX3W8-.html) |
-| [2020/07/21 21:00](https://t.bilibili.com/414337711252575090) | Bilibili |  |  | [X](https://t.bilibili.com/414456312479140419) |  |
-| [2020/07/12 20:00](https://twitter.com/kohigashihitona/status/1282147671789015040) | YouTube |  |  |  |  |
-| [2020/07/10 20:00](https://t.bilibili.com/410234698927673793) | Bilibili |  |  | [X](https://t.bilibili.com/410373396306332731) | [此间少年——虚拟主播致青春主题活动](https://www.bilibili.com/blackboard/dynamic/2704) |
+| [2020/07/21 21:00](https://t.bilibili.com/414337711252575090) | Bilibili |  | B | [X](https://t.bilibili.com/414456312479140419) |  |
+| [2020/07/12 20:00](https://twitter.com/kohigashihitona/status/1282147671789015040) | YouTube | Y | BW* |  |  |
+| [2020/07/10 20:00](https://t.bilibili.com/410234698927673793) | Bilibili |  | B | [X](https://t.bilibili.com/410373396306332731) | [此间少年——虚拟主播致青春主题活动](https://www.bilibili.com/blackboard/dynamic/2704) |
 | [2020/06/27 20:00](https://t.bilibili.com/405410578780392807) | Bilibili |  |  | [X](https://t.bilibili.com/405553515293827797) |  |
 | [2020/06/13 19:00](https://t.bilibili.com/400215369159546924) | Bilibili |  |  | [X](https://t.bilibili.com/400340206677686124) |  |
 | [2020/06/09 20:00](https://twitter.com/kohigashihitona/status/1270187430641975296) | YouTube |  |  |  |  |
@@ -229,10 +241,13 @@ B站歌回切片单曲更新状态：
 | [2019/09/07 20:00](https://t.bilibili.com/295694294877590604) | Bilibili |  |  |  |  |
 | [2019/08/24 21:00](https://t.bilibili.com/291196411849674720) | Bilibili |  |  |  |  |
 
+*&#42; 以单视频形式发布的切片合集。*
+
 B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| いけないボーダーライン | B | 2021/04/30 | 2020/12/12 |
 | タッチ | B | 2021/04/26 | 2021/04/22 |
 | 天使にふれたよ！ | B | 2021/03/26 | 2021/03/02 |
 | ドライフラワー | B | 2021/02/05 | 2021/01/17 |
@@ -244,3 +259,7 @@ B站歌回切片单曲更新状态：
 ---
 
 © [101对双生儿](https://bmao.tech/) 2021。保留所有版权。
+
+[//]: # (中之人情报)
+[//]: # (https://vtamainfo.com/)
+[//]: # (https://iketog.com/)

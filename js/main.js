@@ -256,7 +256,7 @@ const processJSON = (json) => {
  */
 const renderPage = (memberId) => {
   const member = ARTISTS.get(memberId);
-  $(document).attr('title', member.name);
+  $(document).attr('title', `${member.name} | 花寄女子寮 歌アーカイブ`);
   $('header.banner').css('background-image', `url('${member.resources.banner}')`);
   $('aside img.avatar').attr('src', member.resources.avatar);
   $('aside #member-name').html(member.nameWithRubyStyling);

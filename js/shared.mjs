@@ -151,7 +151,7 @@ export const ARTISTS = new Map([
     id: 'kagura-nana',
     name: 'カグラナナ',
     twitter: 'nana_kaguraaa',
-    youtube: 'UCbfv8uuUXt3RSJGEwxny5Rw',
+    youtubeShort: 'かぐらななななかぐ辛党Ch',
     bilibili: 386900246
   })],
   ['mononobe-alice', new Artist({
@@ -167,6 +167,12 @@ export const ARTISTS = new Map([
     twitter: 'natsuiromatsuri',
     youtube: 'UCQ0UDLQCjY0rmuxCDE38FGg',
     bilibili: 336731767
+  })],
+  ['quon-tama', new Artist({
+    id: 'quon-tama',
+    name: '久遠たま',
+    twitter: 'quon01tama',
+    youtubeShort: 'QuonTama'
   })],
   ['ruki', new Artist({
     id: 'ruki',
@@ -194,6 +200,6 @@ export const HANAYORI_MEMBER_IDS = ['kano', 'nonono', 'hareru', 'hitona'];
  * negative page numbers can be used in JSON files.
  */
 export const BILIBILI_PLAYLIST_PAGES = new Map([
-  ['BV1jE411X7hH', 79],  // Hareru
-  ['BV1PE411R7w2', 48]   // Hitona
+  ['BV1jE411X7hH', 81],  // Hareru
+  ['BV1PE411R7w2', 51]   // Hitona
 ]);
