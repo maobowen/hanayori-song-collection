@@ -194,6 +194,8 @@ const SECTIONS = ['pv', 'special', 'live'];
 // Global variables for APlayer
 let aplayer = null;
 let aplayerPvPlaylist = [];
+let aplayerLiveCutoutPlaylist = [];
+let aplayerCurrentPlaylistSection = SECTIONS[0];
 let shouldResumeAplayer = false;
 
 // Get query strings from URL: https://stackoverflow.com/a/2880929
@@ -290,7 +292,7 @@ const renderSection = (section, memberId, songs) => {
   const member = ARTISTS.get(memberId);
   if (songs && songs.length) {
     $(`#${section}-section table tbody`).empty();
-    $(`#${section}-section h5`).text($(`#${section}-section h5`).text() + ` (${songs.length})`);
+    $(`#${section}-section h5 .songs-count`).text(` (${songs.length})`);
     for (const song of songs) {
       const language = LANGUAGE.has(song.language) ? LANGUAGE.get(song.language) : LANGUAGE.get('undefined');
       let songNameHtml = song.name;
@@ -362,7 +364,9 @@ const renderSection = (section, memberId, songs) => {
       } else if (section === 'live') {
         let clips = [];
         if (Array.isArray(song.clips) && song.clips.length) {
+          let hasAddedToPlaylist = false;
           for (const clip of song.clips) {
+            let excludedFromPlaylist = clip.has('excluded') ? clip.get('excluded') === true : false
             // Build HTML for date and sources
             let streamSourceHtml = '';
             let cutoutSourceHtml = '';
@@ -372,6 +376,16 @@ const renderSection = (section, memberId, songs) => {
               } else if (source instanceof BilibiliSource) {
                 if (key.includes('Cutout')) {
                   cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+                  // Add song to APlayer's playlist
+                  if (!hasAddedToPlaylist && !excludedFromPlaylist && source.audioDirectUrl) {
+                    aplayerLiveCutoutPlaylist.push({
+                      name: song.name,
+                      artist: member.name + (otherArtistsPlainText ? ', ' + otherArtistsPlainText : ''),
+                      url: source.audioDirectUrl,
+                      cover: member.resources.avatarNew
+                    });
+                    hasAddedToPlaylist = true;
+                  }
                 } else {
                   streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
                 }
@@ -464,6 +478,31 @@ const renderHomepage = () => {
   $('#songs-container').remove();
 };
 
+/**
+ * Register a play button's click event.
+ * @function registerPlayButtonClickEvent
+ * @param {string} section A section ID.
+ * @param {Object[] | null} playlist An APlayer playlist.
+ */
+const registerPlayButtonClickEvent = (section, playlist) => {
+  if (playlist.length) {
+    $(`#aplayer-play-${section} > a`).click(e => {
+      if (aplayerCurrentPlaylistSection !== section) {
+        aplayer.pause();
+        aplayer.list.clear();
+        aplayer.list.add(playlist);
+        aplayer.play();
+        aplayerCurrentPlaylistSection = section;
+      } else if (aplayer.audio.paused) {
+        aplayer.play();
+      }
+      e.preventDefault();  // Cancel the default action: https://stackoverflow.com/a/3252735
+    });
+  } else {
+    $(`#aplayer-play-${section}`).remove();
+  }
+};
+
 $(document).ready(async () => {
   try {
     const memberId = urlParams['v'] ? urlParams['v'].toLowerCase() : null;
@@ -489,6 +528,9 @@ $(document).ready(async () => {
           aplayer.setMode('normal');
         }
       }
+      // Register play buttons' click events
+      registerPlayButtonClickEvent(SECTIONS[0], aplayerPvPlaylist);
+      registerPlayButtonClickEvent(SECTIONS[2], aplayerLiveCutoutPlaylist);
     } else {
       renderHomepage();
     }
