@@ -1,6 +1,14 @@
 {
   "pv": [
     {
+      "name": "ヴァンパイア",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "kC74rEntXrU"},
+        "bilibili": {"id": "BV15Q4y1R7q5"}
+      }]
+    },
+    {
       "name": "回る空うさぎ",
       "language": "ja",
       "clips": [{
@@ -1067,6 +1075,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-04-09T12:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1Kq4y1E7Wi"},
         "bilibiliCutoutU": {"id": "BV12K411F7pB", "p": 9}
       }, {
         "date": "2020-12-22T12:00:00.000Z",
