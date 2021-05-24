@@ -101,11 +101,11 @@
 | [2020/06/20 21:00](https://t.bilibili.com/402735655963482535) | Bilibili |  |  | [X](https://t.bilibili.com/402971703072242642) |  |
 | [2020/06/07 22:00](https://t.bilibili.com/397911574470731983) | Bilibili |  | BZ | [X](https://t.bilibili.com/398163963923915753) |  |
 | [2020/06/02 00:00](https://t.bilibili.com/395864773441726994) | Bilibili |  | BZ | [X](https://t.bilibili.com/395967552010015810) |  |
-| [2020/05/28 23:00](https://t.bilibili.com/394200701252266050) | Bilibili |  |  | [X](https://t.bilibili.com/394468784523214872) |  |
-| [2020/05/22 23:00](https://t.bilibili.com/391974211677253126) | Bilibili |  |  | [X](https://t.bilibili.com/392243102403432843) |  |
-| [2020/05/20 20:00](https://twitter.com/hanamaruhareru/status/1263032243049558016) | YouTube |  |  |  |  |
-| [2020/05/11 23:00](https://t.bilibili.com/387892274760756141) | Bilibili |  |  | [X](https://t.bilibili.com/388161388822882010) |  |
-| [2020/05/02 23:00](https://t.bilibili.com/384552478126807677) | Bilibili |  |  | [X](https://t.bilibili.com/384820350945999317) |  |
+| [2020/05/28 23:00](https://t.bilibili.com/394200701252266050) | Bilibili |  | BZ | [X](https://t.bilibili.com/394468784523214872) |  |
+| [2020/05/22 23:00](https://t.bilibili.com/391974211677253126) | Bilibili |  | BZ | [X](https://t.bilibili.com/392243102403432843) |  |
+| [2020/05/20 20:00](https://twitter.com/hanamaruhareru/status/1263032243049558016) | YouTube | Y | BZ |  |  |
+| [2020/05/11 23:00](https://t.bilibili.com/387892274760756141) | Bilibili |  | BZ | [X](https://t.bilibili.com/388161388822882010) |  |
+| [2020/05/02 23:00](https://t.bilibili.com/384552478126807677) | Bilibili |  | BZ | [X](https://t.bilibili.com/384820350945999317) |  |
 | [2020/04/26 23:00](https://t.bilibili.com/382325979969411298) | Bilibili |  |  | [X](https://t.bilibili.com/382590614375718760) |  |
 | [2020/04/14 23:00](https://t.bilibili.com/377872966461597575) | Bilibili |  |  | [X](https://t.bilibili.com/378144803530329997) |  |
 | [2020/04/04 23:00](https://twitter.com/hanamaruhareru/status/1246395555338579969) | YouTube |  |  |  |  |
@@ -170,7 +170,10 @@ B站歌回切片单曲更新状态：
 | 僕が死のうと思ったのは | B | 2020/12/30 | 2020/12/12 |
 | アヤノの幸福理論 | B | 2020/12/08 | 2020/11/22 |
 | 銀の龍の背に乗って | B | 2020/11/24 | 2020/10/24 |
+| 夏恋花火 | B | 2020/09/29 | 2020/08/16 |
 | 言って。 | B | 2020/09/17 | 2020/09/09 |
+| 夏祭り | B | 2020/06/15 | 2020/05/28 |
+| ウィアートル | B | 2020/06/10 | 2020/05/28 |
 | 春天在哪里 | Z | 2021/04/04 | 2021/04/03 |
 | 明日への扉 | Z* | 2021/03/14 | 2021/03/14 |
 | カタオモイ | Z | 2021/02/21 | 2021/02/21 |
@@ -220,8 +223,8 @@ B站歌回切片单曲更新状态：
 | [2020/06/13 19:00](https://t.bilibili.com/400215369159546924) | Bilibili |  | BW* | [X](https://t.bilibili.com/400340206677686124) |  |
 | [2020/06/09 20:00](https://twitter.com/kohigashihitona/status/1270187430641975296) | YouTube | Y | BW* |  |  |
 | [2020/06/01 19:00](https://t.bilibili.com/395762338475025191) | Bilibili |  | BW* | [X](https://t.bilibili.com/395883349180727847) |  |
-| [2020/05/29 20:00](https://t.bilibili.com/394700304728522507) | Bilibili |  |  | [X](https://t.bilibili.com/394783609918912212) |  |
-| [2020/05/04 21:00](https://t.bilibili.com/385393084830077452) | Bilibili |  |  | [X](https://t.bilibili.com/385536717125194485) | 生日 |
+| [2020/05/29 20:00](https://t.bilibili.com/394700304728522507) | Bilibili |  | BW* | [X](https://t.bilibili.com/394783609918912212) |  |
+| [2020/05/04 21:00](https://t.bilibili.com/385393084830077452) | Bilibili | BB |  | [X](https://t.bilibili.com/385536717125194485) | 生日 |
 | [2020/04/27 21:00](https://t.bilibili.com/382836776128004855) | Bilibili |  |  | [X](https://t.bilibili.com/382930161606716594) |  |
 | [2020/04/18 21:00](https://t.bilibili.com/379442901565174532) | Bilibili |  |  | [X](https://t.bilibili.com/379582041320239969) |  |
 | [2020/04/13 21:00](https://twitter.com/kohigashihitona/status/1249555813934313474) | YouTube |  |  |  |  |
@@ -261,6 +264,9 @@ B站歌回切片单曲更新状态：
 | Twinkle, Twinkle, Little Star | B | 2021/11/15 | 2020/11/14 |
 | つるぺた | B | 2020/07/05 | 2020/06/27 |
 | うっせぇわ | W | 2020/12/17 | 2020/12/15 |
+| はかせの好きなのなの | W | 2020/05/26 | 2020/05/23^ |
+
+*^ 非歌回。*
 
 ---
 
