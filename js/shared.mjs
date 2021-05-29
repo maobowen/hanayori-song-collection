@@ -202,5 +202,5 @@ export const HANAYORI_MEMBER_IDS = ['kano', 'nonono', 'hareru', 'hitona'];
  */
 export const BILIBILI_PLAYLIST_PAGES = new Map([
   ['BV1jE411X7hH', 83],  // Hareru
-  ['BV1PE411R7w2', 51]   // Hitona
+  ['BV1PE411R7w2', 52]   // Hitona
 ]);
