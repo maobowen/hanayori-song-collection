@@ -113,6 +113,14 @@ main {
   color: #f00;
 }
 
+.icon-unavailable {
+  color: #aaa;
+}
+
+.icon-unavailable:hover {
+  color: #999;
+}
+
 .twemoji img.emoji {
   height: 1em;
   width: 1em;

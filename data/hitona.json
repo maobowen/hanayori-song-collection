@@ -93,7 +93,8 @@
       "name": "ここから、ここから",
       "language": "ja",
       "clips": [{
-        "youtube": {"id": "vHMV44Uza4g"},
+        "youtube": {"id": "bYkZvLvsNlg"},
+        "youtubeUnavailable": {"id": "vHMV44Uza4g"},
         "bilibili": {"id": "BV1UT4y157ns"}
       }],
       "otherArtists": ["kano", "nonono", "hareru"]
@@ -175,7 +176,8 @@
       "name": "フラワーポップガール",
       "language": "ja",
       "clips": [{
-        "youtube": {"id": "WnR-jeatjQ8"},
+        "youtube": {"id": "pOGbN1IsUiA"},
+        "youtubeUnavailable": {"id": "WnR-jeatjQ8"},
         "bilibili": {"id": "BV1wJ411D7uR"}
       }],
       "otherArtists": ["kano", "nonono", "hareru"]

@@ -264,6 +264,7 @@ const renderPage = (memberId) => {
   $('aside #member-name').html(member.nameWithRubyStyling);
   $('#sidebar-icon-twitter').attr('href', `https://twitter.com/${member.twitter}`);
   $('#sidebar-icon-youtube').attr('href', `https://youtube.com/channel/${member.youtube}`);
+  $('#sidebar-icon-youtube2').remove();
   $('#sidebar-icon-bilibili').attr('href', `https://space.bilibili.com/${member.bilibili}`);
   $('#sidebar-name-cn').text(member.profile.nameCN);
   $('#sidebar-name-en').text(member.profile.nameEN);
@@ -275,6 +276,7 @@ const renderPage = (memberId) => {
   $('.sidebar-hide').removeClass('sidebar-hide d-none');
   if (memberId === 'kano') {
     $('#sidebar-profile').append(`<li>中の人 ${member.profile.identity}</li>`);
+    $('#sidebar-profile').append(`<li>転生 ${member.profile.redebut}</li>`);
   }
   $('#home-container').remove();
   $('#songs-container').removeClass('d-none');
@@ -327,12 +329,22 @@ const renderSection = (section, memberId, songs) => {
         let sourceHtml = '';
         if (Array.isArray(song.clips) && song.clips.length === 1) {
           for (const [key, source] of song.clips[0]) {
+            let extraAttrs = '';
+            let extraClasses = '';
+            if (source instanceof Source) {
+              if (key.includes('Unavailable')) {
+                extraAttrs += ' onclick="return false;"';
+                extraClasses += ' icon-unavailable';
+              } else {
+                extraAttrs += ` data-lity data-lity-target="${source.embedUrl}"`;
+              }
+            }
             if (source instanceof YouTubeSource) {
-              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}">${YOUTUBE_ICON}</a>`;
+              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}>${YOUTUBE_ICON}</a>`;
             } else if (source instanceof BilibiliSource) {
-              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
               // Add song to APlayer's playlist
-              if (section === 'pv' && source.audioDirectUrl) {
+              if (section === 'pv' && !key.includes('Unavailable') && source.audioDirectUrl) {
                 aplayerPvPlaylist.push({
                   name: song.name,
                   artist: member.name + (otherArtistsPlainText ? ', ' + otherArtistsPlainText : ''),
@@ -371,13 +383,23 @@ const renderSection = (section, memberId, songs) => {
             let streamSourceHtml = '';
             let cutoutSourceHtml = '';
             for (const [key, source] of clip) {
+              let extraAttrs = '';
+              let extraClasses = '';
+              if (source instanceof Source) {
+                if (key.includes('Unavailable')) {
+                  extraAttrs += ' onclick="return false;"';
+                  extraClasses += ' icon-unavailable';
+                } else {
+                  extraAttrs += ` data-lity data-lity-target="${source.embedUrl}"`;
+                }
+              }
               if (source instanceof YouTubeSource) {
-                streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}">${YOUTUBE_ICON}</a>`;
+                streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}>${YOUTUBE_ICON}</a>`;
               } else if (source instanceof BilibiliSource) {
                 if (key.includes('Cutout')) {
-                  cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+                  cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
                   // Add song to APlayer's playlist
-                  if (!hasAddedToPlaylist && !excludedFromPlaylist && source.audioDirectUrl) {
+                  if (!hasAddedToPlaylist && !excludedFromPlaylist && !key.includes('Unavailable') && source.audioDirectUrl) {
                     aplayerLiveCutoutPlaylist.push({
                       name: song.name,
                       artist: member.name + (otherArtistsPlainText ? ', ' + otherArtistsPlainText : ''),
@@ -387,7 +409,7 @@ const renderSection = (section, memberId, songs) => {
                     hasAddedToPlaylist = true;
                   }
                 } else {
-                  streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+                  streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
                 }
               }
             }
@@ -439,6 +461,8 @@ const renderSection = (section, memberId, songs) => {
  */
 const renderHomepage = () => {
   $('#sidebar-icon-bilibili').remove();
+  $('#sidebar-icon-youtube2').removeClass('d-none');
+  $('#sidebar-icon-youtube2').addClass('d-inline-block');
   $('#back-to-home-arrow').remove();
   $('#home-container .row').empty();
   for (const memberId of HANAYORI_MEMBER_IDS) {

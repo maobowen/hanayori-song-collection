@@ -68,7 +68,8 @@ export const ARTISTS = new Map([
       birthday: '12月24日',
       height: 145,
       mark: '🌼🎄',
-      identity: '<a href="https://kano-official.amebaownd.com/" target="_blank">鹿乃</a>'
+      identity: '<a href="https://kano-official.amebaownd.com/" target="_blank">鹿乃</a>',
+      redebut: '<a href="https://twitter.com/kanomahoro" target="_blank">鹿乃まほろ</a>'
     }
   })],
   ['nonono', new HanayoriMember({

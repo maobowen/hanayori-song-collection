@@ -21,7 +21,8 @@
       "name": "ここから、ここから",
       "language": "ja",
       "clips": [{
-        "youtube": {"id": "vHMV44Uza4g"},
+        "youtube": {"id": "bYkZvLvsNlg"},
+        "youtubeUnavailable": {"id": "vHMV44Uza4g"},
         "bilibili": {"id": "BV1UT4y157ns"}
       }],
       "otherArtists": ["nonono", "hareru", "hitona"]
@@ -65,7 +66,8 @@
       "name": "フラワーポップガール",
       "language": "ja",
       "clips": [{
-        "youtube": {"id": "WnR-jeatjQ8"},
+        "youtube": {"id": "pOGbN1IsUiA"},
+        "youtubeUnavailable": {"id": "WnR-jeatjQ8"},
         "bilibili": {"id": "BV1wJ411D7uR"}
       }],
       "otherArtists": ["nonono", "hareru", "hitona"]
@@ -90,7 +92,8 @@
       "name": "自己紹介の歌",
       "language": "ja",
       "clips": [{
-        "youtube": {"id": "SWZGRkXINME"},
+        "youtube": {"id": "Kub7SR3wfWs"},
+        "youtubeUnavailable": {"id": "SWZGRkXINME"},
         "bilibili": {"id": "BV1Gt411F7LW"}
       }]
     }
@@ -138,7 +141,7 @@
       "language": "ja",
       "clips": [{
         "date": "2020-08-07T14:00:00.000Z",
-        "youtube": {"id": "EFnkyA_taPA", "t": 4500},
+        "youtubeUnavailable": {"id": "EFnkyA_taPA", "t": 4500},
         "bilibili": {"id": "BV1354y1U7Un", "t": 4520},
         "notes": "3Dお披露目&1周年記念配信"
       }]
@@ -148,7 +151,7 @@
       "language": "ja",
       "clips": [{
         "date": "2020-08-07T14:00:00.000Z",
-        "youtube": {"id": "EFnkyA_taPA", "t": 4679},
+        "youtubeUnavailable": {"id": "EFnkyA_taPA", "t": 4679},
         "bilibili": {"id": "BV1354y1U7Un", "t": 4699},
         "notes": "3Dお披露目&1周年記念配信"
       }]
@@ -158,7 +161,7 @@
       "language": "ja",
       "clips": [{
         "date": "2020-08-07T14:00:00.000Z",
-        "youtube": {"id": "EFnkyA_taPA", "t": 5068},
+        "youtubeUnavailable": {"id": "EFnkyA_taPA", "t": 5068},
         "bilibili": {"id": "BV1354y1U7Un", "t": 5088},
         "notes": "3Dお披露目&1周年記念配信"
       }]
