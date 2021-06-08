@@ -142,7 +142,7 @@
       "clips": [{
         "date": "2020-08-07T14:00:00.000Z",
         "youtubeUnavailable": {"id": "EFnkyA_taPA", "t": 4500},
-        "bilibili": {"id": "BV1354y1U7Un", "t": 4520},
+        "bilibiliOC": {"id": "BV1354y1U7Un", "t": 4520},
         "notes": "3Dお披露目&1周年記念配信"
       }]
     },
@@ -152,7 +152,7 @@
       "clips": [{
         "date": "2020-08-07T14:00:00.000Z",
         "youtubeUnavailable": {"id": "EFnkyA_taPA", "t": 4679},
-        "bilibili": {"id": "BV1354y1U7Un", "t": 4699},
+        "bilibiliOC": {"id": "BV1354y1U7Un", "t": 4699},
         "notes": "3Dお披露目&1周年記念配信"
       }]
     },
@@ -162,7 +162,7 @@
       "clips": [{
         "date": "2020-08-07T14:00:00.000Z",
         "youtubeUnavailable": {"id": "EFnkyA_taPA", "t": 5068},
-        "bilibili": {"id": "BV1354y1U7Un", "t": 5088},
+        "bilibiliOC": {"id": "BV1354y1U7Un", "t": 5088},
         "notes": "3Dお披露目&1周年記念配信"
       }]
     }

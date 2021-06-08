@@ -235,7 +235,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 871},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 871},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 1}
       }, {
         "date": "2021-04-11T12:00:00.000Z",
@@ -246,7 +246,7 @@
       }, {
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 2485},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 2428},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 2428},
         "notes": "3Dお披露目"
       }, {
         "date": "2020-09-09T12:00:00.000Z",
@@ -258,8 +258,8 @@
         "bilibiliCutoutU": {"id": "BV1Kg4y1q7RA", "p": 7}
       }, {
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 946},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 945}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 946},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 945}
       }]
     },
     {
@@ -267,7 +267,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 1455},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 1455},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 2}
       }]
     },
@@ -276,7 +276,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 1961},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 1961},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 3}
       }, {
         "date": "2021-04-11T12:00:00.000Z",
@@ -295,7 +295,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 2474},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 2474},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 4}
       }]
     },
@@ -304,7 +304,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 2887},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 2887},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 5}
       }]
     },
@@ -313,7 +313,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 3293},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 3293},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 6}
       }]
     },
@@ -322,7 +322,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 3763},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 3763},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 7}
       }]
     },
@@ -331,7 +331,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 4189},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 4189},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 8}
       }]
     },
@@ -340,7 +340,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 4524},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 4524},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 9}
       }]
     },
@@ -349,7 +349,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 4961},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 4961},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 10}
       }, {
         "date": "2020-08-16T13:00:00.000Z",
@@ -366,7 +366,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 5483},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 5483},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 11}
       }]
     },
@@ -375,7 +375,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 5898},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 5898},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 12}
       }]
     },
@@ -384,7 +384,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 6272},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 6272},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 13}
       }, {
         "date": "2020-05-28T14:00:00.000Z",
@@ -397,7 +397,7 @@
       "language": "ja",
       "clips": [{
         "date": "2021-06-06T12:00:00.000Z",
-        "bilibili": {"id": "BV135411M72t", "t": 7504},
+        "bilibiliOR": {"id": "BV135411M72t", "t": 7504},
         "bilibiliCutoutU": {"id": "BV1Z64y1k7Ep", "p": 14}
       }, {
         "date": "2020-12-03T12:00:00.000Z",
@@ -419,7 +419,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 1312},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 1300},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 1300},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 1}
       }]
     },
@@ -429,7 +429,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 3109},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 3097},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 3097},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 2}
       }]
     },
@@ -439,7 +439,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 3591},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 3579},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 3579},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 3}
       }, {
         "date": "2020-04-26T14:00:00.000Z",
@@ -452,7 +452,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 3933},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 3921},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 3921},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 4}
       }]
     },
@@ -462,7 +462,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 4334},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 4322},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 4322},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 5}
       }]
     },
@@ -472,7 +472,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 4876},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 4864},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 4864},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 6}
       }, {
         "date": "2021-05-29T10:00:00.000Z",
@@ -497,7 +497,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 5308},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 5296},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 5296},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 7}
       }]
     },
@@ -507,7 +507,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 5744},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 5732},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 5732},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 8}
       }]
     },
@@ -517,7 +517,7 @@
       "clips": [{
         "date": "2021-05-30T12:00:00.000Z",
         "youtube": {"id": "ZPaMG_pDLVs", "t": 6113},
-        "bilibili": {"id": "BV1Uy4y1g7GR", "t": 6101},
+        "bilibiliOR": {"id": "BV1Uy4y1g7GR", "t": 6101},
         "bilibiliCutoutU": {"id": "BV1gV41147Wj", "p": 9}
       }, {
         "date": "2021-04-16T13:00:00.000Z",
@@ -532,12 +532,12 @@
       }, {
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 3501},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 3444},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 3444},
         "notes": "3Dお披露目"
       }, {
         "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 2984},
-        "bilibili": {"id": "BV1yi4y1u7s3", "t": 2984},
+        "bilibiliOC": {"id": "BV1yi4y1u7s3", "t": 2984},
         "notes": "1周年記念配信"
       }, {
         "date": "2020-05-20T11:00:00.000Z",
@@ -548,17 +548,17 @@
         "bilibiliCutoutO": {"id": "BV1bC4y1H7tE", "p": 12}
       }, {
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 5411},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 5404}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 5411},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 5404}
       }, {
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 5370},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 5369}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 5370},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 5369}
       }, {
         "date": "2020-03-05T13:00:00.000Z",
         "youtube": {"id": "8K5gNFi5Fvc", "t": 3268},
-        "bilibili": {"id": "BV16E411u7Ni", "t": 3268},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -26, "t": 3268}
+        "bilibiliUC": {"id": "BV16E411u7Ni", "t": 3268},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -26, "t": 3268}
       }]
     },
 
@@ -580,8 +580,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 613},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 607},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 613},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 607},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 1}
       }]
     },
@@ -590,8 +590,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 1113},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 1107},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 1113},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 1107},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 2}
       }, {
         "date": "2020-11-03T13:00:00.000Z",
@@ -604,8 +604,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 1533},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 1527},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 1533},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 1527},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 3}
       }]
     },
@@ -614,8 +614,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 1817},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 1811},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 1817},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 1811},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 4}
       }]
     },
@@ -624,8 +624,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 2201},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 2195},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 2201},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 2195},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 5}
       }]
     },
@@ -634,8 +634,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 2508},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 2502},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 2508},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 2502},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 6}
       }, {
         "date": "2021-02-14T12:00:00.000Z",
@@ -651,8 +651,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 3026},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 3020},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 3026},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 3020},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 7}
       }]
     },
@@ -661,8 +661,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 3446},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 3440},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 3446},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 3440},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 8}
       }]
     },
@@ -671,8 +671,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 3796},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 3790},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 3796},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 3790},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 9}
       }, {
         "date": "2021-02-14T12:00:00.000Z",
@@ -688,8 +688,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 4288},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 4282},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 4288},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 4282},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 10}
       }, {
         "date": "2021-02-14T12:00:00.000Z",
@@ -701,8 +701,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 4671},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 4665},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 4671},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 4665},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 11}
       }, {
         "date": "2021-01-26T11:00:00.000Z",
@@ -715,8 +715,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 4970},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 4964},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 4970},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 4964},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 12}
       }, {
         "date": "2020-09-27T13:00:00.000Z",
@@ -732,8 +732,8 @@
       "language": "ja",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 5472},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 5466},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 5472},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 5466},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 13}
       }, {
         "date": "2021-03-14T12:00:00.000Z",
@@ -752,8 +752,8 @@
       "language": "zh",
       "clips": [{
         "date": "2021-05-20T12:00:00.000Z",
-        "bilibili": {"id": "BV1uV411j7kz", "t": 5879},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -83, "t": 5873},
+        "bilibiliOR": {"id": "BV1uV411j7kz", "t": 5879},
+        "bilibiliOR2": {"id": "BV1jE411X7hH", "p": -83, "t": 5873},
         "bilibiliCutoutU": {"id": "BV18Q4y1R7yr", "p": 14}
       }]
     },
@@ -966,7 +966,7 @@
       }, {
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 1608},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 1551},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 1551},
         "notes": "3Dお披露目"
       }, {
         "date": "2020-09-09T12:00:00.000Z",
@@ -1272,8 +1272,8 @@
       }, {
         "date": "2020-03-05T13:00:00.000Z",
         "youtube": {"id": "8K5gNFi5Fvc", "t": 2027},
-        "bilibili": {"id": "BV16E411u7Ni", "t": 2027},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -26, "t": 2027}
+        "bilibiliUC": {"id": "BV16E411u7Ni", "t": 2027},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -26, "t": 2027}
       }]
     },
     {
@@ -1418,7 +1418,7 @@
         "bilibiliCutoutU": {"id": "BV1Cp4y1q7iS", "p": 12}
       }, {
         "date": "2020-10-17T10:00:00.000Z",
-        "bilibili": {"id": "BV1BK4y1h7ui", "t": 538},
+        "bilibiliUC": {"id": "BV1BK4y1h7ui", "t": 538},
         "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战IV"
       }, {
         "date": "2020-10-06T12:00:00.000Z",
@@ -1430,13 +1430,13 @@
         "bilibiliCutoutU": {"id": "BV1bV411z7He", "p": 9}
       }, {
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 5817},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 5817}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 5817},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 5817}
       }, {
         "date": "2020-03-05T13:00:00.000Z",
         "youtube": {"id": "8K5gNFi5Fvc", "t": 2778},
-        "bilibili": {"id": "BV16E411u7Ni", "t": 2778},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -26, "t": 2778}
+        "bilibiliUC": {"id": "BV16E411u7Ni", "t": 2778},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -26, "t": 2778}
       }]
     },
     {
@@ -1508,8 +1508,8 @@
         "bilibiliCutoutO": {"id": "BV1bC4y1H7tE", "p": 3}
       }, {
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 1739},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 1738}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 1739},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 1738}
       }]
     },
     {
@@ -1759,8 +1759,8 @@
         "bilibiliCutoutU": {"id": "BV1Kg4y1q7RA", "p": 8}
       }, {
         "date": "2020-04-14T14:00:00.000Z",
-        "bilibili": {"id": "BV1Zg4y187wX", "t": 6901},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -30, "t": 6917}
+        "bilibiliOC": {"id": "BV1Zg4y187wX", "t": 6901},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -30, "t": 6917}
       }]
     },
     {
@@ -1866,8 +1866,8 @@
         "bilibiliCutoutU": {"id": "BV1bp4y1r7eT", "p": 2}
       }, {
         "date": "2020-04-14T14:00:00.000Z",
-        "bilibili": {"id": "BV1Zg4y187wX", "t": 4699},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -30, "t": 4715}
+        "bilibiliOC": {"id": "BV1Zg4y187wX", "t": 4699},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -30, "t": 4715}
       }]
     },
 
@@ -2059,8 +2059,8 @@
         "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 9}
       }, {
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 2578},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 2577}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 2578},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 2577}
       }]
     },
     {
@@ -2075,7 +2075,7 @@
       }, {
         "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 1502},
-        "bilibili": {"id": "BV1yi4y1u7s3", "t": 1503},
+        "bilibiliOC": {"id": "BV1yi4y1u7s3", "t": 1503},
         "notes": "1周年記念配信"
       }, {
         "date": "2020-05-11T14:00:00.000Z",
@@ -2285,15 +2285,15 @@
         "bilibiliCutoutU": {"id": "BV1oa4y1n7ao", "p": 4}
       }, {
         "date": "2020-10-17T10:00:00.000Z",
-        "bilibili": {"id": "BV1BK4y1h7ui", "t": 222},
+        "bilibiliUC": {"id": "BV1BK4y1h7ui", "t": 222},
         "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战IV"
       }, {
         "date": "2020-08-25T14:30:00.000Z",
         "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 5}
       }, {
         "date": "2020-04-14T14:00:00.000Z",
-        "bilibili": {"id": "BV1Zg4y187wX", "t": 4219},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -30, "t": 4235},
+        "bilibiliOC": {"id": "BV1Zg4y187wX", "t": 4219},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -30, "t": 4235},
         "bilibiliCutoutO": {"id": "BV1ra4y1v7Mv"}
       }]
     },
@@ -2306,7 +2306,7 @@
       }, {
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 919},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 862},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 862},
         "notes": "3Dお披露目"
       }, {
         "date": "2020-09-13T13:00:00.000Z",
@@ -2323,7 +2323,7 @@
       }, {
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 2257},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 2200},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 2200},
         "notes": "3Dお披露目"
       }]
     },
@@ -2368,8 +2368,8 @@
         "bilibiliCutoutU": {"id": "BV1uz4y1U7QJ", "p": 9}
       }, {
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 3197},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 3197}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 3197},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 3197}
       }]
     },
     {
@@ -2608,7 +2608,7 @@
       }, {
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 1322},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 1265},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 1265},
         "notes": "3Dお披露目"
       }]
     },
@@ -2643,8 +2643,8 @@
         "bilibiliCutoutU": {"id": "BV1SA411J7yJ", "p": 9}
       }, {
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 2042},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 2042}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 2042},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 2042}
       }]
     },
 
@@ -2968,12 +2968,12 @@
       }, {
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 223},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 229},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 229},
         "notes": "3Dお披露目"
       }, {
         "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 533},
-        "bilibili": {"id": "BV1yi4y1u7s3", "t": 534},
+        "bilibiliOC": {"id": "BV1yi4y1u7s3", "t": 534},
         "notes": "1周年記念配信"
       }]
     },
@@ -2998,8 +2998,8 @@
         "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 5}
       }, {
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 2320},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 2318}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 2320},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 2318}
       }]
     },
     {
@@ -3555,8 +3555,8 @@
         "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 3}
       }, {
         "date": "2020-04-14T14:00:00.000Z",
-        "bilibili": {"id": "BV1Zg4y187wX", "t": 5271},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -30, "t": 5287}
+        "bilibiliOC": {"id": "BV1Zg4y187wX", "t": 5271},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -30, "t": 5287}
       }]
     },
     {
@@ -3707,12 +3707,12 @@
       "clips": [{
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 735},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 678},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 678},
         "notes": "3Dお披露目"
       }, {
         "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 1105},
-        "bilibili": {"id": "BV1yi4y1u7s3", "t": 1106},
+        "bilibiliOC": {"id": "BV1yi4y1u7s3", "t": 1106},
         "notes": "1周年記念配信"
       }, {
         "date": "2020-04-04T14:00:00.000Z",
@@ -3720,8 +3720,8 @@
         "bilibiliCutoutO": {"id": "BV1bC4y1H7tE", "p": 7}
       }, {
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 980},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 979}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 980},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 979}
       }]
     },
     {
@@ -3730,15 +3730,15 @@
       "clips": [{
         "date": "2020-10-03T12:00:00.000Z",
         "youtube": {"id": "USoGN4BiDQs", "t": 3210},
-        "bilibili": {"id": "BV1Zy4y1k7qh", "t": 3153},
+        "bilibiliOC": {"id": "BV1Zy4y1k7qh", "t": 3153},
         "notes": "3Dお披露目"
       }, {
         "date": "2020-09-27T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1zi4y177y1", "p": 7}
       }, {
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 5004},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 4997}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 5004},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 4997}
       }]
     },
 
@@ -3986,12 +3986,12 @@
       "clips": [{
         "date": "2020-08-07T12:00:00.000Z",
         "youtube": {"id": "MR1_G4gwKt8-Y", "t": 2539},
-        "bilibili": {"id": "BV1yi4y1u7s3", "t": 2539},
+        "bilibiliOC": {"id": "BV1yi4y1u7s3", "t": 2539},
         "notes": "1周年記念配信"
       }, {
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 1420},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 1419}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 1420},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 1419}
       }]
     },
 
@@ -4458,8 +4458,8 @@
       "language": "ja",
       "clips": [{
         "date": "2020-04-14T14:00:00.000Z",
-        "bilibili": {"id": "BV1Zg4y187wX", "t": 3888},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -30, "t": 3904}
+        "bilibiliOC": {"id": "BV1Zg4y187wX", "t": 3888},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -30, "t": 3904}
       }]
     },
     {
@@ -4467,8 +4467,8 @@
       "language": "ja",
       "clips": [{
         "date": "2020-04-14T14:00:00.000Z",
-        "bilibili": {"id": "BV1Zg4y187wX", "t": 5882},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -30, "t": 5898}
+        "bilibiliOC": {"id": "BV1Zg4y187wX", "t": 5882},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -30, "t": 5898}
       }]
     },
 
@@ -4496,8 +4496,8 @@
       "language": "ja",
       "clips": [{
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 3364},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 3364}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 3364},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 3364}
       }]
     },
     {
@@ -4505,8 +4505,8 @@
       "language": "ja",
       "clips": [{
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 4264},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 4258}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 4264},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 4258}
       }]
     },
     {
@@ -4514,8 +4514,8 @@
       "language": "ja",
       "clips": [{
         "date": "2020-03-20T13:30:00.000Z",
-        "bilibili": {"id": "BV1e7411y75V", "t": 4662},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -28, "t": 4656}
+        "bilibiliOC": {"id": "BV1e7411y75V", "t": 4662},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -28, "t": 4656}
       }]
     },
 
@@ -4524,8 +4524,8 @@
       "language": "ja",
       "clips": [{
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 2600},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 2599}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 2600},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 2599}
       }]
     },
     {
@@ -4533,8 +4533,8 @@
       "language": "ja",
       "clips": [{
         "date": "2020-03-07T12:30:00.000Z",
-        "bilibili": {"id": "BV1XE411M7Qh", "t": 3913},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -27, "t": 3912}
+        "bilibiliOC": {"id": "BV1XE411M7Qh", "t": 3913},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -27, "t": 3912}
       }]
     },
 
@@ -4544,8 +4544,8 @@
       "clips": [{
         "date": "2020-03-05T13:00:00.000Z",
         "youtube": {"id": "8K5gNFi5Fvc", "t": 119},
-        "bilibili": {"id": "BV16E411u7Ni", "t": 119},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -26, "t": 119}
+        "bilibiliUC": {"id": "BV16E411u7Ni", "t": 119},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -26, "t": 119}
       }]
     },
     {
@@ -4554,8 +4554,8 @@
       "clips": [{
         "date": "2020-03-05T13:00:00.000Z",
         "youtube": {"id": "8K5gNFi5Fvc", "t": 1081},
-        "bilibili": {"id": "BV16E411u7Ni", "t": 1081},
-        "bilibili2": {"id": "BV1jE411X7hH", "p": -26, "t": 1081}
+        "bilibiliUC": {"id": "BV16E411u7Ni", "t": 1081},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -26, "t": 1081}
       }]
     }
   ]
