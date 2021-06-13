@@ -49,6 +49,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/06/12 21:00](https://twitter.com/hanamaruhareru/status/1403654808788082690) | YouTube | Y | Z |  |  |
 | [2021/06/06 21:00](https://t.bilibili.com/532986556463353930) | Bilibili | B | Z | [X](https://t.bilibili.com/533233040350461262) |  |
 | [2021/05/30 21:00](https://t.bilibili.com/530388968832179857) | YouTube, Bilibili | YB | Z |  |  |
 | [2021/05/29 19:00](https://t.bilibili.com/530017900837990795) | Bilibili |  | Z |  | [2021年度哔哩哔哩虚拟主播冰火歌合战X](https://www.bilibili.com/blackboard/live/activity-y8heKCmMWC.html) |
@@ -149,6 +150,8 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| ユメヲカケル！ | B | 2021/06/13 | 2021/05/30 |
+| 革命デュアリズム | B | 2021/06/08 | 2021/05/09 |
 | ライオン | B | 2021/05/29 | 2021/05/08 |
 | 打上花火 | B | 2021/05/27 | 2021/05/08 |
 | ガーネット | B | 2021/05/25 | 2021/05/02 |
@@ -191,6 +194,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/06/11 21:00](https://t.bilibili.com/534933052825597819) | Bilibili |  | W | [X](https://t.bilibili.com/535087074647848346) |  |
 | [2021/06/03 19:00](https://twitter.com/kohigashihitona/status/1400091680598941701) | YouTube | Y | W |  |  |
 | [2021/05/29 19:00](https://t.bilibili.com/530178704418577107) | Bilibili |  | W | [X](https://t.bilibili.com/530258410424339937) | [2021年度哔哩哔哩虚拟主播冰火歌合战X](https://www.bilibili.com/blackboard/live/activity-y8heKCmMWC.html) |
 | [2021/05/28 21:00](https://t.bilibili.com/529724125078659893) | Bilibili |  | W | [X](https://t.bilibili.com/529883438299531309) |  |
