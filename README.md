@@ -25,7 +25,7 @@
 
 - 非歌曲类视频，例如游戏或杂谈直播；
 - pixivFANBOX 会员限定歌回录像；
-- [歌手鹿乃](https://kano-official.amebaownd.com/)的所有作品或直播视频。唱见鹿与花寄鹿为两个独立的身份。
+- [歌手鹿乃](https://kano-official.amebaownd.com/)的所有作品或直播视频。唱见鹿与转生前的花寄鹿为两个独立的身份。
 
 虽然ののの毕业了，其他三位也转为个人势继续活动，但花寄箱一生推！
 
@@ -33,7 +33,7 @@
 
 - 官方源：YouTube 官方频道 (Y)、哔哩哔哩官方账号 (B)
   - 官方协力字幕组：[花寄字幕组](https://space.bilibili.com/436457842)、[小鹿字幕组](https://space.bilibili.com/1815452749)、[花丸家字幕组](https://space.bilibili.com/1321544091)、[小人鱼字幕组](https://space.bilibili.com/690942069)
-- 非官方源：[花丸晴琉早安社](https://space.bilibili.com/3017286) (Z)、[小东人魚午安社](https://space.bilibili.com/31049854) (W)、[野野宫ののの游戏社](https://space.bilibili.com/582466811) (G)、[全面发展咸鱼社](https://space.bilibili.com/496198837) (Q)
+- 非官方源：[花丸晴琉早安社](https://space.bilibili.com/3017286) (Z)、[小东人魚午安社 / 花语之寄](https://space.bilibili.com/31049854) (W)、[鹿乃まほろ晚安社 / 鹿乃晚安社](https://space.bilibili.com/619503183) (N)、[野野宫ののの游戏社](https://space.bilibili.com/582466811) (G)、[全面发展咸鱼社](https://space.bilibili.com/496198837) (Q)
 
 ### 鹿乃
 
@@ -49,6 +49,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/06/20 21:00](https://t.bilibili.com/538181736025911294) | Bilibili | B | Z | [X](https://t.bilibili.com/538426050943851159) |  |
 | [2021/06/12 21:00](https://twitter.com/hanamaruhareru/status/1403654808788082690) | YouTube | Y | Z |  |  |
 | [2021/06/06 21:00](https://t.bilibili.com/532986556463353930) | Bilibili | B | Z | [X](https://t.bilibili.com/533233040350461262) |  |
 | [2021/05/30 21:00](https://t.bilibili.com/530388968832179857) | YouTube, Bilibili | YB | Z |  |  |
@@ -116,8 +117,8 @@
 | [2020/03/20 22:30](https://t.bilibili.com/368595832809283608) | Bilibili | BB |  |  | 生日 |
 | [2020/03/07 21:30](https://t.bilibili.com/363771721249994440) | Bilibili | BB |  | [X](https://t.bilibili.com/364015129927511896) |  |
 | [2020/03/05 22:00](https://twitter.com/hanamaruhareru/status/1235520900616744960) | YouTube | YBZ |  |  |  |
-| [2020/02/09 21:00](https://t.bilibili.com/353752434421808596) | Bilibili |  |  | [X](https://t.bilibili.com/353987802926456536) |  |
-| [2020/02/01 23:00](https://t.bilibili.com/350783761616457918) | Bilibili |  |  | [X](https://t.bilibili.com/351046858434223119) |  |
+| [2020/02/09 21:00](https://t.bilibili.com/353752434421808596) | Bilibili | BB | W | [X](https://t.bilibili.com/353987802926456536) |  |
+| [2020/02/01 23:00](https://t.bilibili.com/350783761616457918) | Bilibili |  | BW | [X](https://t.bilibili.com/351046858434223119) |  |
 | [2020/01/26 21:00](https://t.bilibili.com/348557211918997449) | Bilibili |  |  | [X](https://t.bilibili.com/348794229688937999) | 鱼丸联动 |
 | [2020/01/18 22:00](https://twitter.com/hanamaruhareru/status/1218499592045486085) | YouTube |  |  |  |  |
 | [2020/01/12 22:00](https://t.bilibili.com/343362032365430864) | Bilibili |  |  | [X](https://t.bilibili.com/343608812595973474) |  |
@@ -184,6 +185,8 @@ B站歌回切片单曲更新状态：
 | 夏祭り | B | 2020/06/15 | 2020/05/28 |
 | ウィアートル | B | 2020/06/10 | 2020/05/28 |
 | 渡月橋 ～君 想ふ～ | B | 2020/04/27 | 2020/04/14 |
+| 威風堂々 | B | 2020/02/08 | 2020/02/01 |
+| 回る空うさぎ | B | 2020/02/04 | 2020/02/01 |
 | 春天在哪里 | Z | 2021/04/04 | 2021/04/03 |
 | 明日への扉 | Z* | 2021/03/14 | 2021/03/14 |
 | カタオモイ | Z | 2021/02/21 | 2021/02/21 |
@@ -194,6 +197,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/06/19 21:00](https://twitter.com/kohigashihitona/status/1406131095213547525) | YouTube | Y | W |  |  |
 | [2021/06/11 21:00](https://t.bilibili.com/534933052825597819) | Bilibili |  | W | [X](https://t.bilibili.com/535087074647848346) |  |
 | [2021/06/03 19:00](https://twitter.com/kohigashihitona/status/1400091680598941701) | YouTube | Y | W |  |  |
 | [2021/05/29 19:00](https://t.bilibili.com/530178704418577107) | Bilibili |  | W | [X](https://t.bilibili.com/530258410424339937) | [2021年度哔哩哔哩虚拟主播冰火歌合战X](https://www.bilibili.com/blackboard/live/activity-y8heKCmMWC.html) |
@@ -245,9 +249,9 @@ B站歌回切片单曲更新状态：
 | [2020/04/03 22:00](https://t.bilibili.com/373995667560822697) | Bilibili |  | BW* | [X](https://t.bilibili.com/374036078904266249) |  |
 | [2020/03/18 21:00](https://t.bilibili.com/367930984753040278) | Bilibili |  | W* | [X](https://t.bilibili.com/368080445324949195) |  |
 | [2020/03/03 21:00](https://t.bilibili.com/362469177925506420) | Bilibili |  | BWW* | [X](https://t.bilibili.com/362516293718139243) |  |
-| [2020/02/25 22:00](https://twitter.com/kohigashihitona/status/1232149424635142145) | YouTube |  |  |  |  |
-| [2020/02/22 22:00](https://t.bilibili.com/358689267401123199) | Bilibili |  |  | [X](https://t.bilibili.com/358825289015940065) |  |
-| [2020/02/08 21:00](https://t.bilibili.com/353458645771680946) | Bilibili |  |  | [X](https://t.bilibili.com/353611993285798165) |  |
+| [2020/02/25 22:00](https://twitter.com/kohigashihitona/status/1232149424635142145) | YouTube | Y | BW |  |  |
+| [2020/02/22 22:00](https://t.bilibili.com/358689267401123199) | Bilibili |  | W | [X](https://t.bilibili.com/358825289015940065) |  |
+| [2020/02/08 21:00](https://t.bilibili.com/353458645771680946) | Bilibili |  | W* | [X](https://t.bilibili.com/353611993285798165) |  |
 | [2020/01/26 21:00](https://t.bilibili.com/348634542801122029) | Bilibili |  |  | [X](https://t.bilibili.com/348794229688937999) | 鱼丸联动 |
 | 2020/01/18 19:00 | Bilibili |  |  | [X](https://t.bilibili.com/345784862065098881) |  |
 | 2020/01/05 20:00 | Bilibili |  |  | [X](https://t.bilibili.com/340981997711150579) |  |
