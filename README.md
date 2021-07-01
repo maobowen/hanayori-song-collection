@@ -49,6 +49,8 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/06/27 22:30](https://t.bilibili.com/540779362310819391) | Bilibili | B | Z | [X](https://t.bilibili.com/541047617377784004) |  |
+| [2021/06/27 20:00](https://t.bilibili.com/540779362310819391) | Bilibili |  | Z |  | [2021年度哔哩哔哩虚拟主播冰火歌合战XI](https://www.bilibili.com/blackboard/live/activity-8AYzN4MHSQ.html) |
 | [2021/06/20 21:00](https://t.bilibili.com/538181736025911294) | Bilibili | B | Z | [X](https://t.bilibili.com/538426050943851159) |  |
 | [2021/06/12 21:00](https://twitter.com/hanamaruhareru/status/1403654808788082690) | YouTube | Y | Z |  |  |
 | [2021/06/06 21:00](https://t.bilibili.com/532986556463353930) | Bilibili | B | Z | [X](https://t.bilibili.com/533233040350461262) |  |
@@ -197,6 +199,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/06/24 21:00](https://t.bilibili.com/539743386133440939) | Bilibili |  | W | [X](https://t.bilibili.com/539905478196185882) |  |
 | [2021/06/19 21:00](https://twitter.com/kohigashihitona/status/1406131095213547525) | YouTube | Y | W |  |  |
 | [2021/06/11 21:00](https://t.bilibili.com/534933052825597819) | Bilibili |  | W | [X](https://t.bilibili.com/535087074647848346) |  |
 | [2021/06/03 19:00](https://twitter.com/kohigashihitona/status/1400091680598941701) | YouTube | Y | W |  |  |
