@@ -1,6 +1,14 @@
 {
   "pv": [
     {
+      "name": "エンヴィーベイビー",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "v8l2nRzCDz8"},
+        "bilibili": {"id": "BV1iw41197Qr"}
+      }]
+    },
+    {
       "name": "蜜雪冰城主题曲",
       "language": "ja",
       "clips": [{
@@ -262,6 +270,245 @@
     }
   ],
   "live": [
+    {
+      "name": "金魚花火",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 616},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 1}
+      }]
+    },
+    {
+      "name": "カワキヲアメク",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 1123},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 2}
+      }]
+    },
+    {
+      "name": "春を告げる",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 1626},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 3}
+      }, {
+        "date": "2021-04-03T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1WB4y1w7PD", "p": 2}
+      }, {
+        "date": "2021-03-06T12:00:00.000Z",
+        "youtube": {"id": "xwfgIntNmrY", "t": 4985},
+        "bilibiliCutoutU": {"id": "BV1Jy4y1872q", "p": 10}
+      }, {
+        "date": "2021-01-26T11:00:00.000Z",
+        "youtube": {"id": "8fg6K1fgAmE", "t": 3479},
+        "bilibiliCutoutU": {"id": "BV1Fv411s7oT", "p": 8}
+      }, {
+        "date": "2021-01-09T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV15h41127Cm", "p": 4}
+      }]
+    },
+    {
+      "name": "グリグリメガネと月光蟲",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 2025},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 4}
+      }]
+    },
+    {
+      "name": "踊",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 2460},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 5}
+      }, {
+        "date": "2021-07-09T12:00:00.000Z",
+        "youtube": {"id": "yxrXXR-Nlgw", "t": 1962},
+        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 4}
+      }]
+    },
+    {
+      "name": "小夜子",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 2853},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 6}
+      }, {
+        "date": "2021-01-26T11:00:00.000Z",
+        "youtube": {"id": "8fg6K1fgAmE", "t": 1167},
+        "bilibiliCutoutU": {"id": "BV1Fv411s7oT", "p": 2}
+      }, {
+        "date": "2020-08-29T13:00:00.000Z",
+        "youtube": {"id": "xtuPXCO9y_8", "t": 743},
+        "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 1},
+        "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 1}
+      }, {
+        "date": "2020-07-19T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 10}
+      }]
+    },
+    {
+      "name": "右肩の蝶",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 3336},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 7}
+      }, {
+        "date": "2020-05-20T11:00:00.000Z",
+        "youtube": {"id": "oOFGxOcE_nc", "t": 775},
+        "bilibiliCutoutO": {"id": "BV11C4y1a74R", "p": 1},
+        "bilibiliCutoutU": {"id": "BV1D54y1D7FW", "p": 1}
+      }]
+    },
+    {
+      "name": "六等星の夜",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 3859},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 8}
+      }, {
+        "date": "2020-11-29T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ki4y1V7PG", "p": 15}
+      }, {
+        "date": "2020-08-25T14:30:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 10}
+      }]
+    },
+    {
+      "name": "霞光",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 4284},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 9}
+      }, {
+        "date": "2020-06-01T15:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1fK4y1e7E5", "p": 1},
+        "bilibiliCutoutU": {"id": "BV16A411v7Y6", "p": 1}
+      }]
+    },
+    {
+      "name": "シル・ヴ・プレジデント",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 4724},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 10}
+      }, {
+        "date": "2021-07-09T12:00:00.000Z",
+        "youtube": {"id": "yxrXXR-Nlgw", "t": 2440},
+        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 5}
+      }, {
+        "date": "2021-06-20T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1of4y1879z", "t": 2089},
+        "bilibiliCutoutU": {"id": "BV1oy4y1u77Q", "p": 4}
+      }]
+    },
+    {
+      "name": "ひよこと天秤",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 5013},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 11}
+      }]
+    },
+    {
+      "name": "たばこ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 5287},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 12}
+      }, {
+        "date": "2021-02-21T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1DV411e76x", "p": 3}
+      }, {
+        "date": "2021-01-03T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1oa4y1n7ao", "p": 13}
+      }, {
+        "date": "2020-08-07T12:00:00.000Z",
+        "youtube": {"id": "MR1_G4gwKt8-Y", "t": 1502},
+        "bilibiliOC": {"id": "BV1yi4y1u7s3", "t": 1503},
+        "notes": "1周年記念配信"
+      }, {
+        "date": "2020-05-11T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1V54y1Q7do", "p": 6},
+        "bilibiliCutoutU": {"id": "BV1dV411d7SE", "p": 8}
+      }, {
+        "date": "2020-04-04T14:00:00.000Z",
+        "youtube": {"id": "TrOfOn-dA8Q", "t": 4515},
+        "bilibiliCutoutO": {"id": "BV1bC4y1H7tE", "p": 9}
+      }, {
+        "date": "2020-02-01T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1J5411W7S2", "p": 5}
+      }]
+    },
+    {
+      "name": "only my railgun",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 5833},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 13}
+      }, {
+        "date": "2020-10-24T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1EV411y7zz", "p": 3}
+      }, {
+        "date": "2020-08-02T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 5},
+        "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 5}
+      }, {
+        "date": "2020-05-11T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1V54y1Q7do", "p": 7},
+        "bilibiliCutoutU": {"id": "BV1dV411d7SE", "p": 9}
+      }]
+    },
+    {
+      "name": "亜麻色の髪の乙女",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 6358},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 14}
+      }]
+    },
+    {
+      "name": "春擬き",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 6796},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 15}
+      }, {
+        "date": "2021-07-09T12:00:00.000Z",
+        "youtube": {"id": "yxrXXR-Nlgw", "t": 3903},
+        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 8}
+      }]
+    },
+    {
+      "name": "約束をしよう",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 7797},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 16},
+        "excluded": true
+      }, {
+        "date": "2020-04-04T14:00:00.000Z",
+        "youtube": {"id": "TrOfOn-dA8Q", "t": 6549}
+      }]
+    },
+
     {
       "name": "夏祭り",
       "language": "ja",
@@ -565,28 +812,6 @@
       }]
     },
     {
-      "name": "踊",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-07-09T12:00:00.000Z",
-        "youtube": {"id": "yxrXXR-Nlgw", "t": 1962},
-        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 4}
-      }]
-    },
-    {
-      "name": "シル・ヴ・プレジデント",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-07-09T12:00:00.000Z",
-        "youtube": {"id": "yxrXXR-Nlgw", "t": 2440},
-        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 5}
-      }, {
-        "date": "2021-06-20T12:00:00.000Z",
-        "bilibiliOR": {"id": "BV1of4y1879z", "t": 2089},
-        "bilibiliCutoutU": {"id": "BV1oy4y1u77Q", "p": 4}
-      }]
-    },
-    {
       "name": "Sing My Pleasure",
       "language": "ja",
       "clips": [{
@@ -610,15 +835,6 @@
         "date": "2021-06-27T13:30:00.000Z",
         "bilibiliOR": {"id": "BV1e64y197Gg", "t": 2175},
         "bilibiliCutoutU": {"id": "BV1Tq4y1s7gz", "p": 4}
-      }]
-    },
-    {
-      "name": "春擬き",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-07-09T12:00:00.000Z",
-        "youtube": {"id": "yxrXXR-Nlgw", "t": 3903},
-        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 8}
       }]
     },
     {
@@ -2682,25 +2898,6 @@
     },
 
     {
-      "name": "春を告げる",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-04-03T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1WB4y1w7PD", "p": 2}
-      }, {
-        "date": "2021-03-06T12:00:00.000Z",
-        "youtube": {"id": "xwfgIntNmrY", "t": 4985},
-        "bilibiliCutoutU": {"id": "BV1Jy4y1872q", "p": 10}
-      }, {
-        "date": "2021-01-26T11:00:00.000Z",
-        "youtube": {"id": "8fg6K1fgAmE", "t": 3479},
-        "bilibiliCutoutU": {"id": "BV1Fv411s7oT", "p": 8}
-      }, {
-        "date": "2021-01-09T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV15h41127Cm", "p": 4}
-      }]
-    },
-    {
       "name": "さようなら、花泥棒さん",
       "language": "ja",
       "clips": [{
@@ -2943,33 +3140,6 @@
       }]
     },
 
-    {
-      "name": "たばこ",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-02-21T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1DV411e76x", "p": 3}
-      }, {
-        "date": "2021-01-03T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1oa4y1n7ao", "p": 13}
-      }, {
-        "date": "2020-08-07T12:00:00.000Z",
-        "youtube": {"id": "MR1_G4gwKt8-Y", "t": 1502},
-        "bilibiliOC": {"id": "BV1yi4y1u7s3", "t": 1503},
-        "notes": "1周年記念配信"
-      }, {
-        "date": "2020-05-11T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1V54y1Q7do", "p": 6},
-        "bilibiliCutoutU": {"id": "BV1dV411d7SE", "p": 8}
-      }, {
-        "date": "2020-04-04T14:00:00.000Z",
-        "youtube": {"id": "TrOfOn-dA8Q", "t": 4515},
-        "bilibiliCutoutO": {"id": "BV1bC4y1H7tE", "p": 9}
-      }, {
-        "date": "2020-02-01T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1J5411W7S2", "p": 5}
-      }]
-    },
     {
       "name": "センチメンタルな愛慕心",
       "language": "ja",
@@ -3262,23 +3432,6 @@
       }]
     },
 
-    {
-      "name": "小夜子",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-01-26T11:00:00.000Z",
-        "youtube": {"id": "8fg6K1fgAmE", "t": 1167},
-        "bilibiliCutoutU": {"id": "BV1Fv411s7oT", "p": 2}
-      }, {
-        "date": "2020-08-29T13:00:00.000Z",
-        "youtube": {"id": "xtuPXCO9y_8", "t": 743},
-        "bilibiliCutoutO": {"id": "BV1LD4y1m7Q5", "p": 1},
-        "bilibiliCutoutU": {"id": "BV1hK4y1e7TU", "p": 1}
-      }, {
-        "date": "2020-07-19T13:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1QV411B721", "p": 10}
-      }]
-    },
     {
       "name": "花に亡霊",
       "language": "ja",
@@ -3963,17 +4116,6 @@
       }]
     },
     {
-      "name": "六等星の夜",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-11-29T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1ki4y1V7PG", "p": 15}
-      }, {
-        "date": "2020-08-25T14:30:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1t5411b7kq", "p": 10}
-      }]
-    },
-    {
       "name": "アニソンメドレー：Snow halation、Little Braver、わたしの声、adrenaline!!!、シングルベッド、青空のラプソディ、だんご大家族",
       "language": "ja",
       "clips": [{
@@ -4144,22 +4286,6 @@
       }]
     },
 
-    {
-      "name": "only my railgun",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-10-24T11:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1EV411y7zz", "p": 3}
-      }, {
-        "date": "2020-08-02T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1VA411Y7yG", "p": 5},
-        "bilibiliCutoutU": {"id": "BV1KK4y1v7fo", "p": 5}
-      }, {
-        "date": "2020-05-11T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1V54y1Q7do", "p": 7},
-        "bilibiliCutoutU": {"id": "BV1dV411d7SE", "p": 9}
-      }]
-    },
     {
       "name": "長い間",
       "language": "ja",
@@ -4769,15 +4895,6 @@
     },
 
     {
-      "name": "霞光",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-06-01T15:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1fK4y1e7E5", "p": 1},
-        "bilibiliCutoutU": {"id": "BV16A411v7Y6", "p": 1}
-      }]
-    },
-    {
       "name": "ドラえもんのうた",
       "language": "ja",
       "clips": [{
@@ -4895,16 +5012,6 @@
       }]
     },
 
-    {
-      "name": "右肩の蝶",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-05-20T11:00:00.000Z",
-        "youtube": {"id": "oOFGxOcE_nc", "t": 775},
-        "bilibiliCutoutO": {"id": "BV11C4y1a74R", "p": 1},
-        "bilibiliCutoutU": {"id": "BV1D54y1D7FW", "p": 1}
-      }]
-    },
     {
       "name": "時代メドレー：津軽海峡・冬景色、イミテイション・ゴールド、タッチ、人生いろいろ、『春よ、来い』、モンタージュ、ヒトリノ夜、キセキ、トリセツ、さよならエレジー、I LOVE...",
       "language": "ja",
@@ -5065,14 +5172,6 @@
         "youtube": {"id": "TrOfOn-dA8Q", "t": 700},
         "bilibiliCutoutO": {"id": "BV1bC4y1H7tE", "p": 1},
         "bilibiliCutoutU": {"id": "BV1wz41187mw", "p": 4}
-      }]
-    },
-    {
-      "name": "約束をしよう",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-04-04T14:00:00.000Z",
-        "youtube": {"id": "TrOfOn-dA8Q", "t": 6549}
       }]
     },
 
