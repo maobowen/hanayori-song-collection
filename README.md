@@ -49,6 +49,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/08/06 21:00](https://t.bilibili.com/555622743515206563) | YouTube, Bilibili | YBB |  |  | 二周年纪念直播 |
 | [2021/07/25 21:00](https://t.bilibili.com/551169717131880825) | Bilibili | B | Z | [X](https://t.bilibili.com/551413336257833947) |  |
 | [2021/07/18 21:00](https://t.bilibili.com/548572146679420242) | Bilibili | B | Z | [X](https://t.bilibili.com/548817818809411379) |  |
 | [2021/07/09 21:00](https://twitter.com/hanamaruhareru/status/1413452755541184516) | YouTube | Y | Z |  |  |
@@ -206,6 +207,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/08/07 21:00](https://t.bilibili.com/556071138099374287) | YouTube, Bilibili | YBB | W |  | 二周年纪念直播 |
 | [2021/07/23 21:00](https://t.bilibili.com/550504886251401450) | Bilibili |  | W | [X](https://t.bilibili.com/550666377019864971) |  |
 | [2021/07/10 21:00](https://t.bilibili.com/545765677609133643) | Bilibili |  |  | [X](https://t.bilibili.com/545850967067313707) |  |
 | [2021/07/07 21:00](https://twitter.com/kohigashihitona/status/1412612875227521024) | YouTube | Y | W |  |  |

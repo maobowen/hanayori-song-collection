@@ -1,6 +1,14 @@
 {
   "pv": [
     {
+      "name": "群青",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "TO5eIv7gySE"},
+        "bilibili": {"id": "BV1h44y1173v"}
+      }]
+    },
+    {
       "name": "热爱105°C的你",
       "language": "ja",
       "clips": [{
@@ -254,6 +262,270 @@
     }
   ],
   "live": [
+    {
+      "name": "自己紹介の歌",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 180},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 209},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 209},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 1},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 209},
+        "bilibiliOC": {"id": "BV1za4y1p72o", "t": 231},
+        "bilibiliCutoutU": {"id": "BV1CZ4y1V7GY", "p": 1},
+        "notes": "3Dお披露目"
+      }, {
+        "date": "2020-08-07T13:00:00.000Z",
+        "youtube": {"id": "MQQBxnPkb-Y", "t": 402},
+        "bilibiliOC": {"id": "BV1NT4y177ci", "t": 436},
+        "notes": "1周年記念配信"
+      }]
+    },
+    {
+      "name": "炎",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 1032},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 1061},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 1061},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 2},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2021-06-19T12:00:00.000Z",
+        "youtube": {"id": "nqDdPe9i4Ag", "t": 6569},
+        "bilibiliCutoutU": {"id": "BV1Qg411g75W", "p": 12}
+      }, {
+        "date": "2021-04-24T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV18U4y1b7Qk", "p": 2}
+      }, {
+        "date": "2021-01-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1sz4y167p6", "p": 5}
+      }, {
+        "date": "2020-12-15T12:00:00.000Z",
+        "youtube": {"id": "ziebSbEFtW0", "t": 1511},
+        "bilibiliCutoutU": {"id": "BV1UK411u7QL", "p": 2}
+      }, {
+        "date": "2020-11-14T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1pA411x72s", "p": 4},
+        "bilibiliCutoutU": {"id": "BV1Ta4y1x7xw", "p": 4}
+      }, {
+        "date": "2020-11-14T10:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1zz4y1y7Kt", "p": 1},
+        "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战V"
+      }]
+    },
+    {
+      "name": "ホントノワタシ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 1755},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 1785},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 1785},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 3},
+        "notes": "2周年記念配信"
+      }]
+    },
+    {
+      "name": "群青",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 3230},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 3259},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 3259},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 4},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2021-04-24T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV18U4y1b7Qk", "p": 6}
+      }]
+    },
+    {
+      "name": "secret base 〜君がくれたもの〜",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 3814},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 3844},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 3844},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 5},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2021-06-19T12:00:00.000Z",
+        "youtube": {"id": "nqDdPe9i4Ag", "t": 6029},
+        "bilibiliCutoutU": {"id": "BV1Qg411g75W", "p": 11}
+      }, {
+        "date": "2021-05-04T12:00:00.000Z",
+        "youtube": {"id": "rNJIGUfnfkA", "t": 5501},
+        "bilibiliCutoutU": {"id": "BV17v41157qm", "p": 9}
+      }, {
+        "date": "2020-07-12T11:00:00.000Z",
+        "youtube": {"id": "rUA8dg8NQwI", "t": 4765},
+        "bilibiliCutoutO": {"id": "BV1sA411v7M3", "p": 6}
+      }, {
+        "date": "2020-06-13T10:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1oC4y1a7Az", "p": 5}
+      }, {
+        "date": "2020-06-09T11:00:00.000Z",
+        "youtube": {"id": "MRlDoM-Bfsk", "t": 6582},
+        "bilibiliCutoutO": {"id": "BV16p4y1D71B", "p": 10}
+      }, {
+        "date": "2020-05-29T11:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1j5411Y7N1", "p": 10},
+        "bilibiliCutoutU": {"id": "BV1qK4y1t7iQ"}
+      }, {
+        "date": "2020-02-22T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1sj411f7Na", "p": 10}
+      }]
+    },
+    {
+      "name": "奏",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 5295},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 5325},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 5325},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 6},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2020-06-09T11:00:00.000Z",
+        "youtube": {"id": "MRlDoM-Bfsk", "t": 5850},
+        "bilibiliCutoutO": {"id": "BV16p4y1D71B", "p": 9},
+        "bilibiliCutoutU": {"id": "BV12T4y1E7jw"}
+      }]
+    },
+    {
+      "name": "おじゃま虫",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 5665},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 5695},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 5695},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 7},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2021-05-05T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1Rf4y1p7Ef", "p": 10}
+      }, {
+        "date": "2021-01-15T12:00:00.000Z",
+        "youtube": {"id": "FcZ8NcE13Bk", "t": 6304},
+        "bilibiliCutoutU": {"id": "BV1zK411u7pq", "p": 10}
+      }, {
+        "date": "2020-10-23T12:00:00.000Z",
+        "youtube": {"id": "zjT3QHgb-cU", "t": 3671},
+        "bilibiliOC": {"id": "BV1j5411L7kU", "t": 3671},
+        "bilibiliCutoutU": {"id": "BV1vK4y177qR", "p": 8}
+      }, {
+        "date": "2020-10-08T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1hD4y1d716", "p": 9}
+      }, {
+        "date": "2020-08-25T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1354y1v7eC"}
+      }, {
+        "date": "2020-02-22T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1sj411f7Na", "p": 8}
+      }]
+    },
+    {
+      "name": "ファンサ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 6536},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 6566},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 6566},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 8},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2021-04-22T12:00:00.000Z",
+        "youtube": {"id": "FYpw01WKOlI", "t": 6496},
+        "bilibiliCutoutU": {"id": "BV1sK4y1Z7SJ", "p": 11}
+      }, {
+        "date": "2021-01-29T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1PE411R7w2", "p": -44, "t": 6802},
+        "bilibiliCutoutU": {"id": "BV1wz4y1D7CT", "p": 10}
+      }, {
+        "date": "2021-01-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1sz4y167p6", "p": 11}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 4399},
+        "bilibiliOC": {"id": "BV1za4y1p72o", "t": 4422},
+        "bilibiliCutoutU": {"id": "BV1CZ4y1V7GY", "p": 9},
+        "notes": "3Dお披露目"
+      }, {
+        "date": "2020-09-08T12:00:00.000Z",
+        "youtube": {"id": "H7QcNvnV5VY", "t": 5968},
+        "bilibiliCutoutO": {"id": "BV15a4y1j7oM", "p": 10},
+        "bilibiliCutoutU": {"id": "BV19f4y1S7xE", "p": 9}
+      }, {
+        "date": "2020-08-07T13:00:00.000Z",
+        "youtube": {"id": "MQQBxnPkb-Y", "t": 2705},
+        "bilibiliOC": {"id": "BV1NT4y177ci", "t": 2739},
+        "notes": "1周年記念配信"
+      }, {
+        "date": "2020-07-12T11:00:00.000Z",
+        "youtube": {"id": "rUA8dg8NQwI", "t": 5203},
+        "bilibiliCutoutO": {"id": "BV1sA411v7M3", "p": 1},
+        "bilibiliCutoutU": {"id": "BV115411Y7rb"}
+      }, {
+        "date": "2020-06-09T11:00:00.000Z",
+        "youtube": {"id": "MRlDoM-Bfsk", "t": 7585},
+        "bilibiliCutoutO": {"id": "BV16p4y1D71B", "p": 11},
+        "bilibiliCutoutU": {"id": "BV1zT4y1E7iH"}
+      }, {
+        "date": "2020-05-04T12:00:00.000Z",
+        "bilibiliOC": {"id": "BV1554y1X7as", "t": 6530},
+        "bilibiliOR": {"id": "BV1PE411R7w2", "p": -20, "t": 6530}
+      }, {
+        "date": "2020-04-13T12:00:00.000Z",
+        "youtube": {"id": "6Oha7Me4op8", "t": 5673}
+      }, {
+        "date": "2020-02-25T13:00:00.000Z",
+        "youtube": {"id": "dAMPrNVuJt0", "t": 5090},
+        "bilibiliCutoutO": {"id": "BV1m5411a7sh", "p": 11}
+      }, {
+        "date": "2020-02-22T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1sj411f7Na", "p": 12}
+      }]
+    },
+    {
+      "name": "愛言葉Ⅲ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-07T12:00:00.000Z",
+        "youtube": {"id": "MPn1b5DKQ-Q", "t": 6973},
+        "bilibiliOC": {"id": "BV15o4y1D7ig", "t": 7003},
+        "bilibiliOR": {"id": "BV1BU4y1J7ba", "t": 7003},
+        "bilibiliCutoutU": {"id": "BV1Y3411r7Sx", "p": 9},
+        "notes": "2周年記念配信"
+      }, {
+        "date": "2021-05-04T12:00:00.000Z",
+        "youtube": {"id": "rNJIGUfnfkA", "t": 5980},
+        "bilibiliCutoutU": {"id": "BV17v41157qm", "p": 10}
+      }, {
+        "date": "2021-03-26T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV14K4y1T7aj", "p": 10}
+      }, {
+        "date": "2020-12-12T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1vX4y1u7Xr", "p": 11}
+      }, {
+        "date": "2020-11-07T12:00:00.000Z",
+        "youtube": {"id": "2_D4HrcoitE", "t": 4070},
+        "bilibiliOC": {"id": "BV1za4y1p72o", "t": 4093},
+        "bilibiliCutoutU": {"id": "BV1CZ4y1V7GY", "p": 8},
+        "notes": "3Dお披露目"
+      }]
+    },
+    
     {
       "name": "小夜子",
       "language": "ja",
@@ -883,64 +1155,6 @@
         "date": "2020-04-13T12:00:00.000Z",
         "youtube": {"id": "6Oha7Me4op8", "t": 1325},
         "bilibiliCutoutU": {"id": "BV1pf4y1S7xe"}
-      }]
-    },
-    {
-      "name": "secret base 〜君がくれたもの〜",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-06-19T12:00:00.000Z",
-        "youtube": {"id": "nqDdPe9i4Ag", "t": 6029},
-        "bilibiliCutoutU": {"id": "BV1Qg411g75W", "p": 11}
-      }, {
-        "date": "2021-05-04T12:00:00.000Z",
-        "youtube": {"id": "rNJIGUfnfkA", "t": 5501},
-        "bilibiliCutoutU": {"id": "BV17v41157qm", "p": 9}
-      }, {
-        "date": "2020-07-12T11:00:00.000Z",
-        "youtube": {"id": "rUA8dg8NQwI", "t": 4765},
-        "bilibiliCutoutO": {"id": "BV1sA411v7M3", "p": 6}
-      }, {
-        "date": "2020-06-13T10:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1oC4y1a7Az", "p": 5}
-      }, {
-        "date": "2020-06-09T11:00:00.000Z",
-        "youtube": {"id": "MRlDoM-Bfsk", "t": 6582},
-        "bilibiliCutoutO": {"id": "BV16p4y1D71B", "p": 10}
-      }, {
-        "date": "2020-05-29T11:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1j5411Y7N1", "p": 10},
-        "bilibiliCutoutU": {"id": "BV1qK4y1t7iQ"}
-      }, {
-        "date": "2020-02-22T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1sj411f7Na", "p": 10}
-      }]
-    },
-    {
-      "name": "炎",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-06-19T12:00:00.000Z",
-        "youtube": {"id": "nqDdPe9i4Ag", "t": 6569},
-        "bilibiliCutoutU": {"id": "BV1Qg411g75W", "p": 12}
-      }, {
-        "date": "2021-04-24T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV18U4y1b7Qk", "p": 2}
-      }, {
-        "date": "2021-01-02T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1sz4y167p6", "p": 5}
-      }, {
-        "date": "2020-12-15T12:00:00.000Z",
-        "youtube": {"id": "ziebSbEFtW0", "t": 1511},
-        "bilibiliCutoutU": {"id": "BV1UK411u7QL", "p": 2}
-      }, {
-        "date": "2020-11-14T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1pA411x72s", "p": 4},
-        "bilibiliCutoutU": {"id": "BV1Ta4y1x7xw", "p": 4}
-      }, {
-        "date": "2020-11-14T10:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1zz4y1y7Kt", "p": 1},
-        "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战V"
       }]
     },
     {
@@ -1615,32 +1829,6 @@
         "bilibiliCutoutU": {"id": "BV1Q7411K7br", "p": 5}
       }]
     },
-    {
-      "name": "おじゃま虫",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-05T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1Rf4y1p7Ef", "p": 10}
-      }, {
-        "date": "2021-01-15T12:00:00.000Z",
-        "youtube": {"id": "FcZ8NcE13Bk", "t": 6304},
-        "bilibiliCutoutU": {"id": "BV1zK411u7pq", "p": 10}
-      }, {
-        "date": "2020-10-23T12:00:00.000Z",
-        "youtube": {"id": "zjT3QHgb-cU", "t": 3671},
-        "bilibiliOC": {"id": "BV1j5411L7kU", "t": 3671},
-        "bilibiliCutoutU": {"id": "BV1vK4y177qR", "p": 8}
-      }, {
-        "date": "2020-10-08T11:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1hD4y1d716", "p": 9}
-      }, {
-        "date": "2020-08-25T11:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1354y1v7eC"}
-      }, {
-        "date": "2020-02-22T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1sj411f7Na", "p": 8}
-      }]
-    },
 
     {
       "name": "恋空予報",
@@ -1754,27 +1942,6 @@
         "bilibiliCutoutU": {"id": "BV17v41157qm", "p": 8}
       }]
     },
-    {
-      "name": "愛言葉Ⅲ",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-04T12:00:00.000Z",
-        "youtube": {"id": "rNJIGUfnfkA", "t": 5980},
-        "bilibiliCutoutU": {"id": "BV17v41157qm", "p": 10}
-      }, {
-        "date": "2021-03-26T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV14K4y1T7aj", "p": 10}
-      }, {
-        "date": "2020-12-12T11:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1vX4y1u7Xr", "p": 11}
-      }, {
-        "date": "2020-11-07T12:00:00.000Z",
-        "youtube": {"id": "2_D4HrcoitE", "t": 4070},
-        "bilibiliOC": {"id": "BV1za4y1p72o", "t": 4093},
-        "bilibiliCutoutU": {"id": "BV1CZ4y1V7GY", "p": 8},
-        "notes": "3Dお披露目"
-      }]
-    },
 
     {
       "name": "チャイナアドバイス",
@@ -1806,14 +1973,6 @@
         "date": "2020-06-27T11:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1Zp4y1U7vK"},
         "bilibiliCutoutU": {"id": "BV1YA411i7L5"}
-      }]
-    },
-    {
-      "name": "群青",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-04-24T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV18U4y1b7Qk", "p": 6}
       }]
     },
     {
@@ -1926,62 +2085,6 @@
       }, {
         "date": "2020-12-22T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1T54y1x7g9", "p": 4}
-      }]
-    },
-    {
-      "name": "ファンサ",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-04-22T12:00:00.000Z",
-        "youtube": {"id": "FYpw01WKOlI", "t": 6496},
-        "bilibiliCutoutU": {"id": "BV1sK4y1Z7SJ", "p": 11}
-      }, {
-        "date": "2021-01-29T12:00:00.000Z",
-        "bilibiliOR": {"id": "BV1PE411R7w2", "p": -44, "t": 6802},
-        "bilibiliCutoutU": {"id": "BV1wz4y1D7CT", "p": 10}
-      }, {
-        "date": "2021-01-02T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1sz4y167p6", "p": 11}
-      }, {
-        "date": "2020-11-07T12:00:00.000Z",
-        "youtube": {"id": "2_D4HrcoitE", "t": 4399},
-        "bilibiliOC": {"id": "BV1za4y1p72o", "t": 4422},
-        "bilibiliCutoutU": {"id": "BV1CZ4y1V7GY", "p": 9},
-        "notes": "3Dお披露目"
-      }, {
-        "date": "2020-09-08T12:00:00.000Z",
-        "youtube": {"id": "H7QcNvnV5VY", "t": 5968},
-        "bilibiliCutoutO": {"id": "BV15a4y1j7oM", "p": 10},
-        "bilibiliCutoutU": {"id": "BV19f4y1S7xE", "p": 9}
-      }, {
-        "date": "2020-08-07T13:00:00.000Z",
-        "youtube": {"id": "MQQBxnPkb-Y", "t": 2705},
-        "bilibiliOC": {"id": "BV1NT4y177ci", "t": 2739},
-        "notes": "1周年記念配信"
-      }, {
-        "date": "2020-07-12T11:00:00.000Z",
-        "youtube": {"id": "rUA8dg8NQwI", "t": 5203},
-        "bilibiliCutoutO": {"id": "BV1sA411v7M3", "p": 1},
-        "bilibiliCutoutU": {"id": "BV115411Y7rb"}
-      }, {
-        "date": "2020-06-09T11:00:00.000Z",
-        "youtube": {"id": "MRlDoM-Bfsk", "t": 7585},
-        "bilibiliCutoutO": {"id": "BV16p4y1D71B", "p": 11},
-        "bilibiliCutoutU": {"id": "BV1zT4y1E7iH"}
-      }, {
-        "date": "2020-05-04T12:00:00.000Z",
-        "bilibiliOC": {"id": "BV1554y1X7as", "t": 6530},
-        "bilibiliOR": {"id": "BV1PE411R7w2", "p": -20, "t": 6530}
-      }, {
-        "date": "2020-04-13T12:00:00.000Z",
-        "youtube": {"id": "6Oha7Me4op8", "t": 5673}
-      }, {
-        "date": "2020-02-25T13:00:00.000Z",
-        "youtube": {"id": "dAMPrNVuJt0", "t": 5090},
-        "bilibiliCutoutO": {"id": "BV1m5411a7sh", "p": 11}
-      }, {
-        "date": "2020-02-22T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1sj411f7Na", "p": 12}
       }]
     },
 
@@ -2805,22 +2908,6 @@
     },
 
     {
-      "name": "自己紹介の歌",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-11-07T12:00:00.000Z",
-        "youtube": {"id": "2_D4HrcoitE", "t": 209},
-        "bilibiliOC": {"id": "BV1za4y1p72o", "t": 231},
-        "bilibiliCutoutU": {"id": "BV1CZ4y1V7GY", "p": 1},
-        "notes": "3Dお披露目"
-      }, {
-        "date": "2020-08-07T13:00:00.000Z",
-        "youtube": {"id": "MQQBxnPkb-Y", "t": 402},
-        "bilibiliOC": {"id": "BV1NT4y177ci", "t": 436},
-        "notes": "1周年記念配信"
-      }]
-    },
-    {
       "name": "紅蓮華",
       "language": "ja",
       "clips": [{
@@ -3220,16 +3307,6 @@
         "date": "2020-05-29T11:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1j5411Y7N1", "p": 5},
         "bilibiliCutoutU": {"id": "BV15z4y197SM"}
-      }]
-    },
-    {
-      "name": "奏",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-06-09T11:00:00.000Z",
-        "youtube": {"id": "MRlDoM-Bfsk", "t": 5850},
-        "bilibiliCutoutO": {"id": "BV16p4y1D71B", "p": 9},
-        "bilibiliCutoutU": {"id": "BV12T4y1E7jw"}
       }]
     },
 
