@@ -266,6 +266,16 @@ const renderPage = (memberId) => {
   $('#sidebar-icon-youtube').attr('href', `https://youtube.com/channel/${member.youtube}`);
   $('#sidebar-icon-youtube2').remove();
   $('#sidebar-icon-bilibili').attr('href', `https://space.bilibili.com/${member.bilibili}`);
+  if (member.fanbox) {
+    $('#sidebar-icon-fanbox').attr('href', `https://${member.fanbox}.fanbox.cc/`);
+  } else {
+    $('#sidebar-icon-fanbox').remove();
+  }
+  if (member.booth) {
+    $('#sidebar-icon-booth').attr('href', `https://${member.booth}.booth.pm/`);
+  } else {
+    $('#sidebar-icon-booth').remove();
+  }
   $('#sidebar-name-cn').text(member.profile.nameCN);
   $('#sidebar-name-en').text(member.profile.nameEN);
   $('#sidebar-class').text(member.profile.class);
@@ -467,28 +477,42 @@ const renderHomepage = () => {
   $('#home-container .row').empty();
   for (const memberId of HANAYORI_MEMBER_IDS) {
     const member = ARTISTS.get(memberId);
-    $('#home-container .row').append(`<div class="col-6 col-md-3 mb-2">
+    let homeContainerHtml = `<div class="col-6 col-md-3 mb-2">
         <a href="./?v=${memberId}">
           <img alt="Avatar of ${member.profile.nameEN}" class="avatar rounded-circle" src="${member.resources.avatar}" />
         </a>
         <h4 class="text-center mt-2">${member.nameWithRubyStyling}</h4>
         <div class="text-center">
-          <a id="sidebar-icon-twitter" href="https://twitter.com/${member.twitter}" target="_blank" class="d-inline-block icon-twitter mx-1">
+          <a id="sidebar-icon-twitter" href="https://twitter.com/${member.twitter}" target="_blank" class="d-inline-block icon-twitter">
             <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg">
               <use xlink:href="#icon-twitter" />
             </svg>
           </a>
-          <a id="sidebar-icon-youtube" href="https://youtube.com/channel/${member.youtube}" target="_blank" class="d-inline-block icon-youtube mx-1">
+          <a id="sidebar-icon-youtube" href="https://youtube.com/channel/${member.youtube}" target="_blank" class="d-inline-block icon-youtube">
             <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg">
               <use xlink:href="#icon-youtube" />
             </svg>
           </a>
-          <a id="sidebar-icon-bilibili" href="https://space.bilibili.com/${member.bilibili}" target="_blank" class="d-inline-block icon-bilibili mx-1">
+          <a id="sidebar-icon-bilibili" href="https://space.bilibili.com/${member.bilibili}" target="_blank" class="d-inline-block icon-bilibili">
             <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg">
               <use xlink:href="#icon-bilibili" />
             </svg>
-          </a>
-        </div>
+          </a>`;
+    if (member.fanbox) {
+      homeContainerHtml += `<a id="sidebar-icon-fanbox" href="https://${member.fanbox}.fanbox.cc/" target="_blank" class="d-inline-block icon-fanbox">
+          <svg width="1.8em" height="1.3em" version="1.1" xmlns="http://www.w3.org/2000/svg">
+            <use xlink:href="#icon-fanbox" />
+          </svg>
+        </a>`;
+    }
+    if (member.booth) {
+      homeContainerHtml += `<a id="sidebar-icon-booth" href="https://${member.booth}.booth.pm/" target="_blank" class="d-inline-block icon-booth">
+          <svg width="1.5em" height="1.4em" version="1.1" xmlns="http://www.w3.org/2000/svg">
+            <use xlink:href="#icon-booth" />
+          </svg>
+        </a>`;
+    }
+    homeContainerHtml += `</div>
         <div class="text-center">
           <ul class="list-unstyled mb-0 mt-2">
             <li>${member.profile.nameCN}</li>
@@ -497,7 +521,8 @@ const renderHomepage = () => {
             <li class="twemoji">${member.profile.mark}</li>
           </ul>
         </div>
-      </div>`);
+      </div>`;
+    $('#home-container .row').append(homeContainerHtml);
   }
   $('#songs-container').remove();
 };

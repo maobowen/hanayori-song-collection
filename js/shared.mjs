@@ -28,12 +28,16 @@ export class HanayoriMember extends Artist {
    * @param {string | null} twitter Twitter handler.
    * @param {string | null} youtube YouTube channel ID.
    * @param {number | null} bilibili Bilibili user ID.
+   * @param {string | null} fanbox pixivFANBOX ID.
+   * @param {string | null} booth pixiv BOOTH ID.
    * @param {string | null} nameWithRubyStyling Japanese Name with Furiganas.
    * @param {Object | null} resources Resources, including images, etc.
    * @param {Object | null} profile Profile, including names in other languages, birthday, etc.
    */
-  constructor({ id, name, twitter=null, youtube=null, bilibili=null, nameWithRubyStyling=null, resources=null, profile=null } = {}) {
+  constructor({ id, name, twitter=null, youtube=null, bilibili=null, fanbox=null, booth=null, nameWithRubyStyling=null, resources=null, profile=null } = {}) {
     super({ id, name, twitter, youtube, bilibili });
+    this.fanbox = fanbox;
+    this.booth = booth;
     this.nameWithRubyStyling = nameWithRubyStyling;
     this.resources = resources;
     this.profile = profile;
@@ -102,6 +106,8 @@ export const ARTISTS = new Map([
     twitter: 'hanamaruhareru',
     youtube: 'UCyIcOCH-VWaRKH9IkR8hz7Q',
     bilibili: 441381282,
+    fanbox: 'hanamaruhareru',
+    booth: 'hanamaruhareru',
     resources: {
       avatar: 'images/avatar_hareru.jpg',
       avatarNew: 'images/avatar_hareru_current.jpg',
@@ -125,6 +131,8 @@ export const ARTISTS = new Map([
     twitter: 'kohigashihitona',
     youtube: 'UCV2m2UifDGr3ebjSnDv5rUA',
     bilibili: 441382432,
+    fanbox: 'kohigashihitona',
+    booth: '1107-official',
     resources: {
       avatar: 'images/avatar_hitona.jpg',
       avatarNew: 'images/avatar_hitona_current.jpg',

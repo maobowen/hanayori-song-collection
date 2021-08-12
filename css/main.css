@@ -105,6 +105,14 @@ main {
   color: #00b5e5;
 }
 
+.icon-booth:hover {
+  color: #fc4d50;
+}
+
+.icon-fanbox:hover {
+  color: #f9ef7f;
+}
+
 .icon-twitter:hover {
   color: #1da1f2;
 }
