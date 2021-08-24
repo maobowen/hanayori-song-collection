@@ -32,7 +32,7 @@
 ## 歌回
 
 - 官方源：YouTube 官方频道 (Y)、哔哩哔哩官方账号 (B)
-  - 官方协力字幕组：[花寄字幕组](https://space.bilibili.com/436457842)、[小鹿字幕组](https://space.bilibili.com/1815452749)、[花丸家字幕组](https://space.bilibili.com/1321544091)、[小人鱼字幕组](https://space.bilibili.com/690942069)
+  - 官方协力字幕组 (J)：[花寄字幕组](https://space.bilibili.com/436457842)、[小鹿字幕组](https://space.bilibili.com/1815452749)、[花丸家字幕组](https://space.bilibili.com/1321544091)、[小人鱼字幕组](https://space.bilibili.com/690942069)
 - 非官方源：[花丸晴琉早安社](https://space.bilibili.com/3017286) (Z)、[小东人魚午安社 / 花语之寄](https://space.bilibili.com/31049854) (W)、[鹿乃まほろ晚安社 / 鹿乃晚安社](https://space.bilibili.com/619503183) (N)、[野野宫ののの游戏社](https://space.bilibili.com/582466811) (G)、[全面发展咸鱼社](https://space.bilibili.com/496198837) (Q)
 
 ### 鹿乃
@@ -49,6 +49,8 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/08/17 21:00](https://t.bilibili.com/559704697614509602) | Bilibili | BB |  |  | 哔哩哔哩二周年纪念直播 |
+| [2021/08/14 21:00](https://t.bilibili.com/558591450681103948) | Bilibili | B | Z | [X](https://t.bilibili.com/558837586662961372) |  |
 | [2021/08/06 21:00](https://t.bilibili.com/555622743515206563) | YouTube, Bilibili | YBB |  |  | 二周年纪念直播 |
 | [2021/07/25 21:00](https://t.bilibili.com/551169717131880825) | Bilibili | B | Z | [X](https://t.bilibili.com/551413336257833947) |  |
 | [2021/07/18 21:00](https://t.bilibili.com/548572146679420242) | Bilibili | B | Z | [X](https://t.bilibili.com/548817818809411379) |  |
@@ -158,6 +160,8 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| 回る空うさぎ | J | 2021/08/24 | 2021/08/17 |
+| unravel | B | 2021/08/10 | 2021/05/29 |
 | 恋空予報 | B | 2021/07/06 | 2021/05/20 |
 | おねがいダーリン | B | 2021/07/03 | 2021/05/20 |
 | ユメヲカケル！ | B | 2021/06/13 | 2021/05/30 |
@@ -207,6 +211,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/08/21 21:00](https://t.bilibili.com/561266356309505328) | Bilibili | B | W | [X](https://t.bilibili.com/561429921549228178) |  |
 | [2021/08/07 21:00](https://t.bilibili.com/556071138099374287) | YouTube, Bilibili | YBB | W |  | 二周年纪念直播 |
 | [2021/07/23 21:00](https://t.bilibili.com/550504886251401450) | Bilibili |  | W | [X](https://t.bilibili.com/550666377019864971) |  |
 | [2021/07/10 21:00](https://t.bilibili.com/545765677609133643) | Bilibili |  |  | [X](https://t.bilibili.com/545850967067313707) |  |
