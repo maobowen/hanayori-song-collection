@@ -59,6 +59,7 @@ export const ARTISTS = new Map([
     twitter: 'Kanolive_',
     youtube: 'UCfuz6xYbYFGsWWBi3SpJI1w',
     bilibili: 316381099,
+    booth: 'kanomahoro',
     resources: {
       avatar: 'images/avatar_kano.jpg',
       avatarNew: 'images/avatar_kano_current.jpg',

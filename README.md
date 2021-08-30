@@ -49,6 +49,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/08/29 21:00](https://t.bilibili.com/564157981693342586) | Bilibili | B | Z | [X](https://t.bilibili.com/564395132607226131) |  |
 | [2021/08/17 21:00](https://t.bilibili.com/559704697614509602) | Bilibili | BB |  |  | 哔哩哔哩二周年纪念直播 |
 | [2021/08/14 21:00](https://t.bilibili.com/558591450681103948) | Bilibili | B | Z | [X](https://t.bilibili.com/558837586662961372) |  |
 | [2021/08/06 21:00](https://t.bilibili.com/555622743515206563) | YouTube, Bilibili | YBB |  |  | 二周年纪念直播 |
@@ -57,12 +58,12 @@
 | [2021/07/09 21:00](https://twitter.com/hanamaruhareru/status/1413452755541184516) | YouTube | Y | Z |  |  |
 | [2021/07/04 21:00](https://t.bilibili.com/543376958531948442) | Bilibili | B | Z | [X](https://t.bilibili.com/543616428726908774) |  |
 | [2021/06/27 22:30](https://t.bilibili.com/540779362310819391) | Bilibili | B | Z | [X](https://t.bilibili.com/541047617377784004) |  |
-| [2021/06/27 20:00](https://t.bilibili.com/540779362310819391) | Bilibili |  | Z |  | [2021年度哔哩哔哩虚拟主播冰火歌合战XI](https://www.bilibili.com/blackboard/live/activity-8AYzN4MHSQ.html) |
+| [2021/06/27 20:00](https://t.bilibili.com/540779362310819391) | Bilibili |  | Z |  | [哔哩哔哩虚拟主播冰火歌合战XI](https://www.bilibili.com/blackboard/live/activity-8AYzN4MHSQ.html) |
 | [2021/06/20 21:00](https://t.bilibili.com/538181736025911294) | Bilibili | B | Z | [X](https://t.bilibili.com/538426050943851159) |  |
 | [2021/06/12 21:00](https://twitter.com/hanamaruhareru/status/1403654808788082690) | YouTube | Y | Z |  |  |
 | [2021/06/06 21:00](https://t.bilibili.com/532986556463353930) | Bilibili | B | Z | [X](https://t.bilibili.com/533233040350461262) |  |
 | [2021/05/30 21:00](https://t.bilibili.com/530388968832179857) | YouTube, Bilibili | YB | Z |  |  |
-| [2021/05/29 19:00](https://t.bilibili.com/530017900837990795) | Bilibili |  | Z |  | [2021年度哔哩哔哩虚拟主播冰火歌合战X](https://www.bilibili.com/blackboard/live/activity-y8heKCmMWC.html) |
+| [2021/05/29 19:00](https://t.bilibili.com/530017900837990795) | Bilibili |  | Z |  | [哔哩哔哩虚拟主播冰火歌合战X](https://www.bilibili.com/blackboard/live/activity-y8heKCmMWC.html) |
 | [2021/05/20 21:00](https://t.bilibili.com/526678121385595276) | Bilibili | BB | Z | [X](https://t.bilibili.com/526917969543062445) |  |
 | [2021/05/16 21:00](https://t.bilibili.com/525193784981592984) | Bilibili |  | Z | [X](https://t.bilibili.com/525437743423448989) |  |
 | [2021/05/09 21:00](https://t.bilibili.com/522596163000294837) | Bilibili |  | Z | [X](https://t.bilibili.com/522841732041272843) |  |
@@ -84,7 +85,7 @@
 | [2021/01/24 21:00](https://t.bilibili.com/483632241157060687) | Bilibili |  | Z | [X](https://t.bilibili.com/483873059977844521) |  |
 | [2021/01/09 21:00](https://t.bilibili.com/478065942066137324) | Bilibili |  | Z | [X](https://t.bilibili.com/478305584066899788) |  |
 | [2021/01/03 22:00](https://t.bilibili.com/475839452501515776) | Bilibili |  | Z | [X](https://t.bilibili.com/476094771121527045) |  |
-| [2020/12/31 21:00](https://t.bilibili.com/474726214152010313) | Bilibili |  |  |  | [2020年度哔哩哔哩虚拟主播冰火歌合战VI](https://www.bilibili.com/blackboard/live/activity-KR-a2hmi7.html) |
+| [2020/12/31 21:00](https://t.bilibili.com/474726214152010313) | Bilibili |  |  |  | [哔哩哔哩虚拟主播冰火歌合战VI](https://www.bilibili.com/blackboard/live/activity-KR-a2hmi7.html) |
 | [2020/12/30 22:00](https://t.bilibili.com/474556202170095703) | YouTube, Bilibili | Y | Z | [X](https://t.bilibili.com/474612487714844979) |  |
 | [2020/12/27 22:00](https://t.bilibili.com/473241839096026004) | Bilibili |  | Z | [X](https://t.bilibili.com/473495504161835141) |  |
 | [2020/12/23 21:00](https://twitter.com/hanamaruhareru/status/1341701620711604226) | YouTube | Y | Z |  |  |
@@ -96,7 +97,7 @@
 | [2020/11/03 22:00](https://twitter.com/hanamaruhareru/status/1323580263176105984) | YouTube | Y | Z |  |  |
 | [2020/10/24 20:00](https://t.bilibili.com/449492396524764308) | Bilibili |  | Z | [X](https://t.bilibili.com/449829298053876623) |  |
 | [2020/10/17 23:00](https://t.bilibili.com/446894791720094268) | Bilibili |  | Z | [X](https://t.bilibili.com/447162621579583797) |  |
-| [2020/10/17 19:00](https://t.bilibili.com/446894791720094268) | Bilibili | Z |  |  | [2020年度哔哩哔哩虚拟主播冰火歌合战IV](https://www.bilibili.com/blackboard/live/activity-rhDqfH24V.html) |
+| [2020/10/17 19:00](https://t.bilibili.com/446894791720094268) | Bilibili | Z |  |  | [哔哩哔哩虚拟主播冰火歌合战IV](https://www.bilibili.com/blackboard/live/activity-rhDqfH24V.html) |
 | [2020/10/06 21:00](https://t.bilibili.com/442812863385743061) | Bilibili |  | Z | [X](https://t.bilibili.com/443050413733945140) | [国庆中秋大联欢](https://www.bilibili.com/blackboard/dynamic/3908​) |
 | [2020/10/03 21:00](https://t.bilibili.com/441699612158401192) | YouTube, Bilibili | YB |  |  | 3D发布演唱会 |
 | [2020/09/27 22:00](https://t.bilibili.com/439473118294269122) | Bilibili |  | Z | [X](https://t.bilibili.com/439729695343435434) |  |
@@ -135,7 +136,7 @@
 | [2019/12/27 23:00](https://t.bilibili.com/337424699633186108) | Bilibili |  |  |  | [Bilibili Live Star 2019 虚拟主播邀请赛](https://www.bilibili.com/blackboard/live/bls-v-web.html) |
 | [2019/12/26 22:00](https://t.bilibili.com/337053588692403430) | Bilibili |  |  |  | [Bilibili Live Star 2019 虚拟主播邀请赛](https://www.bilibili.com/blackboard/live/bls-v-web.html) |
 | [2019/12/21 23:00](https://t.bilibili.com/335198175705444250) | Bilibili |  |  | [X](https://t.bilibili.com/335458205910087850) |  |
-| [2019/12/21 19:00](https://t.bilibili.com/335198175705444250) | Bilibili |  |  |  | [2019年度哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-singingbattlesp.html) |
+| [2019/12/21 19:00](https://t.bilibili.com/335198175705444250) | Bilibili |  |  |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-singingbattlesp.html) |
 | [2019/12/21 16:30](https://t.bilibili.com/335198175705444250) | Bilibili |  |  |  | [BilibiliWorld 2019 成都站 超V学园](https://bw.bilibili.com/2019/index.html#/chengdu/) |
 | [2019/12/15 22:00](https://t.bilibili.com/332971638889656758) | Bilibili |  |  | [X](https://t.bilibili.com/333220442050877898) |  |
 | [2019/12/07 22:00](https://t.bilibili.com/330002970376852080) | Bilibili |  |  | [X](https://t.bilibili.com/330255853756865967) |  |
@@ -211,6 +212,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2020/08/29 20:00](https://t.bilibili.com/564157732587335834) | Bilibili |  | W |  | [哔哩哔哩虚拟主播冰火歌合战XIII](https://www.bilibili.com/blackboard/live/activity-AmGmtz3uFP.html) |
 | [2021/08/21 21:00](https://t.bilibili.com/561266356309505328) | Bilibili | B | W | [X](https://t.bilibili.com/561429921549228178) |  |
 | [2021/08/07 21:00](https://t.bilibili.com/556071138099374287) | YouTube, Bilibili | YBB | W |  | 二周年纪念直播 |
 | [2021/07/23 21:00](https://t.bilibili.com/550504886251401450) | Bilibili |  | W | [X](https://t.bilibili.com/550666377019864971) |  |
@@ -220,7 +222,7 @@ B站歌回切片单曲更新状态：
 | [2021/06/19 21:00](https://twitter.com/kohigashihitona/status/1406131095213547525) | YouTube | Y | W |  |  |
 | [2021/06/11 21:00](https://t.bilibili.com/534933052825597819) | Bilibili |  | W | [X](https://t.bilibili.com/535087074647848346) |  |
 | [2021/06/03 19:00](https://twitter.com/kohigashihitona/status/1400091680598941701) | YouTube | Y | W |  |  |
-| [2021/05/29 19:00](https://t.bilibili.com/530178704418577107) | Bilibili |  | W | [X](https://t.bilibili.com/530258410424339937) | [2021年度哔哩哔哩虚拟主播冰火歌合战X](https://www.bilibili.com/blackboard/live/activity-y8heKCmMWC.html) |
+| [2021/05/29 19:00](https://t.bilibili.com/530178704418577107) | Bilibili |  | W | [X](https://t.bilibili.com/530258410424339937) | [哔哩哔哩虚拟主播冰火歌合战X](https://www.bilibili.com/blackboard/live/activity-y8heKCmMWC.html) |
 | [2021/05/28 21:00](https://t.bilibili.com/529724125078659893) | Bilibili |  | W | [X](https://t.bilibili.com/529883438299531309) |  |
 | [2021/05/14 21:00](https://t.bilibili.com/524584294761608876) | Bilibili |  | W | [X](https://t.bilibili.com/524702745666498826) |  |
 | [2021/05/05 21:00](https://t.bilibili.com/521189161769566180) | Bilibili |  | W | [X](https://t.bilibili.com/521353366960189652) | 生日 |
@@ -237,13 +239,13 @@ B站歌回切片单曲更新状态：
 | [2021/01/17 21:00](https://t.bilibili.com/481111958644000725) | Bilibili |  | W | [X](https://t.bilibili.com/481267445057262409) |  |
 | [2021/01/15 21:00](https://twitter.com/kohigashihitona/status/1349914046129049601) | YouTube | Y | W |  |  |
 | [2021/01/02 21:00](https://t.bilibili.com/475545693918683692) | Bilibili |  | W | [X](https://t.bilibili.com/475706523256943448) |  |
-| [2020/12/31 21:00](https://t.bilibili.com/474803514979981622) | Bilibili |  |  |  | [2020年度哔哩哔哩虚拟主播冰火歌合战VI](https://www.bilibili.com/blackboard/live/activity-KR-a2hmi7.html) |
+| [2020/12/31 21:00](https://t.bilibili.com/474803514979981622) | Bilibili |  |  |  | [哔哩哔哩虚拟主播冰火歌合战VI](https://www.bilibili.com/blackboard/live/activity-KR-a2hmi7.html) |
 | [2020/12/22 21:00](https://t.bilibili.com/471463718342742994) | Bilibili |  | W | [X](https://t.bilibili.com/471624294284916277) |  |
 | [2020/12/15 21:00](https://twitter.com/kohigashihitona/status/1338685802625204224) | YouTube | Y | W |  |  |
 | [2020/12/12 20:00](https://t.bilibili.com/467752875187311153) | Bilibili |  | W | [X](https://t.bilibili.com/467893316319668382) |  |
 | [2020/11/28 22:00](https://t.bilibili.com/462557708515689775) | Bilibili |  | W | [x](https://t.bilibili.com/462721363948353964) |  |
 | [2020/11/14 23:00](https://t.bilibili.com/457495024406520489) | Bilibili |  | BW | [X](https://t.bilibili.com/457542221800351584) |  |
-| [2020/11/14 19:00](https://t.bilibili.com/457362494598974694) | Bilibili |  | W | [X](https://t.bilibili.com/457470611809121463) | [2020年度哔哩哔哩虚拟主播冰火歌合战V](https://www.bilibili.com/blackboard/live/activity-hynNoB7eJ.html) |
+| [2020/11/14 19:00](https://t.bilibili.com/457362494598974694) | Bilibili |  | W | [X](https://t.bilibili.com/457470611809121463) | [哔哩哔哩虚拟主播冰火歌合战V](https://www.bilibili.com/blackboard/live/activity-hynNoB7eJ.html) |
 | [2020/11/07 21:00](https://t.bilibili.com/454764902675524607) | YouTube, Bilibili | YB | W |  | 3D发布演唱会 |
 | [2020/11/01 21:00](https://t.bilibili.com/452538400215603800) | Bilibili |  | W | [X](https://t.bilibili.com/452689355432306633) | [虚拟万圣夜](https://www.bilibili.com/blackboard/dynamic/4514) |
 | [2020/10/23 21:00](https://t.bilibili.com/449198607877563394) | YouTube, Bilibili | YB | W |  |  |

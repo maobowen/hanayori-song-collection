@@ -1,6 +1,14 @@
 {
   "pv": [
     {
+      "name": "Pale Blue",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "mHCCppq7F0I"},
+        "bilibili": {"id": "BV1TL4y1Y7KD"}
+      }]
+    },
+    {
       "name": "食虫植物",
       "language": "ja",
       "clips": [{
@@ -279,6 +287,40 @@
   ],
   "live": [
     {
+      "name": "恋愛サーキュレーション",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-29T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1zQ4y117ZC", "p": 1},
+        "notes": "哔哩哔哩虚拟主播冰火歌合战XIII"
+      }, {
+        "date": "2021-05-05T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1Rf4y1p7Ef", "p": 3}
+      }, {
+        "date": "2020-07-21T12:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1Yv411q7s1", "p": 1}
+      }, {
+        "date": "2020-04-03T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1m54y1B7dA", "p": 10},
+        "bilibiliCutoutU": {"id": "BV1LT4y157yh"}
+      }, {
+        "date": "2020-02-25T13:00:00.000Z",
+        "youtube": {"id": "dAMPrNVuJt0", "t": 535},
+        "bilibiliCutoutO": {"id": "BV1m5411a7sh", "p": 1},
+        "bilibiliCutoutU": {"id": "BV1Q7411K7br", "p": 1}
+      }]
+    },
+    {
+      "name": "Pale Blue",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-08-29T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1zQ4y117ZC", "p": 2},
+        "notes": "哔哩哔哩虚拟主播冰火歌合战XIII"
+      }]
+    },
+
+    {
       "name": "打上花火",
       "language": "ja",
       "clips": [{
@@ -541,7 +583,7 @@
       }, {
         "date": "2020-11-14T10:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1zz4y1y7Kt", "p": 1},
-        "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战V"
+        "notes": "哔哩哔哩虚拟主播冰火歌合战V"
       }]
     },
     {
@@ -1372,7 +1414,7 @@
         "date": "2021-05-29T10:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1JB4y1u7zw"},
         "bilibiliCutoutU": {"id": "BV11U4y1L7HB", "p": 1},
-        "notes": "2021年度哔哩哔哩虚拟主播冰火歌合战X"
+        "notes": "哔哩哔哩虚拟主播冰火歌合战X"
       }, {
         "date": "2021-04-22T12:00:00.000Z",
         "youtube": {"id": "FYpw01WKOlI", "t": 3754},
@@ -1419,7 +1461,7 @@
         "date": "2021-05-29T10:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1t5411g7Y5"},
         "bilibiliCutoutU": {"id": "BV11U4y1L7HB", "p": 2},
-        "notes": "2021年度哔哩哔哩虚拟主播冰火歌合战X"
+        "notes": "哔哩哔哩虚拟主播冰火歌合战X"
       }]
     },
     {
@@ -1885,14 +1927,6 @@
       }]
     },
     {
-      "name": "恋爱サーキュレーション",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-05T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1Rf4y1p7Ef", "p": 3}
-      }]
-    },
-    {
       "name": "猫猫的宇宙論",
       "language": "ja",
       "clips": [{
@@ -2239,7 +2273,7 @@
       }, {
         "date": "2020-11-14T10:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1zz4y1y7Kt", "p": 2},
-        "notes": "2020年度哔哩哔哩虚拟主播冰火歌合战V"
+        "notes": "哔哩哔哩虚拟主播冰火歌合战V"
       }]
     },
     {
@@ -2515,12 +2549,20 @@
       }]
     },
     {
-      "name": "爱をこめて花束を",
+      "name": "愛をこめて花束を",
       "language": "ja",
       "clips": [{
         "date": "2021-03-02T12:00:00.000Z",
         "youtube": {"id": "UoiFi-TcuZg", "t": 5190},
         "bilibiliCutoutU": {"id": "BV1sN41197cm", "p": 8}
+      }, {
+        "date": "2020-10-08T11:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1hD4y1d716", "p": 7}
+      }, {
+        "date": "2020-09-08T12:00:00.000Z",
+        "youtube": {"id": "H7QcNvnV5VY", "t": 4976},
+        "bilibiliCutoutO": {"id": "BV15a4y1j7oM", "p": 8},
+        "bilibiliCutoutU": {"id": "BV19f4y1S7xE", "p": 7}
       }]
     },
 
@@ -3144,19 +3186,6 @@
         "bilibiliCutoutU": {"id": "BV1hD4y1d716", "p": 6}
       }]
     },
-    {
-      "name": "愛をこめて花束を",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-10-08T11:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1hD4y1d716", "p": 7}
-      }, {
-        "date": "2020-09-08T12:00:00.000Z",
-        "youtube": {"id": "H7QcNvnV5VY", "t": 4976},
-        "bilibiliCutoutO": {"id": "BV15a4y1j7oM", "p": 8},
-        "bilibiliCutoutU": {"id": "BV19f4y1S7xE", "p": 7}
-      }]
-    },
 
     {
       "name": "弱虫モンブラン",
@@ -3292,23 +3321,6 @@
       }]
     },
 
-    {
-      "name": "恋愛サーキュレーション",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-07-21T12:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1Yv411q7s1", "p": 1}
-      }, {
-        "date": "2020-04-03T13:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1m54y1B7dA", "p": 10},
-        "bilibiliCutoutU": {"id": "BV1LT4y157yh"}
-      }, {
-        "date": "2020-02-25T13:00:00.000Z",
-        "youtube": {"id": "dAMPrNVuJt0", "t": 535},
-        "bilibiliCutoutO": {"id": "BV1m5411a7sh", "p": 1},
-        "bilibiliCutoutU": {"id": "BV1Q7411K7br", "p": 1}
-      }]
-    },
     {
       "name": "プラチナ",
       "language": "ja",
