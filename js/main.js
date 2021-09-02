@@ -407,7 +407,12 @@ const renderSection = (section, memberId, songs) => {
                 streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}>${YOUTUBE_ICON}</a>`;
               } else if (source instanceof BilibiliSource) {
                 if (key.includes('Cutout')) {
-                  cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+                  if (key.includes('CutoutO')) {
+                    extraAttrs += ' title="公式アカウント"';
+                  } else if (key.includes('CutoutU')) {
+                    extraAttrs += ' title="非公式アカウント"';
+                  }
+                  cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
                   // Add song to APlayer's playlist
                   if (!hasAddedToPlaylist && !excludedFromPlaylist && !key.includes('Unavailable') && source.audioDirectUrl) {
                     aplayerLiveCutoutPlaylist.push({
@@ -419,7 +424,21 @@ const renderSection = (section, memberId, songs) => {
                     hasAddedToPlaylist = true;
                   }
                 } else {
-                  streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+                  let tooltipTitle = '';
+                  if (key.includes('O')) {
+                    tooltipTitle += '公式アカウント';
+                  } else if (key.includes('U')) {
+                    tooltipTitle += '非公式アカウント';
+                  }
+                  if (key.includes('C')) {
+                    tooltipTitle += ' 中国語字幕付き';
+                  } else if (key.includes('R')) {
+                    tooltipTitle += ' 字幕なし';
+                  }
+                  if (tooltipTitle) {
+                    extraAttrs += ` title="${tooltipTitle}"`;
+                  }
+                  streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
                 }
               }
             }
@@ -586,6 +605,7 @@ $(document).ready(async () => {
   } catch (error) {
     console.error(error);
   } finally {
+    $('[data-toggle="tooltip"]').tooltip();
     // Parse Twitter emojis: https://github.com/twitter/twemoji
     $('.twemoji').each((_, element) => twemoji.parse($(element).get(0)));
     // Back to top: https://github.com/vfeskov/vanilla-back-to-top
