@@ -49,6 +49,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/09/07 20:00](https://twitter.com/hanamaruhareru/status/1435180689561833477) | YouTube | YB | Z | [X](https://twitter.com/hanamaruhareru/status/1435274607343276035) |  |
 | [2021/08/31 21:00](https://twitter.com/hanamaruhareru/status/1432645379028185088) | YouTube | YB | Z |  |  |
 | [2021/08/29 21:00](https://t.bilibili.com/564157981693342586) | Bilibili | B | Z | [X](https://t.bilibili.com/564395132607226131) |  |
 | [2021/08/17 21:00](https://t.bilibili.com/559704697614509602) | Bilibili | BB |  |  | 哔哩哔哩二周年纪念直播 |
@@ -217,7 +218,8 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [2020/08/29 20:00](https://t.bilibili.com/564157732587335834) | Bilibili |  | W |  | [哔哩哔哩虚拟主播冰火歌合战XIII](https://www.bilibili.com/blackboard/live/activity-AmGmtz3uFP.html) |
+| [2021/09/10 21:00](https://t.bilibili.com/568755830086053679) | Bilibili | B | W | [X](https://t.bilibili.com/568847205519223437) |  |
+| [2021/08/29 20:00](https://t.bilibili.com/564157732587335834) | Bilibili | B | W |  | [哔哩哔哩虚拟主播冰火歌合战XIII](https://www.bilibili.com/blackboard/live/activity-AmGmtz3uFP.html) |
 | [2021/08/21 21:00](https://t.bilibili.com/561266356309505328) | Bilibili | B | W | [X](https://t.bilibili.com/561429921549228178) |  |
 | [2021/08/07 21:00](https://t.bilibili.com/556071138099374287) | YouTube, Bilibili | YBB | W |  | 二周年纪念直播 |
 | [2021/07/23 21:00](https://t.bilibili.com/550504886251401450) | Bilibili |  | W | [X](https://t.bilibili.com/550666377019864971) |  |
