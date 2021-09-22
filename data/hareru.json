@@ -287,6 +287,436 @@
   ],
   "live": [
     {
+      "name": "踊",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 178},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 178},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 1}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "ピースサイン",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 730},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 730},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 2}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "インフェルノ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 979},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 979},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 3}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "もってけ！セーラーふく",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 1975},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 1975},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 4}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "ROCK-mode",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 2247},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 2247},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 5}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "Crow Song",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 3086},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 3086},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 6}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "再会",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 3347},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 3347},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 7}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "僕らの戦場",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 4349},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 4349},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 8}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "ワルキューレがとまらない",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 4626},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 4626},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 9}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "This game",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 5570},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 5570},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 10}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "Q&A リサイタル!",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 5869},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 5869},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 11}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+    {
+      "name": "ライオン",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-20T12:00:00.000Z",
+        "youtube": {"id": "wWexeCPej20", "t": 6302},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -89, "t": 6302},
+        "bilibiliCutoutU": {"id": "BV1SQ4y1z7eF", "p": 12}
+      }, {
+        "date": "2021-05-08T12:00:00.000Z",
+        "youtube": {"id": "HyF7rb974LQ", "t": 707},
+        "bilibiliCutoutO": {"id": "BV1aK4y1R7b8"},
+        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 2}
+      }],
+      "otherArtists": ["quon-tama"]
+    },
+
+    {
+      "name": "ANIMA",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 649},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 1}
+      }, {
+        "date": "2021-07-18T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1UM4y1K7qo", "t": 965},
+        "bilibiliCutoutU": {"id": "BV1K54y1J7h5", "p": 2}
+      }]
+    },
+    {
+      "name": "oath sign",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 1075},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 2}
+      }, {
+        "date": "2021-05-16T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV15q4y1E7Ao", "p": 12}
+      }, {
+        "date": "2020-10-17T15:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 2}
+      }, {
+        "date": "2020-07-04T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 3}
+      }]
+    },
+    {
+      "name": "Q&A リサイタル!",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 1418},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 3}
+      }, {
+        "date": "2020-11-22T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1bp4y1r7eT", "p": 9}
+      }]
+    },
+    {
+      "name": "愛のシュプリーム！",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 1845},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 4},
+        "excluded": true
+      }]
+    },
+    {
+      "name": "めいど・うぃず・どらごんず❤︎",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 1937},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 5},
+        "excluded": true
+      }]
+    },
+    {
+      "name": "Sing My Pleasure",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 2272},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 6}
+      }, {
+        "date": "2021-07-09T12:00:00.000Z",
+        "youtube": {"id": "yxrXXR-Nlgw", "t": 2912},
+        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 6}
+      }, {
+        "date": "2021-06-20T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1of4y1879z", "t": 4991},
+        "bilibiliCutoutU": {"id": "BV1oy4y1u77Q", "p": 9}
+      }]
+    },
+    {
+      "name": "Butter-Fly",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 2782},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 7}
+      }, {
+        "date": "2021-05-16T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV15q4y1E7Ao", "p": 1}
+      }, {
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 1}
+      }]
+    },
+    {
+      "name": "大正浪漫",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 3115},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 8}
+      }]
+    },
+    {
+      "name": "アニソンメドレー：Hacking to the Gate、運命のルーレット廻して、キミがいれば、GO!!!、僕らは今のなかで、ANGELUS-アンジェラス-、光るなら、青空のラプソディ、白金ディスコ、This game",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 3651},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 9}
+      }]
+    },
+    {
+      "name": "Catch the Moment",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 4898},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 10}
+      }]
+    },
+    {
+      "name": "廻廻奇譚",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 5415},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 11}
+      }, {
+        "date": "2021-05-16T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV15q4y1E7Ao", "p": 9}
+      }, {
+        "date": "2021-03-06T12:00:00.000Z",
+        "youtube": {"id": "xwfgIntNmrY", "t": 2453},
+        "bilibiliCutoutU": {"id": "BV1Jy4y1872q", "p": 5}
+      }, {
+        "date": "2021-01-09T12:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1wr4y1A7dy"},
+        "bilibiliCutoutU": {"id": "BV15h41127Cm", "p": 9}
+      }, {
+        "date": "2020-12-27T13:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 4}
+      }]
+    },
+    {
+      "name": "そばかす",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 5738},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 12},
+        "excluded": true
+      }]
+    },
+    {
+      "name": "組曲『ニコニコ動画』",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 5939},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 13}
+      }]
+    },
+    {
+      "name": "竈門炭治郎のうた",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-19T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1NU4y1A7Ji", "t": 6695},
+        "bilibiliCutoutU": {"id": "BV1Lq4y1K72A", "p": 14}
+      }, {
+        "date": "2021-05-02T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 10}
+      }, {
+        "date": "2020-12-27T13:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1Cv411e7uL"},
+        "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 10}
+      }]
+    },
+
+    {
+      "name": "シル・ヴ・プレジデント",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 208},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 208},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 1}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "ギラギラ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 1043},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 1043},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 2}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "ドライフラワー",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 1324},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 1324},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 3}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "脳漿炸裂ガール",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 2569},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 2569},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 4}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "白日",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 2770},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 2770},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 5}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "群青",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 4123},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 4123},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 6}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "灰色と青",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 4373},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 4373},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 7}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "炎",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 5693},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 5693},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 8}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "愛言葉Ⅲ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 5970},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 5970},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 9}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+    {
+      "name": "ファンサ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-16T12:00:00.000Z",
+        "youtube": {"id": "TaaiKGFNATY", "t": 6618},
+        "bilibiliOR": {"id": "BV1jE411X7hH", "p": -88, "t": 6618},
+        "bilibiliCutoutU": {"id": "BV1J64y1a73t", "p": 10}
+      }],
+      "otherArtists": ["suzuka-stella"]
+    },
+
+    {
       "name": "愛を知るまでは",
       "language": "ja",
       "clips": [{
@@ -1522,6 +1952,7 @@
         "bilibiliCutoutU": {"id": "BV1Qf4y1N7v1", "p": 10}
       }, {
         "date": "2021-06-27T11:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV15Q4y1r7Uc"},
         "bilibiliCutoutU": {"id": "BV1ew411o7c7", "p": 1},
         "notes": "哔哩哔哩虚拟主播冰火歌合战XI"
       }, {
@@ -2251,15 +2682,6 @@
     },
 
     {
-      "name": "ANIMA",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-07-18T12:00:00.000Z",
-        "bilibiliOR": {"id": "BV1UM4y1K7qo", "t": 965},
-        "bilibiliCutoutU": {"id": "BV1K54y1J7h5", "p": 2}
-      }]
-    },
-    {
       "name": "ハッピーシンセサイザ",
       "language": "ja",
       "clips": [{
@@ -2403,19 +2825,6 @@
         "date": "2021-07-04T12:00:00.000Z",
         "bilibiliOR": {"id": "BV1Cv411H7BQ", "t": 979},
         "bilibiliCutoutU": {"id": "BV1XM4y1T77e", "p": 2}
-      }]
-    },
-    {
-      "name": "Sing My Pleasure",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-07-09T12:00:00.000Z",
-        "youtube": {"id": "yxrXXR-Nlgw", "t": 2912},
-        "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 6}
-      }, {
-        "date": "2021-06-20T12:00:00.000Z",
-        "bilibiliOR": {"id": "BV1of4y1879z", "t": 4991},
-        "bilibiliCutoutU": {"id": "BV1oy4y1u77Q", "p": 9}
       }]
     },
     {
@@ -3411,17 +3820,6 @@
     },
 
     {
-      "name": "Butter-Fly",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-16T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV15q4y1E7Ao", "p": 1}
-      }, {
-        "date": "2021-05-02T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 1}
-      }]
-    },
-    {
       "name": "私の未来のだんな様",
       "language": "ja",
       "clips": [{
@@ -3473,25 +3871,6 @@
       }]
     },
     {
-      "name": "廻廻奇譚",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-16T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV15q4y1E7Ao", "p": 9}
-      }, {
-        "date": "2021-03-06T12:00:00.000Z",
-        "youtube": {"id": "xwfgIntNmrY", "t": 2453},
-        "bilibiliCutoutU": {"id": "BV1Jy4y1872q", "p": 5}
-      }, {
-        "date": "2021-01-09T12:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1wr4y1A7dy"},
-        "bilibiliCutoutU": {"id": "BV15h41127Cm", "p": 9}
-      }, {
-        "date": "2020-12-27T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 4}
-      }]
-    },
-    {
       "name": "ヒッチコック",
       "language": "ja",
       "clips": [{
@@ -3514,20 +3893,6 @@
         "date": "2020-05-11T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1V54y1Q7do", "p": 3},
         "bilibiliCutoutU": {"id": "BV1dV411d7SE", "p": 4}
-      }]
-    },
-    {
-      "name": "oath sign",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-16T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV15q4y1E7Ao", "p": 12}
-      }, {
-        "date": "2020-10-17T15:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1G54y1C76t", "p": 2}
-      }, {
-        "date": "2020-07-04T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV18p4y1S7Y5", "p": 3}
       }]
     },
     {
@@ -3622,17 +3987,6 @@
         "date": "2021-05-08T12:00:00.000Z",
         "youtube": {"id": "HyF7rb974LQ", "t": 412},
         "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 1}
-      }],
-      "otherArtists": ["quon-tama"]
-    },
-    {
-      "name": "ライオン",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-08T12:00:00.000Z",
-        "youtube": {"id": "HyF7rb974LQ", "t": 707},
-        "bilibiliCutoutO": {"id": "BV1aK4y1R7b8"},
-        "bilibiliCutoutU": {"id": "BV1zf4y1a7LV", "p": 2}
       }],
       "otherArtists": ["quon-tama"]
     },
@@ -3775,18 +4129,6 @@
       "clips": [{
         "date": "2021-05-02T12:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 9}
-      }]
-    },
-    {
-      "name": "竈門炭治郎のうた",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-05-02T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1ZK4y1R7KW", "p": 10}
-      }, {
-        "date": "2020-12-27T13:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1Cv411e7uL"},
-        "bilibiliCutoutU": {"id": "BV11X4y1T7Pp", "p": 10}
       }]
     },
 
@@ -5135,14 +5477,6 @@
       "clips": [{
         "date": "2020-11-22T13:00:00.000Z",
         "bilibiliCutoutU": {"id": "BV1bp4y1r7eT", "p": 8}
-      }]
-    },
-    {
-      "name": "Q&A リサイタル!",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-11-22T13:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1bp4y1r7eT", "p": 9}
       }]
     },
     {

@@ -49,6 +49,9 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/09/20 21:00](https://twitter.com/hanamaruhareru/status/1439186248933859328) | YouTube | YB | Z |  | 久遠たま联动 |
+| [2021/09/19 21:00](https://t.bilibili.com/571950486888156059) | Bilibili | B | Z |  |  |
+| [2021/09/16 21:00](https://twitter.com/hanamaruhareru/status/1438075861727518724) | YouTube | YB | Z |  | 鈴花ステラ联动 |
 | [2021/09/07 20:00](https://twitter.com/hanamaruhareru/status/1435180689561833477) | YouTube | YB | Z | [X](https://twitter.com/hanamaruhareru/status/1435274607343276035) |  |
 | [2021/08/31 21:00](https://twitter.com/hanamaruhareru/status/1432645379028185088) | YouTube | YB | Z |  |  |
 | [2021/08/29 21:00](https://t.bilibili.com/564157981693342586) | Bilibili | B | Z | [X](https://t.bilibili.com/564395132607226131) |  |
@@ -165,6 +168,7 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| 鳥の詩 | B | 2021/09/15 | 2021/06/27 |
 | 回る空うさぎ | J | 2021/08/24 | 2021/08/17 |
 | unravel | B | 2021/08/10 | 2021/05/29 |
 | 恋空予報 | B | 2021/07/06 | 2021/05/20 |
@@ -218,6 +222,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/09/18 21:00](https://twitter.com/kohigashihitona/status/1438786701812322304) | YouTube | Y | W |  |  |
 | [2021/09/10 21:00](https://t.bilibili.com/568755830086053679) | Bilibili | B | W | [X](https://t.bilibili.com/568847205519223437) |  |
 | [2021/08/29 20:00](https://t.bilibili.com/564157732587335834) | Bilibili | B | W |  | [哔哩哔哩虚拟主播冰火歌合战XIII](https://www.bilibili.com/blackboard/live/activity-AmGmtz3uFP.html) |
 | [2021/08/21 21:00](https://t.bilibili.com/561266356309505328) | Bilibili | B | W | [X](https://t.bilibili.com/561429921549228178) |  |
