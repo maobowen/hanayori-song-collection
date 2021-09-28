@@ -287,6 +287,172 @@
   ],
   "live": [
     {
+      "name": "約束をしよう",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 621},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 1}
+      }, {
+        "date": "2021-07-25T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1s64y167W8", "t": 7797},
+        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 16},
+        "excluded": true
+      }, {
+        "date": "2020-04-04T14:00:00.000Z",
+        "youtube": {"id": "TrOfOn-dA8Q", "t": 6549}
+      }]
+    },
+    {
+      "name": "未来へ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 942},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 2}
+      }]
+    },
+    {
+      "name": "変わらないもの",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 1393},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 3}
+      }, {
+        "date": "2020-05-20T11:00:00.000Z",
+        "youtube": {"id": "oOFGxOcE_nc", "t": 3140},
+        "bilibiliCutoutO": {"id": "BV11C4y1a74R", "p": 3},
+        "bilibiliCutoutU": {"id": "BV1D54y1D7FW", "p": 4}
+      }]
+    },
+    {
+      "name": "Wishing",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 1849},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 4}
+      }, {
+        "date": "2021-01-09T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV15h41127Cm", "p": 7}
+      }]
+    },
+    {
+      "name": "courage",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 2336},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 5}
+      }]
+    },
+    {
+      "name": "MEMORIA",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 2702},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 6}
+      }]
+    },
+    {
+      "name": "威風堂々",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 3124},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 7}
+      }, {
+        "date": "2020-02-01T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1x741187y8", "t": 105},
+        "bilibiliCutoutU": {"id": "BV1W7411s7DQ"}
+      }]
+    },
+    {
+      "name": "IGNITE",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 3489},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 8}
+      }]
+    },
+    {
+      "name": "ダダダダ天使",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 4053},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 9}
+      }, {
+        "date": "2021-03-14T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1YX4y137uA", "p": 5}
+      }, {
+        "date": "2021-01-31T12:00:00.000Z",
+        "bilibiliCutoutU": {"id": "BV1Xy4y1J77P", "p": 5}
+      }, {
+        "date": "2020-02-01T14:00:00.000Z",
+        "bilibiliCutoutO": {"id": "BV1J5411W7S2", "p": 3},
+        "bilibiliCutoutU": {"id": "BV1C7411x7ng"}
+      }]
+    },
+    {
+      "name": "エミリー",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 4563},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 10}
+      }]
+    },
+    {
+      "name": "FREELY TOMORROW",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 4913},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 11}
+      }]
+    },
+    {
+      "name": "Mr.wonderboy",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 5286},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 12}
+      }]
+    },
+    {
+      "name": "ロゼッタ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 5596},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 13}
+      }]
+    },
+    {
+      "name": "桜前線異常ナシ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 5827},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 14}
+      }]
+    },
+    {
+      "name": "イーガー♥ビリーバー",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-09-26T12:00:00.000Z",
+        "bilibiliOR": {"id": "BV1Y34y1D7Hq", "t": 6212},
+        "bilibiliCutoutU": {"id": "BV1h341127rD", "p": 15}
+      }]
+    },
+
+    {
       "name": "踊",
       "language": "ja",
       "clips": [{
@@ -2667,19 +2833,6 @@
         "bilibiliCutoutU": {"id": "BV1HL411W7zi", "p": 8}
       }]
     },
-    {
-      "name": "約束をしよう",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-07-25T12:00:00.000Z",
-        "bilibiliOR": {"id": "BV1s64y167W8", "t": 7797},
-        "bilibiliCutoutU": {"id": "BV1dv411E7ky", "p": 16},
-        "excluded": true
-      }, {
-        "date": "2020-04-04T14:00:00.000Z",
-        "youtube": {"id": "TrOfOn-dA8Q", "t": 6549}
-      }]
-    },
 
     {
       "name": "ハッピーシンセサイザ",
@@ -4479,21 +4632,6 @@
       }]
     },
     {
-      "name": "ダダダダ天使",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-03-14T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1YX4y137uA", "p": 5}
-      }, {
-        "date": "2021-01-31T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV1Xy4y1J77P", "p": 5}
-      }, {
-        "date": "2020-02-01T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1J5411W7S2", "p": 3},
-        "bilibiliCutoutU": {"id": "BV1C7411x7ng"}
-      }]
-    },
-    {
       "name": "チューリングラブ",
       "language": "ja",
       "clips": [{
@@ -4983,14 +5121,6 @@
         "date": "2021-01-09T12:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1Tv411Y7tk"},
         "bilibiliCutoutU": {"id": "BV15h41127Cm", "p": 2}
-      }]
-    },
-    {
-      "name": "Wishing",
-      "language": "ja",
-      "clips": [{
-        "date": "2021-01-09T12:00:00.000Z",
-        "bilibiliCutoutU": {"id": "BV15h41127Cm", "p": 7}
       }]
     },
     {
@@ -6154,16 +6284,6 @@
       }]
     },
     {
-      "name": "変わらないもの",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-05-20T11:00:00.000Z",
-        "youtube": {"id": "oOFGxOcE_nc", "t": 3140},
-        "bilibiliCutoutO": {"id": "BV11C4y1a74R", "p": 3},
-        "bilibiliCutoutU": {"id": "BV1D54y1D7FW", "p": 4}
-      }]
-    },
-    {
       "name": "脳裏上のクラッカー",
       "language": "ja",
       "clips": [{
@@ -6392,15 +6512,6 @@
         "date": "2020-02-01T14:00:00.000Z",
         "bilibiliCutoutO": {"id": "BV1J5411W7S2", "p": 1},
         "bilibiliCutoutU": {"id": "BV1d7411x7KN"}
-      }]
-    },
-    {
-      "name": "威風堂々",
-      "language": "ja",
-      "clips": [{
-        "date": "2020-02-01T14:00:00.000Z",
-        "bilibiliCutoutO": {"id": "BV1x741187y8", "t": 105},
-        "bilibiliCutoutU": {"id": "BV1W7411s7DQ"}
       }]
     },
     {
