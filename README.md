@@ -49,6 +49,9 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/10/08 21:00](https://t.bilibili.com/579001036480566735) | Bilibili | B | Z | [X](https://t.bilibili.com/579252077327990997) |  |
+| [2021/10/07 20:00](https://twitter.com/hanamaruhareru/status/1445771181051691016) | YouTube | Y | Z |  | 鈴花ステラ联动 |
+| [2021/10/03 21:00](https://t.bilibili.com/577146534036361137) | Bilibili | B | Z | [X](https://t.bilibili.com/577385686405226842) |  |
 | [2021/09/26 21:00](https://t.bilibili.com/574550123219140846) | Bilibili | B | Z | [X](https://t.bilibili.com/574786608416002579) |  |
 | [2021/09/20 21:00](https://twitter.com/hanamaruhareru/status/1439186248933859328) | YouTube | YB | Z |  | 久遠たま联动 |
 | [2021/09/19 21:00](https://t.bilibili.com/571950486888156059) | Bilibili | B | Z |  |  |
@@ -169,6 +172,8 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| 見上げてごらん夜の星を | B | 2021/10/03 | 2021/08/14 | 
+| ふわふわ時間 | B | 2021/09/22 | 2021/07/04 |
 | 鳥の詩 | B | 2021/09/15 | 2021/06/27 |
 | 回る空うさぎ | J | 2021/08/24 | 2021/08/17 |
 | unravel | B | 2021/08/10 | 2021/05/29 |
@@ -223,6 +228,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/10/08 21:00](https://twitter.com/kohigashihitona/status/1446368732587065344) | YouTube | Y | W |  |  |
 | [2021/09/25 21:00](https://t.bilibili.com/574254341713871926) | Bilibili | B | W | [X](https://t.bilibili.com/574416476724413788) |  |
 | [2021/09/18 21:00](https://twitter.com/kohigashihitona/status/1438786701812322304) | YouTube | Y | W |  |  |
 | [2021/09/10 21:00](https://t.bilibili.com/568755830086053679) | Bilibili | B | W | [X](https://t.bilibili.com/568847205519223437) |  |
