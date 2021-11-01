@@ -49,6 +49,8 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/10/31 21:00](https://t.bilibili.com/587536064212898099) | Bilibili | B | Z | [X](https://t.bilibili.com/587775998269926311) |  |
+| [2021/10/24 21:00](https://twitter.com/hanamaruhareru/status/1452209307831865348) | YouTube | YB | Z |  |  |
 | [2021/10/17 21:00](https://t.bilibili.com/582340893251295502) | Bilibili | B | Z | [X](https://t.bilibili.com/582579465800086492) |  |
 | [2021/10/08 21:00](https://t.bilibili.com/579001036480566735) | Bilibili | B | Z | [X](https://t.bilibili.com/579252077327990997) |  |
 | [2021/10/07 20:00](https://twitter.com/hanamaruhareru/status/1445771181051691016) | YouTube | Y | Z |  | 鈴花ステラ联动 |
@@ -229,6 +231,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/10/29 21:00](https://t.bilibili.com/586940871938967574) | YouTube, Bilibili | YB | W |  |  |
 | [2021/10/15 21:00](https://t.bilibili.com/581750386782197596) | Bilibili | B | W | [X](https://t.bilibili.com/581832476492783292) |  |
 | [2021/10/08 21:00](https://twitter.com/kohigashihitona/status/1446368732587065344) | YouTube | Y | W |  |  |
 | [2021/09/25 21:00](https://t.bilibili.com/574254341713871926) | Bilibili | B | W | [X](https://t.bilibili.com/574416476724413788) |  |
