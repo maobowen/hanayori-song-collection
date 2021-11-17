@@ -49,6 +49,8 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/11/14 21:00](https://t.bilibili.com/592731295308978203) | Bilibili | B | Z | [X](https://t.bilibili.com/592971023204038371) |  |
+| [2021/11/06 21:00](https://t.bilibili.com/589762583850891660) | Bilibili | B | Z | [X](https://t.bilibili.com/590006396255721257) |  |
 | [2021/10/31 21:00](https://t.bilibili.com/587536064212898099) | Bilibili | B | Z | [X](https://t.bilibili.com/587775998269926311) |  |
 | [2021/10/24 21:00](https://twitter.com/hanamaruhareru/status/1452209307831865348) | YouTube | YB | Z |  |  |
 | [2021/10/17 21:00](https://t.bilibili.com/582340893251295502) | Bilibili | B | Z | [X](https://t.bilibili.com/582579465800086492) |  |
@@ -231,6 +233,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/11/07 21:00](https://t.bilibili.com/590214414408984330) | YouTube, Bilibili | YBB |  |  | 人鱼日钢琴弹唱演唱会 |
 | [2021/10/29 21:00](https://t.bilibili.com/586940871938967574) | YouTube, Bilibili | YB | W |  |  |
 | [2021/10/15 21:00](https://t.bilibili.com/581750386782197596) | Bilibili | B | W | [X](https://t.bilibili.com/581832476492783292) |  |
 | [2021/10/08 21:00](https://twitter.com/kohigashihitona/status/1446368732587065344) | YouTube | Y | W |  |  |

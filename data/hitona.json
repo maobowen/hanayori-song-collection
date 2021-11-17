@@ -1,6 +1,14 @@
 {
   "pv": [
     {
+      "name": "カワキヲアメク",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "MT6cOsMaL44"},
+        "bilibili": {"id": "BV1Wq4y1k7NH"}
+      }]
+    },
+    {
       "name": "シル・ヴ・プレジデント",
       "language": "ja",
       "clips": [{
@@ -294,6 +302,95 @@
     }
   ],
   "live": [
+    {
+      "name": "ガーネット",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 157},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 242},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 257},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+    {
+      "name": "たぶん",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 855},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 940},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 955},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+    {
+      "name": "怪物",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 1120},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 1205},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 1220},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+    {
+      "name": "楔",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 1377},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 1462},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 1477},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+    {
+      "name": "回る空うさぎ",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 2735},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 2820},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 2835},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+    {
+      "name": "変わらないもの",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 2948},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 3033},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 3048},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+    {
+      "name": "メルト",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 3243},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 3328},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 3343},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+    {
+      "name": "約束をしよう",
+      "language": "ja",
+      "clips": [{
+        "date": "2021-11-07T12:00:00.000Z",
+        "youtube": {"id": "c1vYTSeMlfk", "t": 4412},
+        "bilibiliOC": {"id": "BV1eT4y197xb", "t": 4497},
+        "bilibiliOR": {"id": "BV14L4y1q7tq", "t": 4512},
+        "notes": "ひとなの日弾き語りライブ"
+      }]
+    },
+
     {
       "name": "うまるん体操",
       "language": "ja",
