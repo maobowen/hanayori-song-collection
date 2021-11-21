@@ -101,6 +101,10 @@ main {
   transform: scale(1.05);
 }
 
+.icon-apple-music:hover {
+  color: #fa233b;
+}
+
 .icon-bilibili:hover {
   color: #00b5e5;
 }
@@ -111,6 +115,14 @@ main {
 
 .icon-fanbox:hover {
   color: #f9ef7f;
+}
+
+.icon-niconico:hover {
+  color: #231f20;
+}
+
+.icon-spotify:hover {
+  color: #1db954;
 }
 
 .icon-twitter:hover {
@@ -127,6 +139,10 @@ main {
 
 .icon-unavailable:hover {
   color: #999;
+}
+
+.sidebar-icon {
+  font-size: 1.6em;
 }
 
 .twemoji img.emoji {
@@ -178,10 +194,6 @@ footer {
   border-radius: var(--border-radius) var(--border-radius) 0 0;
   padding: 15px 20px 18px;
   text-align: center;
-}
-
-footer a .fab {
-  font-size: 2rem;
 }
 
 #back-to-top {

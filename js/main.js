@@ -5,7 +5,7 @@ import { Artist, HanayoriMember, ARTISTS, BILIBILI_PLAYLIST_PAGES, HANAYORI_MEMB
 /** Class representing a video source. */
 class Source {
   /**
-   * Create a source object.
+   * Instantiate a source object.
    * @param {string} id ID of the source.
    */
   constructor(id) {
@@ -26,10 +26,45 @@ class Source {
   }
 }
 
+/** Class representing an Apple Music audio source. */
+class AppleMusicSource extends Source {
+  /**
+   * Instantiate an Apple Music source object.
+   * @param {number} id Track ID of the source.
+   * @param {number} a Album ID of the source.
+   * @param {string | null} c Two-character country code.
+   */
+  constructor({ id, a, c=null } = {}) {
+    super(id);
+    this.albumId = a;
+    this.countryCode = c && c.match(/^[a-z]{2}$/) ? c : null;
+  }
+
+  /**
+   * Get the URL of the source.
+   * @return {string} Source URL.
+   */
+  get url() {
+    return this.countryCode
+        ? `https://music.apple.com/${this.countryCode}/album/${this.albumId}?i=${this.id}`
+        : `https://music.apple.com/album/${this.albumId}?i=${this.id}`;
+  }
+
+  /**
+   * Get the URL of the source in the embedded iframe player.
+   * @return {string} URL of the source in the embedded iframe player.
+   */
+  get embedUrl() {
+    return this.countryCode
+        ? `https://embed.music.apple.com/${this.countryCode}/album/${this.albumId}?i=${this.id}`
+        : `https://embed.music.apple.com/us/album/${this.albumId}?i=${this.id}`;
+  }
+}
+
 /** Class representing a Bilibili video source. */
 class BilibiliSource extends Source {
   /**
-   * Create a Bilibili source object.
+   * Instantiate a Bilibili source object.
    * @param {string} id BVID of the source.
    * @param {number} t Start time of the source, in second.
    * @param {number} p Page of the source (for videos with multiple pages).
@@ -98,10 +133,64 @@ class BilibiliSource extends Source {
   }
 }
 
+/** Class representing a Niconico video source. */
+class NiconicoSource extends Source {
+  /**
+   * Instantiate a Niconico source object.
+   * @param {string} id ID of the source.
+   */
+  constructor({ id } = {}) {
+    super(id);
+  }
+
+  /**
+   * Get the URL of the source.
+   * @return {string} Source URL.
+   */
+  get url() {
+    return `https://nico.ms/${this.id}`;
+  }
+
+  /**
+   * Get the URL of the source in the embedded iframe player.
+   * @return {string} URL of the source in the embedded iframe player.
+   */
+  get embedUrl() {
+    return `https://embed.nicovideo.jp/watch/${this.id}`;
+  }
+}
+
+/** Class representing a Spotify audio source. */
+class SpotifySource extends Source {
+  /**
+   * Instantiate a Bilibili source object.
+   * @param {string} id Track ID of the source.
+   */
+  constructor({ id } = {}) {
+    super(id);
+  }
+
+  /**
+   * Get the URL of the source.
+   * @return {string} Source URL.
+   */
+  get url() {
+    return `https://open.spotify.com/track/${this.id}`;
+  }
+
+  /**
+   * Get the URL of the source in the embedded iframe player.
+   * @return {string} URL of the source in the embedded iframe player.
+   */
+  get embedUrl() {
+    return `https://open.spotify.com/embed/track/${this.id}`;
+  }
+}
+
 /** Class representing a YouTube video source. */
 class YouTubeSource extends Source {
   /**
-   * Create a YouTube source object.
+   * Instantiate a YouTube source object.
    * @param {string} id ID of the source.
    * @param {number} t Start time of the source, in second.
    */
@@ -138,7 +227,7 @@ class YouTubeSource extends Source {
 /** Class representing a song. */
 class Song {
   /**
-   * Create a Song object.
+   * Instantiate a Song object.
    * @param {string} name Name of the song.
    * @param {string} language ISO 639-1 language code of the song.
    * @param {Object[] | null} clips Clips, which can be BilibiliSource objects, YouTubeSource objects, Date objects or just strings.
@@ -185,11 +274,80 @@ class Song {
   }
 }
 
+/** Class representing a version of an original track song. */
+class OriginalTrackSongVersion {
+  /**
+   * Instantiate an original track song version object.
+   * @param {string | null} date Release date of the song in the ISO 8601 format (YYYY-MM-DD).
+   * @param {string} language ISO 639-1 language code of the song.
+   * @param {string[]} artists Artists of the song.
+   * @param {Object[] | null} clips Clips, which can be BilibiliSource objects, Niconico objects, YouTubeSource objects, or just strings.
+   * @param {string | null} altName Alternative name of the song.
+   */
+  constructor({ date=null, language, artists, clips=null, altName=null } = {}) {
+    this.date = new Date(date);
+    this.language = language;
+    this.artists = artists;
+    this.clips = null;
+    this.altName = altName;
+
+    if (Array.isArray(clips)) {
+      this.clips = [];
+      for (const clip of clips) {
+        let source = new Map();
+        for (const [key, value] of Object.entries(clip)) {
+          if (key.includes('youtube')) {
+            source.set(key, new YouTubeSource(value));
+          } else if (key.includes('niconico')) {
+            source.set(key, new NiconicoSource(value));
+          } else if (key.includes('bilibili')) {
+            source.set(key, new BilibiliSource(value));
+          } else if (key.includes('spotify')) {
+            source.set(key, new SpotifySource(value));
+          } else if (key.includes('apple')) {
+            source.set(key, new AppleMusicSource(value));
+          } else {
+            source.set(key, value);
+          }
+        }
+        this.clips.push(source);
+      }
+    }
+  }
+}
+
+/** Class representing an original track song. */
+class OriginalTrackSong {
+  /**
+   * Instantiate an original track song object.
+   * @param {string} name Name of the song.
+   * @param {string[] | null} producers Producers of the song (only for Vocalaid songs).
+   * @param {string[] | null} original Indicate whether it is Hanayori Joshiryou member's original song.
+   * @param {Object[] | null} versions Versions of the song.
+   */
+  constructor({ name, producers=null, original=null, versions=null } = {}) {
+    this.name = name;
+    this.producers = producers;
+    this.original = original;
+    this.versions = null;
+  
+    if (Array.isArray(versions)) {
+      this.versions = [];
+      for (const version of versions) {
+        this.versions.push(new OriginalTrackSongVersion(version));
+      }
+    }
+  }
+}
+
+/*
 // Icon fonts: https://www.iconfont.cn/user/detail?uid=5455300
 const BILIBILI_ICON = '<svg width="1.3em" height="1.3em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-bilibili" /></svg>';
 const NICONICO_ICON = '<svg width="1em" height="1em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-niconico" /></svg>';
 const YOUTUBE_ICON = '<svg width="1.3em" height="1.3em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-youtube" /></svg>';
+*/
 // Other constants
+const ORIGINAL_TRACK_SONGS_FILENAME = 'original';
 const SECTIONS = ['pv', 'special', 'live'];
 // Global variables for APlayer
 let aplayer = null;
@@ -223,22 +381,22 @@ let urlParams = {};
  * Wrapper of jQuery.getJSON() method.
  * @async
  * @function getJSON
- * @param {string} memberId A member ID.
+ * @param {string} filename JSON file name, without extension, under data directory.
  * @return {JSON} A JSON object.
  */
-const getJSON = async (memberId) => {
-  return $.getJSON(`data/${memberId}.json`).fail(() => {
+const getJSON = async (filename) => {
+  return $.getJSON(`data/${filename}.json`).fail(() => {
     console.error('An error has occurred.');
   });
 };
 
 /**
- * Process a JSON object.
- * @function processJSON
+ * Process a JSON object of a member.
+ * @function processMemberJSON
  * @param {JSON} json A JSON object.
  * @return {Song[][]} A 2-dimensional array of Song objects.
  */
-const processJSON = (json) => {
+const processMemberJSON = (json) => {
   let jsonSections = [json.pv, json.special, json.live];
   let songSections = [[], [], []];
   for (let i = 0; i < jsonSections.length; i++) {
@@ -250,6 +408,21 @@ const processJSON = (json) => {
   }
   return songSections;
 };
+
+/**
+ * Process the JSON object of all original track songs.
+ * @function processOriginalTrackSongsJSON
+ * @param {JSON} json A JSON object.
+ * @return {Map<string, OriginalTrackSong>} A map of all original track songs indexed by names.
+ */
+const processOriginalTrackSongsJSON = (json) => {
+  let originalTrackSongsMap = new Map();
+  for (const jsonOriginalTrackSong of json) {
+    let originalTrackSong = new OriginalTrackSong(jsonOriginalTrackSong);
+    originalTrackSongsMap.set(originalTrackSong.name, originalTrackSong);
+  }
+  return originalTrackSongsMap;
+}
 
 /**
  * Render song collection page.
@@ -300,7 +473,7 @@ const renderPage = (memberId) => {
  * @param {string} memberId A member ID.
  * @param {Song[]} songs An array of Song objects.
  */
-const renderSection = (section, memberId, songs) => {
+const renderSection = (section, memberId, songs, originalTrackSongs) => {
   const member = ARTISTS.get(memberId);
   if (songs && songs.length) {
     $(`#${section}-section table tbody`).empty();
@@ -334,6 +507,45 @@ const renderSection = (section, memberId, songs) => {
         songNameHtml += `<br><span class="other-artists">With ${otherArtistsHtml}</span>`;
       }
 
+      // Build HTML for original track song if existed
+      let originalTrackSongsHtml = '';
+      const originalTrackSongIndexKey = song.name;
+      if (originalTrackSongs.has(originalTrackSongIndexKey)) {
+        const originalTrackSong = originalTrackSongs.get(originalTrackSongIndexKey);
+        if (originalTrackSong.original && Array.isArray(originalTrackSong.original) && originalTrackSong.original.includes(memberId)) {
+          originalTrackSongsHtml = 'オリジナル曲';
+        } else {
+          if (Array.isArray(originalTrackSong.versions)) {
+            let originalTrackSongVersionsHtmlList = [];
+            for (const originalTrackSongVersion of originalTrackSong.versions) {
+              let originalTrackSongVersionHtml = "";
+              if (originalTrackSong.producers && Array.isArray(originalTrackSong.producers) && originalTrackSong.producers.length) {
+                originalTrackSongVersionHtml = originalTrackSong.producers.join('・') + " / ";
+              }
+              originalTrackSongVersionHtml += originalTrackSongVersion.artists.join('・');
+              for (const [_, source] of originalTrackSongVersion.clips[0]) {
+                if (source instanceof YouTubeSource) {
+                  // originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}">${YOUTUBE_ICON}</a>`;
+                  originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-youtube" data-lity data-lity-target="${source.embedUrl}"><i class="fab fa-youtube"></i></a>`;
+                } else if (source instanceof NiconicoSource) {
+                  // originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-niconico" data-lity data-lity-target="${source.embedUrl}">${NICONICO_ICON}</a>`;
+                  originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-niconico" data-lity data-lity-target="${source.embedUrl}"><i class="fas fa-tv-retro"></i></a>`;
+                } else if (source instanceof BilibiliSource) {
+                  // originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}">${BILIBILI_ICON}</a>`;
+                  originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-bilibili" data-lity data-lity-target="${source.embedUrl}"><i class="fab fa-bilibili"></i></a>`;
+                } else if (source instanceof SpotifySource) {
+                  originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-spotify" data-lity data-lity-target="${source.embedUrl}"><i class="fab fa-spotify"></i></a>`;
+                } else if (source instanceof AppleMusicSource) {
+                  originalTrackSongVersionHtml += `&nbsp;<a href="${source.url}" class="icon-apple-music" data-lity data-lity-target="${source.embedUrl}"><i class="fab fa-apple"></i></a>`;
+                }
+              }
+              originalTrackSongVersionsHtmlList.push(originalTrackSongVersionHtml);
+            }
+            originalTrackSongsHtml = originalTrackSongVersionsHtmlList.join('<br>');
+          }
+        }
+      }
+
       if (section === 'pv' || section === 'special') {
         // Build HTML for sources
         let sourceHtml = '';
@@ -350,9 +562,11 @@ const renderSection = (section, memberId, songs) => {
               }
             }
             if (source instanceof YouTubeSource) {
-              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}>${YOUTUBE_ICON}</a>`;
+              // sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}>${YOUTUBE_ICON}</a>`;
+              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}><i class="fab fa-youtube"></i></a>`;
             } else if (source instanceof BilibiliSource) {
-              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+              // sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+              sourceHtml += (sourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-bilibili${extraClasses}"${extraAttrs}><i class="fab fa-bilibili"></i></a>`;
               // Add song to APlayer's playlist
               if (section === 'pv' && !key.includes('Unavailable') && source.audioDirectUrl) {
                 aplayerPvPlaylist.push({
@@ -371,14 +585,14 @@ const renderSection = (section, memberId, songs) => {
               <td>${songNameHtml}</td>
               <td>${language}</td>
               <td>${sourceHtml}</td>
-              <td></td>
+              <td>${originalTrackSongsHtml}</td>
             </tr>`);
         } else {
           $(`#${section}-section table tbody`).append(`<tr>                    
               <td>${songNameHtml}</td>
               <td>${language}</td>
               <td>${sourceHtml}</td>
-              <td></td>
+              <td>${originalTrackSongsHtml}</td>
               <td>${song.notes ? song.notes : ''}</td>
             </tr>`);
         }
@@ -404,7 +618,8 @@ const renderSection = (section, memberId, songs) => {
                 }
               }
               if (source instanceof YouTubeSource) {
-                streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}>${YOUTUBE_ICON}</a>`;
+                // streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}>${YOUTUBE_ICON}</a>`;
+                streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" class="icon-youtube${extraClasses}"${extraAttrs}><i class="fab fa-youtube"></i></a>`;
               } else if (source instanceof BilibiliSource) {
                 if (key.includes('Cutout')) {
                   if (key.includes('CutoutO')) {
@@ -412,7 +627,8 @@ const renderSection = (section, memberId, songs) => {
                   } else if (key.includes('CutoutU')) {
                     extraAttrs += ' title="非公式アカウント"';
                   }
-                  cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+                  // cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+                  cutoutSourceHtml += (cutoutSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}><i class="fab fa-bilibili"></i></a>`;
                   // Add song to APlayer's playlist
                   if (!hasAddedToPlaylist && !excludedFromPlaylist && !key.includes('Unavailable') && source.audioDirectUrl) {
                     aplayerLiveCutoutPlaylist.push({
@@ -438,7 +654,8 @@ const renderSection = (section, memberId, songs) => {
                   if (tooltipTitle) {
                     extraAttrs += ` title="${tooltipTitle}"`;
                   }
-                  streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+                  // streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}>${BILIBILI_ICON}</a>`;
+                  streamSourceHtml += (streamSourceHtml ? '&nbsp;' : '') + `<a href="${source.url}" data-toggle="tooltip" class="icon-bilibili${extraClasses}"${extraAttrs}><i class="fab fa-bilibili"></i></a>`;
                 }
               }
             }
@@ -465,7 +682,7 @@ const renderSection = (section, memberId, songs) => {
                 <td>${clips[i].date}</td>
                 <td>${clips[i].streamSources}</td>
                 <td>${clips[i].cutoutSources}</td>
-                <td${extraAttrs}></td>
+                <td${extraAttrs}>${originalTrackSongsHtml}</td>
                 <td>${clips[i].notes}</td>
               </tr>`);
           } else {  // Other rows
@@ -503,32 +720,27 @@ const renderHomepage = () => {
         <h4 class="text-center mt-2">${member.nameWithRubyStyling}</h4>
         <div class="text-center">
           <a id="sidebar-icon-twitter" href="https://twitter.com/${member.twitter}" target="_blank" class="d-inline-block icon-twitter">
-            <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg">
-              <use xlink:href="#icon-twitter" />
-            </svg>
+            <i class="fab fa-twitter fa-fw fa-lg"></i>
+            <!-- <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-twitter" /></svg> -->
           </a>
           <a id="sidebar-icon-youtube" href="https://youtube.com/channel/${member.youtube}" target="_blank" class="d-inline-block icon-youtube">
-            <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg">
-              <use xlink:href="#icon-youtube" />
-            </svg>
+            <i class="fab fa-youtube fa-fw fa-lg"></i>
+            <!-- <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-youtube" /></svg> -->
           </a>
           <a id="sidebar-icon-bilibili" href="https://space.bilibili.com/${member.bilibili}" target="_blank" class="d-inline-block icon-bilibili">
-            <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg">
-              <use xlink:href="#icon-bilibili" />
-            </svg>
+            <i class="fab fa-bilibili fa-fw fa-lg"></i>
+            <!-- <svg width="1.5em" height="1.5em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-bilibili" /></svg> -->
           </a>`;
     if (member.fanbox) {
       homeContainerHtml += `<a id="sidebar-icon-fanbox" href="https://${member.fanbox}.fanbox.cc/" target="_blank" class="d-inline-block icon-fanbox">
-          <svg width="1.8em" height="1.3em" version="1.1" xmlns="http://www.w3.org/2000/svg">
-            <use xlink:href="#icon-fanbox" />
-          </svg>
+          <i class="fas fa-gift fa-fw fa-lg"></i>
+          <!-- <svg width="1.8em" height="1.3em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-fanbox" /></svg> -->
         </a>`;
     }
     if (member.booth) {
       homeContainerHtml += `<a id="sidebar-icon-booth" href="https://${member.booth}.booth.pm/" target="_blank" class="d-inline-block icon-booth">
-          <svg width="1.5em" height="1.4em" version="1.1" xmlns="http://www.w3.org/2000/svg">
-            <use xlink:href="#icon-booth" />
-          </svg>
+          <i class="fas fa-store fa-fw fa-lg"></i>
+          <!-- <svg width="1.5em" height="1.4em" version="1.1" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#icon-booth" /></svg> -->
         </a>`;
     }
     homeContainerHtml += `</div>
@@ -575,11 +787,15 @@ $(document).ready(async () => {
   try {
     const memberId = urlParams['v'] ? urlParams['v'].toLowerCase() : null;
     if (memberId && HANAYORI_MEMBER_IDS.includes(memberId)) {
-      const json = await getJSON(memberId);
-      const songSections = processJSON(json);
+      const memberJSON = await getJSON(memberId);
+      const songSections = processMemberJSON(memberJSON);
+
+      const originalTrackSongsJSON = await getJSON(ORIGINAL_TRACK_SONGS_FILENAME);
+      const originalTrackSongs = processOriginalTrackSongsJSON(originalTrackSongsJSON);
+
       renderPage(memberId);
       for (let i = 0; i < songSections.length; i++) {
-        renderSection(SECTIONS[i], memberId, songSections[i]);
+        renderSection(SECTIONS[i], memberId, songSections[i], originalTrackSongs);
       }
       // Create APlayer: https://aplayer.js.org/#/zh-Hans/
       if (aplayerPvPlaylist.length) {
