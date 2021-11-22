@@ -1,0 +1,724 @@
+[
+  {
+    "name": "自己紹介の歌",
+    "original": ["kano", "nonono", "hareru", "hitona"]
+  },
+  {
+    "name": "フラワーポップガール",
+    "original": ["kano", "nonono", "hareru", "hitona"] 
+  },
+  {
+    "name": "星之回响",
+    "original": ["kano", "hareru"] 
+  },
+  {
+    "name": "奏",
+    "versions": [{
+      "date": "2004-03-10",
+      "language": "ja",
+      "artists": ["スキマスイッチ"],
+      "clips": [{
+        "youtube": {"id": "J5Z7tIq7bco"},
+        "spotify": {"id": "2ubuG0kipitnSdQy04YSta"},
+        "apple": {"a": "1445037953", "id": "1445037956"}
+      }]
+    }]
+  },
+  {
+    "name": "七里香",
+    "versions": [{
+      "date": "2004-08-03",
+      "language": "zh",
+      "artists": ["周杰倫"],
+      "clips": [{
+        "youtube": {"id": "Bbp9ZaJD_eA"},
+        "spotify": {"id": "3kwqNLXvsjSrIXbVsRBj8q"},
+        "apple": {"a": "311326344", "id": "311326346"}
+      }]
+    }]
+  },
+  {
+    "name": "letter song",
+    "producers": ["doriko"],
+    "versions": [{
+      "date": "2008-06-26",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "niconico": {"id": "sm3771514"}
+      }]
+    }]
+  },
+  {
+    "name": "NO,Thank You!",
+    "versions": [{
+      "date": "2010-08-04",
+      "language": "ja",
+      "artists": ["放課後ティータイム"],
+      "clips": [{
+        "spotify": {"id": "73RtKhKwyw31Nk2XMXN4uQ"},
+        "apple": {"a": "383274167", "id": "383274168"}
+      }]
+    }]
+  },
+  {
+    "name": "深海少女",
+    "producers": ["ゆうゆ"],
+    "versions": [{
+      "date": "2010-09-01",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "2CwBFr-Eoxg"},
+        "niconico": {"id": "sm11956364"}
+      }]
+    }]
+  },
+  {
+    "name": "那些年",
+    "versions": [{
+      "date": "2011-08-01",
+      "language": "zh",
+      "artists": ["胡夏"],
+      "clips": [{
+        "youtube": {"id": "xWzlwGVQ6_Q"},
+        "spotify": {"id": "3v8FOuA8jxAC5SOA2uN6Mg"},
+        "apple": {"a": "501504273", "id": "501505387"}
+      }]
+    }]
+  },
+  {
+    "name": "アイロニ",
+    "producers": ["すこっぷ"],
+    "versions": [{
+      "date": "2012-05-24",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "clPjNKWe6N0"},
+        "niconico": {"id": "sm17910036"}
+      }]
+    }]
+  },
+  {
+    "name": "いーあるふぁんくらぶ",
+    "producers": ["みきとP"],
+    "versions": [{
+      "date": "2012-08-15",
+      "language": "ja",
+      "artists": ["GUMI", "鏡音リン"],
+      "clips": [{
+        "youtube": {"id": "oBgADhsOoog"},
+        "niconico": {"id": "sm18623327"},
+        "apple": {"a": "1463359429", "id": "1463359430"}
+      }]
+    }]
+  },
+  {
+    "name": "心做し",
+    "producers": ["蝶々P"],
+    "versions": [{
+      "date": "2014-01-05",
+      "language": "ja",
+      "artists": ["GUMI"],
+      "clips": [{
+        "youtube": {"id": "3SkNrZnoK5w"},
+        "niconico": {"id": "sm22608740"}
+      }]
+    }]
+  },
+  {
+    "name": "Happy Halloween",
+    "producers": ["Junky"],
+    "versions": [{
+      "date": "2014-10-10",
+      "language": "ja",
+      "artists": ["鏡音リン"],
+      "clips": [{
+        "youtube": {"id": "1DcgczDzQPk"},
+        "niconico": {"id": "sm24657407"},
+        "spotify": {"id": "3slgBP4KlhdO2XOiRnn0R1"},
+        "apple": {"a": "1438493115", "id": "1438493118"}
+      }]
+    }]
+  },
+  {
+    "name": "インドア系ならトラックメイカー",
+    "producers": ["Yunomi"],
+    "versions": [{
+      "date": "2016-08-03",
+      "language": "ja",
+      "artists": ["nicamoq"],
+      "clips": [{
+        "youtube": {"id": "su0FCBRwVpE"},
+        "spotify": {"id": "3SAgoXsKEGMlIGNtOvs0vV"},
+        "apple": {"a": "1290129731", "id": "1290129980", "c": "jp"}
+      }]
+    }]
+  },
+  {
+    "name": "回る空うさぎ",
+    "producers": ["Orangestar"],
+    "versions": [{
+      "date": "2016-11-14",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "CLywtSOj4NA"},
+        "niconico": {"id": "sm30038738"},
+        "spotify": {"id": "5Zz1U1ghsgYAEs8cRSB7WE"},
+        "apple": {"a": "1526182287", "id": "1526182764"}
+      }]
+    }]
+  },
+  {
+    "name": "ヒトリゴト",
+    "versions": [{
+      "date": "2017-04-26",
+      "language": "ja",
+      "artists": ["ClariS"],
+      "clips": [{
+        "spotify": {"id": "6WMeDp0t2UJmy21PRKAOzx"},
+        "apple": {"a": "1538285450", "id": "1538285451"}
+      }]
+    }]
+  },
+  {
+    "name": "言って。",
+    "versions": [{
+      "date": "2017-06-28",
+      "language": "ja",
+      "artists": ["ヨルシカ"],
+      "clips": [{
+        "youtube": {"id": "F64yFFnZfkI"},
+        "niconico": {"id": "sm31472648"},
+        "spotify": {"id": "6z1TvLTR0oOsWSJfDrERmj"},
+        "apple": {"a": "1250709912", "id": "1250709921"}
+      }]
+    }]
+  },
+  {
+    "name": "ダダダダ天使",
+    "versions": [{
+      "date": "2017-07-31",
+      "language": "ja",
+      "artists": ["ナナヲアカリ"],
+      "clips": [{
+        "youtube": {"id": "ANp0qch3XVM"},
+        "niconico": {"id": "sm31667442"},
+        "spotify": {"id": "2oRt9HVnW6bC7wIWQdTxDt"},
+        "apple": {"a": "1250709912", "id": "1250709921"}
+      }]
+    }]
+  },
+  {
+    "name": "命に嫌われている。",
+    "producers": [" カンザキイオリ"],
+    "versions": [{
+      "date": "2017-08-07",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "0HYm60Mjm0k"},
+        "niconico": {"id": "sm31700140"},
+        "spotify": {"id": "7op1qWGy2YvnnCS7n5MdYc"},
+        "apple": {"a": "1578609449", "id": "1578609450"}
+      }]
+    }]
+  },
+  {
+    "name": "寄明月",
+    "versions": [{
+      "date": "2017-09-26",
+      "language": "zh",
+      "artists": ["SING女团"],
+      "clips": [{
+        "bilibili": {"id": "BV1gx411g7qG"},
+        "spotify": {"id": "67vwXHNuRHRt5rc37PV1uE"},
+        "apple": {"a": "1591170091", "id": "1591170095"}
+      }]
+    }]
+  },
+  {
+    "name": "インスタントヘヴン",
+    "versions": [{
+      "date": "2018-02-25",
+      "language": "ja",
+      "artists": ["ナナヲアカリ", "Eve"],
+      "clips": [{
+        "youtube": {"id": "IrrF_bUE8yc"},
+        "niconico": {"id": "sm32796501"},
+        "spotify": {"id": "1R8Md1Ol88i2Ilm7qpMXZk"},
+        "apple": {"a": "1538106947", "id": "1538106962"}
+      }]
+    }]
+  },
+  {
+    "name": "ロキ",
+    "producers": ["みきとP"],
+    "versions": [{
+      "date": "2018-02-27",
+      "language": "ja",
+      "artists": ["鏡音リン"],
+      "clips": [{
+        "youtube": {"id": "Xg-qfsKN2_E"},
+        "niconico": {"id": "sm32798041"},
+        "spotify": {"id": "5WCK18MbTKuOcmLsOXMaHd"},
+        "apple": {"a": "1446850239", "id": "1446850240", "c": "jp"}
+      }]
+    }]
+  },
+  {
+    "name": "学猫叫",
+    "versions": [{
+      "date": "2018-04-23",
+      "language": "zh",
+      "artists": ["小潘潘", "小峰峰"],
+      "clips": [{
+        "youtube": {"id": "OHbwkZgkBIU"},
+        "spotify": {"id": "56y9Vdi0PWuDqjz6RQ2K93"},
+        "apple": {"a": "1388787664", "id": "1388787670"}
+      }]
+    }]
+  },
+  {
+    "name": "ただ君に晴れ",
+    "versions": [{
+      "date": "2018-05-04",
+      "language": "ja",
+      "artists": ["ヨルシカ"],
+      "clips": [{
+        "youtube": {"id": "-VKIqrvVOpo"},
+        "niconico": {"id": "sm33150993"},
+        "spotify": {"id": "3wJHCry960drNlAUGrJLmz"},
+        "apple": {"a": "1374108987", "id": "1374109000"}
+      }]
+    }]
+  },
+  {
+    "name": "青春なんていらないわ",
+    "versions": [{
+      "date": "2018-08-30",
+      "language": "ja",
+      "artists": ["三月のパンタシア"],
+      "clips": [{
+        "youtube": {"id": "Uhjws9V9PMo"},
+        "spotify": {"id": "4vDF7q98GJ46J3AfBkN8SK"},
+        "apple": {"a": "1538286499", "id": "1538286504"}
+      }]
+    }]
+  },
+  {
+    "name": "霜降",
+    "producers": ["音阙诗听"],
+    "versions": [{
+      "date": "2019-10-23",
+      "language": "zh",
+      "artists": ["赵方婧"],
+      "clips": [{
+        "bilibili": {"id": "BV1U4411R7xq"}
+      }]
+    }]
+  },
+  {
+    "name": "カワキヲアメク",
+    "versions": [{
+      "date": "2019-01-30",
+      "language": "ja",
+      "artists": ["美波"],
+      "clips": [{
+        "youtube": {"id": "0YF8vecQWYs"},
+        "spotify": {"id": "1gUAX2ImxDsB3YDcyxMXlB"},
+        "apple": {"a": "1449555773", "id": "1449556048"}
+      }]
+    }]
+  },
+  {
+    "name": "勾指起誓",
+    "producers": ["ilem"],
+    "versions": [{
+      "date": "2019-02-13",
+      "language": "zh",
+      "artists": ["洛天依"],
+      "clips": [{
+        "bilibili": {"id": "BV1Jb411U7u2"}
+      }]
+    }, {
+      "date": "2019-04-29",
+      "language": "zh",
+      "artists": ["欣小萌"],
+      "clips": [{
+        "bilibili": {"id": "BV1L441187Qf"}
+      }]
+    }]
+  },
+  {
+    "name": "だから僕は音楽を辞めた",
+    "versions": [{
+      "date": "2019-04-05",
+      "language": "ja",
+      "artists": ["ヨルシカ"],
+      "clips": [{
+        "youtube": {"id": "KTZ-y85Erus"},
+        "niconico": {"id": "sm34914430"},
+        "spotify": {"id": "5j7ixaLeGTGSv4DzKs0pCM"},
+        "apple": {"a": "1455955689", "id": "1455955703"}
+      }]
+    }]
+  },
+  {
+    "name": "芒种",
+    "producers": ["音阙诗听"],
+    "versions": [{
+      "date": "2019-06-06",
+      "language": "zh",
+      "artists": ["赵方婧"],
+      "clips": [{
+        "youtube": {"id": "q2WvTaqe9zU"},
+        "bilibili": {"id": "BV1dJ411s773"},
+        "spotify": {"id": "3IP4qSMfGeqI2XqHFf25sj"},
+        "apple": {"a": "1592094083", "id": "1592094084"}
+      }]
+    }]
+  },
+  {
+    "name": "說好不哭",
+    "versions": [{
+      "date": "2019-09-16",
+      "language": "zh",
+      "artists": ["周杰倫", "阿信"],
+      "clips": [{
+        "youtube": {"id": "HK7SPnGSxLM"},
+        "spotify": {"id": "56wVfJKtnwlSZtC4NVgIrf"},
+        "apple": {"a": "1480229674", "id": "1480229675", "c": "tw"}
+      }]
+    }]
+  },
+  {
+    "name": "unlasting",
+    "versions": [{
+      "date": "2019-10-21",
+      "language": "ja",
+      "artists": ["LiSA"],
+      "clips": [{
+        "youtube": {"id": "KiO4kdv1FfM"},
+        "spotify": {"id": "3q61dbXbO8zR7AT9Mbad4o"},
+        "apple": {"a": "1538287090", "id": "1538287091"}
+      }]
+    }]
+  },
+  {
+    "name": "航海の唄",
+    "versions": [{
+      "date": "2019-10-26",
+      "language": "ja",
+      "artists": ["さユり"],
+      "clips": [{
+        "youtube": {"id": "6AxXuUptVjQ"},
+        "spotify": {"id": "1xWKnh1uQNJ1tRHELhw1nC"},
+        "apple": {"a": "1538122935", "id": "1538122936"}
+      }]
+    }]
+  },
+  {
+    "name": "好想爱这个世界啊",
+    "versions": [{
+      "date": "2019-12-04",
+      "language": "zh",
+      "artists": ["华晨宇"],
+      "clips": [{
+        "spotify": {"id": "4dCJwNoQG5Fx42pqIz99Vn"},
+        "apple": {"a": "1510466319", "id": "1510466321"}
+      }]
+    }]
+  },
+  {
+    "name": "我是如此相信",
+    "versions": [{
+      "date": "2019-12-15",
+      "language": "zh",
+      "artists": ["周杰倫"],
+      "clips": [{
+        "youtube": {"id": "TbFWYT9VGRk"},
+        "spotify": {"id": "4olLtprgPPGUJK4P5bRcgI"},
+        "apple": {"a": "1491478763", "id": "1491478764"}
+      }]
+    }]
+  },
+  {
+    "name": "食虫植物",
+    "versions": [{
+      "date": "2020-01-03",
+      "language": "ja",
+      "artists": ["理芽"],
+      "clips": [{
+        "youtube": {"id": "F9eCSWEJYjk"},
+        "bilibili": {"id": "BV18J411j7pJ"},
+        "spotify": {"id": "4cTL5Fb8VwlpPwgRZMZS3g"},
+        "apple": {"a": "1525173677", "id": "1525173679"}
+      }]
+    }]
+  },
+  {
+    "name": "チューリングラブ",
+    "versions": [{
+      "date": "2020-01-18",
+      "language": "ja",
+      "artists": ["ナナヲアカリ", "Sou"],
+      "clips": [{
+        "youtube": {"id": "L-MVk5I6wjo"},
+        "niconico": {"id": "sm36241874"},
+        "spotify": {"id": "2wJQeK1ioxlgF82oAzzPNB"},
+        "apple": {"a": "1538109472", "id": "1538109473"}
+      }]
+    }]
+  },
+  {
+    "name": "万古生香",
+    "producers": ["litterzy"],
+    "versions": [{
+      "date": "2020-01-24",
+      "language": "zh",
+      "artists": ["洛天依"],
+      "clips": [{
+        "bilibili": {"id": "BV1KJ411C7CW"}
+      }]
+    }]
+  },
+  {
+    "name": "心予報",
+    "versions": [{
+      "date": "2020-01-30",
+      "language": "ja",
+      "artists": ["Eve"],
+      "clips": [{
+        "youtube": {"id": "dJf4wCdLU18"},
+        "bilibili": {"id": "BV1P7411B71g"},
+        "spotify": {"id": "1pjXUZFaDSgf9wV1X76aXw"},
+        "apple": {"a": "1495748435", "id": "1495748563", "c": "jp"}
+      }]
+    }]
+  },
+  {
+    "name": "猫猫的宇宙論",
+    "producers": ["ナユタン星人"],
+    "versions": [{
+      "date": "2020-02-22",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "kS2yWmLCtnc"},
+        "spotify": {"id": "2hsATi9mUl4j6G5iVVAdrN"},
+        "apple": {"a": "1500209615", "id": "1500209886"}
+      }]
+    }]
+  },
+  {
+    "name": "春はゆく",
+    "versions": [{
+      "date": "2020-03-27",
+      "language": "ja",
+      "artists": ["Aimer"],
+      "clips": [{
+        "youtube": {"id": "ekP7VLeXnqY"},
+        "spotify": {"id": "3yr94ezrREwHw8EpV69Gfw"},
+        "apple": {"a": "1538261829", "id": "1538261830"}
+      }]
+    }]
+  },
+  {
+    "name": "グッバイ宣言",
+    "producers": ["Chinozo"],
+    "versions": [{
+      "date": "2020-04-13",
+      "language": "ja",
+      "artists": ["FloweR"],
+      "clips": [{
+        "youtube": {"id": "dHXC_ahjtEE"},
+        "niconico": {"id": "sm36668789"},
+        "spotify": {"id": "6TJnkjQL9Ar8JQVrGiBhVf"},
+        "apple": {"a": "1509768876", "id": "1509768887"}
+      }]
+    }]
+  },
+  {
+    "name": "花に亡霊",
+    "versions": [{
+      "date": "2020-04-22",
+      "language": "ja",
+      "artists": ["ヨルシカ"],
+      "clips": [{
+        "youtube": {"id": "9lVPAWLWtWc"},
+        "spotify": {"id": "53maoOKr6j04iqk6qjdvQN"},
+        "apple": {"a": "1506849808", "id": "1506849814"}
+      }]
+    }]
+  },
+  {
+    "name": "Laughter",
+    "versions": [{
+      "date": "2020-07-10",
+      "language": "ja",
+      "artists": ["Official髭男dism"],
+      "clips": [{
+        "youtube": {"id": "kff_DXor7jc"},
+        "spotify": {"id": "6SPHV1xXhT8ppQwVyVJF3x"},
+        "apple": {"a": "1505478976", "id": "1505478977"}
+      }]
+    }]
+  },
+  {
+    "name": "KING",
+    "producers": ["かいりきベア"],
+    "versions": [{
+      "date": "2020-08-22",
+      "language": "ja",
+      "artists": ["GUMI"],
+      "clips": [{
+        "youtube": {"id": "cm-l2h6GB8Q"},
+        "niconico": {"id": "sm37287661"},
+        "spotify": {"id": "1y70lFnhDN7rPmrl15BtPd"},
+        "apple": {"a": "1525673338", "id": "1525673476"}
+      }]
+    }]
+  },
+  {
+    "name": "Realize",
+    "versions": [{
+      "date": "2020-08-26",
+      "language": "ja",
+      "artists": ["鈴木このみ"],
+      "clips": [{
+        "youtube": {"id": "uaRnwnmqrws"},
+        "spotify": {"id": "6KlqqFZmbUrpTz6RSC1pqF"},
+        "apple": {"a": "1523974305", "id": "1523974306"}
+      }]
+    }]
+  },
+  {
+    "name": "群青",
+    "versions": [{
+      "date": "2020-09-01",
+      "language": "ja",
+      "artists": ["YOASOBI"],
+      "clips": [{
+        "youtube": {"id": "Y4nEEZwckuU"},
+        "niconico": {"id": "sm37899257"},
+        "bilibili": {"id": "BV1Yr4y1P73q"},
+        "spotify": {"id": "0T4AitQuq8IJhWBWuZwkFA"},
+        "apple": {"a": "1528119626", "id": "1528119630"}
+      }]
+    }]
+  },
+  {
+    "name": "エンヴィーベイビー",
+    "producers": ["かいりきベア"],
+    "versions": [{
+      "date": "2021-02-13",
+      "language": "ja",
+      "artists": ["GUMI"],
+      "clips": [{
+        "youtube": {"id": "dgS6HvEohsw"},
+        "niconico": {"id": "sm38268550"},
+        "spotify": {"id": "02vOyaNCKGX8uhjggOIH83"},
+        "apple": {"a": "1554407035", "id": "1554407037"}
+      }]
+    }]
+  },
+  {
+    "name": "ギラギラ",
+    "versions": [{
+      "date": "2021-02-14",
+      "language": "ja",
+      "artists": ["Ado"],
+      "clips": [{
+        "youtube": {"id": "sOiMD45QGLs"},
+        "niconico": {"id": "sm38325925"},
+        "spotify": {"id": "7D7GCO3CtDT1WDcj2W5VDV"},
+        "apple": {"a": "1551508118", "id": "1551508124"}
+      }]
+    }]
+  },
+  {
+    "name": "ヴァンパイア",
+    "producers": ["DECO*27"],
+    "versions": [{
+      "date": "2021-03-09",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "e1xCOsgWG0M"},
+        "niconico": {"id": "sm38387707"},
+        "bilibili": {"id": "BV1by4y187EM"},
+        "spotify": {"id": "5Atjzvg5qZcWZhXwZkHqPO"},
+        "apple": {"a": "1555448590", "id": "1555448592"}
+      }]
+    }]
+  },
+  {
+    "name": "シル・ヴ・プレジデント",
+    "versions": [{
+      "date": "2021-03-17",
+      "language": "ja",
+      "artists": ["P丸様。"],
+      "clips": [{
+        "youtube": {"id": "3V9952osjnc"},
+        "bilibili": {"id": "BV1H5411P7Tm"},
+        "spotify": {"id": "0nW1Aes1arNyR1fzEKXS2m"},
+        "apple": {"a": "1556015178", "id": "1556015464"}
+      }]
+    }]
+  },
+  {
+    "name": "フォニイ",
+    "producers": ["ツミキ"],
+    "versions": [{
+      "date": "2021-06-05",
+      "language": "ja",
+      "artists": ["可不"],
+      "clips": [{
+        "youtube": {"id": "9QLT1Aw_45s"},
+        "niconico": {"id": "sm38833751"}
+      }]
+    }]
+  },
+  {
+    "name": "Pale Blue",
+    "versions": [{
+      "date": "2021-06-16",
+      "language": "ja",
+      "artists": ["米津玄師"],
+      "clips": [{
+        "youtube": {"id": "7WZ1Kt3zraY"},
+        "spotify": {"id": "7nw4ElerVAP5235FN5D2OI"},
+        "apple": {"a": "1568993234", "id": "1568993237"}
+      }]
+    }]
+  },
+  {
+    "name": "往け",
+    "versions": [{
+      "date": "2021-10-15",
+      "language": "ja",
+      "artists": ["LiSA"],
+      "clips": [{
+        "youtube": {"id": "Ff7k1zxBe1I"},
+        "spotify": {"id": "3zQM46m2V0bUGFeCNA0evx"},
+        "apple": {"a": "1588048996", "id": "1588049004"}
+      }]
+    }]
+  },
+  {
+    "name": "阿修羅ちゃん",
+    "versions": [{
+      "date": "2021-10-28",
+      "language": "ja",
+      "artists": ["Ado"],
+      "clips": [{
+        "youtube": {"id": "cyq5-StPISU"},
+        "spotify": {"id": "4lEk6fyJu7LLPenqL0Raj5"},
+        "apple": {"a": "1590781509", "id": "1590781513"}
+      }]
+    }]
+  }
+]
