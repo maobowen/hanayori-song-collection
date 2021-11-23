@@ -720,5 +720,16 @@
         "apple": {"a": "1590781509", "id": "1590781513"}
       }]
     }]
+  },
+  {
+    "name": "孤勇者",
+    "versions": [{
+      "date": "2020-11-08",
+      "language": "zh",
+      "artists": ["陳奕迅"],
+      "clips": [{
+        "youtube": {"id": "Hlp8XD0R5qo"}
+      }]
+    }]
   }
 ]
