@@ -202,6 +202,11 @@ export const ARTISTS = new Map([
     twitter: '_suzukastella',
     youtube: 'UChAOCCFuF2hto05Z68xp56A'
   })],
+  ['wase', new Artist({
+    id: 'wase',
+    name: '早稻叽',
+    bilibili: 1950658
+  })],
   ['yousa', new Artist({
     id: 'yousa',
     name: '泠鸢yousa',
@@ -216,6 +221,6 @@ export const HANAYORI_MEMBER_IDS = ['kano', 'nonono', 'hareru', 'hitona'];
  * negative page numbers can be used in JSON files.
  */
 export const BILIBILI_PLAYLIST_PAGES = new Map([
-  ['BV1jE411X7hH', 91],  // Hareru
+  ['BV1jE411X7hH', 92],  // Hareru
   ['BV1PE411R7w2', 59]   // Hitona
 ]);

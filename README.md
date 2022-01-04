@@ -49,6 +49,10 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/12/26 20:00](https://t.bilibili.com/608316876933092223) | Bilibili |  | B |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-kWr4sz97Ku.html) |
+| [2021/12/25 21:00](https://t.bilibili.com/607945774570954498) | Bilibili | B | Z |  |  |
+| [2021/12/24 23:50](https://twitter.com/hanamaruhareru/status/1474391422761836549) | YouTube | YB | Z |  |  |
+| [2021/12/19 21:00](https://t.bilibili.com/605719254939469055) | Bilibili | BB | Z |  |  |
 | [2021/12/05 21:00](https://t.bilibili.com/600524083977726619) | Bilibili | B | Z | [X](https://t.bilibili.com/600767127586454776) |  |
 | [2021/11/28 21:00](https://t.bilibili.com/597926466276608680) | Bilibili | B | Z | [X](https://t.bilibili.com/598170012397663479) |  |
 | [2021/11/21 21:00](https://t.bilibili.com/595328874354739243) | Bilibili | B | Z | [X](https://t.bilibili.com/595569916508626870) |  |
@@ -181,6 +185,7 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| 左手指月 | B | 2021/12/21 | 2021/11/14 | 
 | 見上げてごらん夜の星を | B | 2021/10/03 | 2021/08/14 | 
 | ふわふわ時間 | B | 2021/09/22 | 2021/07/04 |
 | 鳥の詩 | B | 2021/09/15 | 2021/06/27 |
@@ -237,6 +242,9 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2021/12/31 22:30](https://twitter.com/kohigashihitona/status/1476810571542822917) | YouTube | Y | W |  |  |
+| [2021/12/26 20:00](https://t.bilibili.com/608394182049848601) | Bilibili |  | B |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-kWr4sz97Ku.html) |
+| [2021/12/17 21:00](https://t.bilibili.com/605138781523432618) | Bilibili | B | W | [X](https://t.bilibili.com/605218195470520313) |  |
 | [2021/11/26 21:00](https://t.bilibili.com/597350468217618997) | Bilibili | B | W | [X](https://t.bilibili.com/597428207123205078) |  |
 | [2021/11/07 21:00](https://t.bilibili.com/590214414408984330) | YouTube, Bilibili | YBB |  |  | 人鱼日钢琴弹唱演唱会 |
 | [2021/10/29 21:00](https://t.bilibili.com/586940871938967574) | YouTube, Bilibili | YB | W |  |  |

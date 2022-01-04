@@ -12,6 +12,19 @@
     "original": ["kano", "hareru"] 
   },
   {
+    "name": "晴天",
+    "versions": [{
+      "date": "2003-07-31",
+      "language": "zh",
+      "artists": ["周杰倫"],
+      "clips": [{
+        "youtube": {"id": "DYptgVvkVLQ"},
+        "spotify": {"id": "2zjo2j5j3S0Nk21LKCgc8L", "market": "tw"},
+        "apple": {"a": "535824731", "id": "535824738", "storefront": "tw"}
+      }]
+    }]
+  },
+  {
     "name": "奏",
     "versions": [{
       "date": "2004-03-10",
@@ -32,7 +45,7 @@
       "artists": ["周杰倫"],
       "clips": [{
         "youtube": {"id": "Bbp9ZaJD_eA"},
-        "spotify": {"id": "3kwqNLXvsjSrIXbVsRBj8q"},
+        "spotify": {"id": "2g1MHSbgxhcOEKpeWG4pZT", "market": "tw"},
         "apple": {"a": "311326344", "id": "311326346"}
       }]
     }]
@@ -50,13 +63,25 @@
     }]
   },
   {
+    "name": "ルカルカ☆ナイトフィーバー",
+    "producers": ["samfree"],
+    "versions": [{
+      "date": "2009-02-12",
+      "language": "ja",
+      "artists": ["巡音ルカ"],
+      "clips": [{
+        "niconico": {"id": "sm6119955"}
+      }]
+    }]
+  },
+  {
     "name": "NO,Thank You!",
     "versions": [{
       "date": "2010-08-04",
       "language": "ja",
       "artists": ["放課後ティータイム"],
       "clips": [{
-        "spotify": {"id": "73RtKhKwyw31Nk2XMXN4uQ"},
+        "spotify": {"id": "2l7kjbDVtqivr8yMhOSWH4", "market": "jp"},
         "apple": {"a": "383274167", "id": "383274168"}
       }]
     }]
@@ -71,6 +96,19 @@
       "clips": [{
         "youtube": {"id": "2CwBFr-Eoxg"},
         "niconico": {"id": "sm11956364"}
+      }]
+    }]
+  },
+  {
+    "name": "Alice in Musicland",
+    "producers": ["OSTER project"],
+    "versions": [{
+      "date": "2011-07-24",
+      "language": "ja",
+      "artists": ["初音ミク", "鏡音リン", "鏡音レン", "巡音ルカ", "KAITO", "MEIKO"],
+      "clips": [{
+        "youtube": {"id": "7vE_Bi5Sglw"},
+        "niconico": {"id": "sm15108950"}
       }]
     }]
   },
@@ -137,7 +175,7 @@
       "clips": [{
         "youtube": {"id": "1DcgczDzQPk"},
         "niconico": {"id": "sm24657407"},
-        "spotify": {"id": "3slgBP4KlhdO2XOiRnn0R1"},
+        "spotify": {"id": "7iS6811erXkWjtiRFydOmn", "market": "jp"},
         "apple": {"a": "1438493115", "id": "1438493118"}
       }]
     }]
@@ -152,7 +190,7 @@
       "clips": [{
         "youtube": {"id": "su0FCBRwVpE"},
         "spotify": {"id": "3SAgoXsKEGMlIGNtOvs0vV"},
-        "apple": {"a": "1290129731", "id": "1290129980", "c": "jp"}
+        "apple": {"a": "1290129731", "id": "1290129980", "storefront": "jp"}
       }]
     }]
   },
@@ -166,7 +204,7 @@
       "clips": [{
         "youtube": {"id": "CLywtSOj4NA"},
         "niconico": {"id": "sm30038738"},
-        "spotify": {"id": "5Zz1U1ghsgYAEs8cRSB7WE"},
+        "spotify": {"id": "2qEjAi2IIV6BNX7OY3Z2Ma", "market": "jp"},
         "apple": {"a": "1526182287", "id": "1526182764"}
       }]
     }]
@@ -264,7 +302,7 @@
         "youtube": {"id": "Xg-qfsKN2_E"},
         "niconico": {"id": "sm32798041"},
         "spotify": {"id": "5WCK18MbTKuOcmLsOXMaHd"},
-        "apple": {"a": "1446850239", "id": "1446850240", "c": "jp"}
+        "apple": {"a": "1446850239", "id": "1446850240", "storefront": "jp"}
       }]
     }]
   },
@@ -309,10 +347,26 @@
     }]
   },
   {
+    "name": "愛言葉Ⅲ",
+    "producers": ["DECO*27"],
+    "versions": [{
+      "date": "2018-10-08",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "WptXk39wiIQ"},
+        "niconico": {"id": "sm33965071"},
+        "bilibili": {"id": "BV1VW41127aW"},
+        "spotify": {"id": "226YA8Mae7EhLltchBcFQg"},
+        "apple": {"a": "1463376747", "id": "1463376758"}
+      }]
+    }]
+  },
+  {
     "name": "霜降",
     "producers": ["音阙诗听"],
     "versions": [{
-      "date": "2019-10-23",
+      "date": "2018-10-23",
       "language": "zh",
       "artists": ["赵方婧"],
       "clips": [{
@@ -389,8 +443,8 @@
       "artists": ["周杰倫", "阿信"],
       "clips": [{
         "youtube": {"id": "HK7SPnGSxLM"},
-        "spotify": {"id": "56wVfJKtnwlSZtC4NVgIrf"},
-        "apple": {"a": "1480229674", "id": "1480229675", "c": "tw"}
+        "spotify": {"id": "3JBhAAnxUDssrBQC9DUT99", "market": "tw"},
+        "apple": {"a": "1480229674", "id": "1480229675", "storefront": "tw"}
       }]
     }]
   },
@@ -440,8 +494,23 @@
       "artists": ["周杰倫"],
       "clips": [{
         "youtube": {"id": "TbFWYT9VGRk"},
-        "spotify": {"id": "4olLtprgPPGUJK4P5bRcgI"},
+        "spotify": {"id": "0qgZJeru7Sw3wRBOGV6H89", "market": "tw"},
         "apple": {"a": "1491478763", "id": "1491478764"}
+      }]
+    }]
+  },
+  {
+    "name": "夜に駆ける",
+    "versions": [{
+      "date": "2019-12-15",
+      "language": "ja",
+      "artists": ["YOASOBI"],
+      "clips": [{
+        "youtube": {"id": "x8VYWazR5mE"},
+        "niconico": {"id": "sm35979548"},
+        "bilibili": {"id": "BV1Ph411C7S5"},
+        "spotify": {"id": "3dPtXHP0oXQ4HCWHsOA9js"},
+        "apple": {"a": "1490256978", "id": "1490256995"}
       }]
     }]
   },
@@ -494,8 +563,8 @@
       "clips": [{
         "youtube": {"id": "dJf4wCdLU18"},
         "bilibili": {"id": "BV1P7411B71g"},
-        "spotify": {"id": "1pjXUZFaDSgf9wV1X76aXw"},
-        "apple": {"a": "1495748435", "id": "1495748563", "c": "jp"}
+        "spotify": {"id": "4KcTqk3YtbJNVhvbhBDVw2", "market": "jp"},
+        "apple": {"a": "1495748435", "id": "1495748563", "storefront": "jp"}
       }]
     }]
   },
@@ -508,7 +577,7 @@
       "artists": ["初音ミク"],
       "clips": [{
         "youtube": {"id": "kS2yWmLCtnc"},
-        "spotify": {"id": "2hsATi9mUl4j6G5iVVAdrN"},
+        "spotify": {"id": "2hsATi9mUl4j6G5iVVAdrN", "market": "jp"},
         "apple": {"a": "1500209615", "id": "1500209886"}
       }]
     }]
@@ -536,7 +605,7 @@
       "clips": [{
         "youtube": {"id": "dHXC_ahjtEE"},
         "niconico": {"id": "sm36668789"},
-        "spotify": {"id": "6TJnkjQL9Ar8JQVrGiBhVf"},
+        "spotify": {"id": "2gbVuqze7bpndIy1q9rFvv", "market": "jp"},
         "apple": {"a": "1509768876", "id": "1509768887"}
       }]
     }]
@@ -562,8 +631,23 @@
       "artists": ["Official髭男dism"],
       "clips": [{
         "youtube": {"id": "kff_DXor7jc"},
-        "spotify": {"id": "6SPHV1xXhT8ppQwVyVJF3x"},
+        "spotify": {"id": "75fYFVXHzzwfc5yzFWlIlZ", "market": "jp"},
         "apple": {"a": "1505478976", "id": "1505478977"}
+      }]
+    }]
+  },
+  {
+    "name": "たぶん",
+    "versions": [{
+      "date": "2020-07-20",
+      "language": "ja",
+      "artists": ["YOASOBI"],
+      "clips": [{
+        "youtube": {"id": "8iuLXODzL04"},
+        "niconico": {"id": "sm37214491"},
+        "bilibili": {"id": "BV19t4y1B7xo"},
+        "spotify": {"id": "62Lv9WcrfzJqhvYDbilJy3"},
+        "apple": {"a": "1520198755", "id": "1520198760"}
       }]
     }]
   },
@@ -577,7 +661,7 @@
       "clips": [{
         "youtube": {"id": "cm-l2h6GB8Q"},
         "niconico": {"id": "sm37287661"},
-        "spotify": {"id": "1y70lFnhDN7rPmrl15BtPd"},
+        "spotify": {"id": "5DidqdM3CgTSnXQDYZyUHi", "market": "jp"},
         "apple": {"a": "1525673338", "id": "1525673476"}
       }]
     }]
@@ -590,7 +674,7 @@
       "artists": ["鈴木このみ"],
       "clips": [{
         "youtube": {"id": "uaRnwnmqrws"},
-        "spotify": {"id": "6KlqqFZmbUrpTz6RSC1pqF"},
+        "spotify": {"id": "1vbWvIDfJYYyLVke6I3Vwk", "market": "jp"},
         "apple": {"a": "1523974305", "id": "1523974306"}
       }]
     }]
@@ -611,6 +695,21 @@
     }]
   },
   {
+    "name": "怪物",
+    "versions": [{
+      "date": "2021-01-06",
+      "language": "ja",
+      "artists": ["YOASOBI"],
+      "clips": [{
+        "youtube": {"id": "dy90tA3TT1c"},
+        "niconico": {"id": "sm38110800"},
+        "bilibili": {"id": "BV1bV411B7uK"},
+        "spotify": {"id": "06XQvnJb53SUYmlWIhUXUi"},
+        "apple": {"a": "1544083976", "id": "1544083979"}
+      }]
+    }]
+  },
+  {
     "name": "エンヴィーベイビー",
     "producers": ["かいりきベア"],
     "versions": [{
@@ -620,7 +719,7 @@
       "clips": [{
         "youtube": {"id": "dgS6HvEohsw"},
         "niconico": {"id": "sm38268550"},
-        "spotify": {"id": "02vOyaNCKGX8uhjggOIH83"},
+        "spotify": {"id": "02vOyaNCKGX8uhjggOIH83", "market": "jp"},
         "apple": {"a": "1554407035", "id": "1554407037"}
       }]
     }]
@@ -650,7 +749,7 @@
         "youtube": {"id": "e1xCOsgWG0M"},
         "niconico": {"id": "sm38387707"},
         "bilibili": {"id": "BV1by4y187EM"},
-        "spotify": {"id": "5Atjzvg5qZcWZhXwZkHqPO"},
+        "spotify": {"id": "0m9QPTZzjtqCWY9Jg8poHc", "market": "jp"},
         "apple": {"a": "1555448590", "id": "1555448592"}
       }]
     }]
@@ -696,6 +795,34 @@
     }]
   },
   {
+    "name": "大正浪漫",
+    "versions": [{
+      "date": "2021-09-15",
+      "language": "ja",
+      "artists": ["YOASOBI"],
+      "clips": [{
+        "youtube": {"id": "wJQ9ig_d8yY"},
+        "niconico": {"id": "sm39337103"},
+        "bilibili": {"id": "BV13f4y1n7oD"},
+        "spotify": {"id": "3uw93CiI34uZlfk8ywep1e", "market": "jp"},
+        "apple": {"a": "1582913798", "id": "1582913800", "storefront": "jp"}
+      }]
+    }]
+  },
+  {
+    "name": "なにやってもうまくいかない",
+    "versions": [{
+      "date": "2021-09-26",
+      "language": "ja",
+      "artists": ["meiyo"],
+      "clips": [{
+        "youtube": {"id": "vxoKuhPca-A"},
+        "spotify": {"id": "2ILz4eU7UCTv0Wup7F5lVt"},
+        "apple": {"a": "1585523683", "id": "1585523684"}
+      }]
+    }]
+  },
+  {
     "name": "往け",
     "versions": [{
       "date": "2021-10-15",
@@ -703,7 +830,7 @@
       "artists": ["LiSA"],
       "clips": [{
         "youtube": {"id": "Ff7k1zxBe1I"},
-        "spotify": {"id": "3zQM46m2V0bUGFeCNA0evx"},
+        "spotify": {"id": "4cDm9C5jhBiIyYxVhQmMwB"},
         "apple": {"a": "1588048996", "id": "1588049004"}
       }]
     }]
@@ -724,11 +851,29 @@
   {
     "name": "孤勇者",
     "versions": [{
-      "date": "2020-11-08",
+      "date": "2021-11-08",
       "language": "zh",
       "artists": ["陳奕迅"],
       "clips": [{
-        "youtube": {"id": "Hlp8XD0R5qo"}
+        "youtube": {"id": "Hlp8XD0R5qo"},
+        "spotify": {"id": "6akVETVeqqPVvuBS5e0EB1"},
+        "apple": {"a": "1596938776", "id": "1596938779"}
+      }]
+    }]
+  },
+  {
+    "name": "アニマル",
+    "producers": ["DECO*27"],
+    "versions": [{
+      "date": "2021-12-16",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "HtBqK6xsQ9k"},
+        "niconico": {"id": "sm39722490"},
+        "bilibili": {"id": "BV1Ei4y1Z7uF"},
+        "spotify": {"id": "1b0zIQJV4TMwPXudWcHjQv", "market": "jp"},
+        "apple": {"a": "1594310997", "id": "1594311005"}
       }]
     }]
   }
