@@ -32,12 +32,12 @@ class AppleMusicSource extends Source {
    * Instantiate an Apple Music source object.
    * @param {number} id Track ID of the source.
    * @param {number} a Album ID of the source.
-   * @param {string | null} c Two-character country code.
+   * @param {string | null} storefront Two-character country code: https://developer.apple.com/documentation/applemusicapi/get_a_catalog_song/.
    */
-  constructor({ id, a, c=null } = {}) {
+  constructor({ id, a, storefront=null } = {}) {
     super(id);
     this.albumId = a;
-    this.countryCode = c && c.match(/^[a-z]{2}$/) ? c : null;
+    this.storefront = storefront && storefront.match(/^[a-z]{2}$/) ? storefront : null;
   }
 
   /**
@@ -45,8 +45,8 @@ class AppleMusicSource extends Source {
    * @return {string} Source URL.
    */
   get url() {
-    return this.countryCode
-        ? `https://music.apple.com/${this.countryCode}/album/${this.albumId}?i=${this.id}`
+    return this.storefront
+        ? `https://music.apple.com/${this.storefront}/album/${this.albumId}?i=${this.id}`
         : `https://music.apple.com/album/${this.albumId}?i=${this.id}`;
   }
 
@@ -55,8 +55,8 @@ class AppleMusicSource extends Source {
    * @return {string} URL of the source in the embedded iframe player.
    */
   get embedUrl() {
-    return this.countryCode
-        ? `https://embed.music.apple.com/${this.countryCode}/album/${this.albumId}?i=${this.id}`
+    return this.storefront
+        ? `https://embed.music.apple.com/${this.storefront}/album/${this.albumId}?i=${this.id}`
         : `https://embed.music.apple.com/us/album/${this.albumId}?i=${this.id}`;
   }
 }
@@ -163,11 +163,14 @@ class NiconicoSource extends Source {
 /** Class representing a Spotify audio source. */
 class SpotifySource extends Source {
   /**
-   * Instantiate a Bilibili source object.
+   * Instantiate a Spotify source object.
+   * Track relinking: https://developer.spotify.com/documentation/general/guides/track-relinking-guide/
    * @param {string} id Track ID of the source.
+   * @param {string | null} market Two-character country code: https://developer.spotify.com/console/get-track/.
    */
-  constructor({ id } = {}) {
+  constructor({ id, market=null } = {}) {
     super(id);
+    this.market = market && market.match(/^[a-z]{2}$/) ? market : null;
   }
 
   /**
