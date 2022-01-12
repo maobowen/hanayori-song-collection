@@ -1,6 +1,14 @@
 {
   "pv": [
     {
+      "name": "サラマンダー",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "tkUo0Hj7j-c"},
+        "bilibili": {"id": "BV17r4y1v7zQ"}
+      }]
+    },
+    {
       "name": "なにやってもうまくいかない",
       "language": "ja",
       "clips": [{

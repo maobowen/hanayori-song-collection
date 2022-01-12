@@ -876,5 +876,21 @@
         "apple": {"a": "1594310997", "id": "1594311005"}
       }]
     }]
+  },
+  {
+    "name": "サラマンダー",
+    "producers": ["DECO*27"],
+    "versions": [{
+      "date": "2022-01-07",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "-H2PCK7DJsQ"},
+        "niconico": {"id": "sm39853779"},
+        "bilibili": {"id": "BV1qu411U7qv"},
+        "spotify": {"id": "64LMCa7fkdfHYLtCm0kGTR"},
+        "apple": {"a": "1602365720", "id": "1602365723"}
+      }]
+    }]
   }
 ]

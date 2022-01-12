@@ -49,6 +49,8 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/01/02 21:00](https://t.bilibili.com/610914455968114746) | Bilibili | B | Z | [X](https://t.bilibili.com/611157224702688773) |  |
+| [2021/12/31 23:00](https://t.bilibili.com/610172277030258886) | YouTube, Bilibili | YB | Z |  |  |
 | [2021/12/26 20:00](https://t.bilibili.com/608316876933092223) | Bilibili |  | B |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-kWr4sz97Ku.html) |
 | [2021/12/25 21:00](https://t.bilibili.com/607945774570954498) | Bilibili | B | Z |  |  |
 | [2021/12/24 23:50](https://twitter.com/hanamaruhareru/status/1474391422761836549) | YouTube | YB | Z |  |  |
