@@ -49,6 +49,7 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/01/03 22:00](https://twitter.com/hanamaruhareru/status/1477973186834989063) | YouTube | YB | Z |  |  |
 | [2022/01/02 21:00](https://t.bilibili.com/610914455968114746) | Bilibili | B | Z | [X](https://t.bilibili.com/611157224702688773) |  |
 | [2021/12/31 23:00](https://t.bilibili.com/610172277030258886) | YouTube, Bilibili | YB | Z |  |  |
 | [2021/12/26 20:00](https://t.bilibili.com/608316876933092223) | Bilibili |  | B |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-kWr4sz97Ku.html) |
@@ -244,6 +245,7 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/01/15 21:00](https://t.bilibili.com/615819334398078943) | Bilibili | B | W | [X](https://t.bilibili.com/615976100694188952) |  |
 | [2021/12/31 22:30](https://twitter.com/kohigashihitona/status/1476810571542822917) | YouTube | Y | W |  |  |
 | [2021/12/26 20:00](https://t.bilibili.com/608394182049848601) | Bilibili |  | B |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-kWr4sz97Ku.html) |
 | [2021/12/17 21:00](https://t.bilibili.com/605138781523432618) | Bilibili | B | W | [X](https://t.bilibili.com/605218195470520313) |  |
