@@ -1,6 +1,14 @@
 {
   "pv": [
     {
+      "name": "ヨワネハキ",
+      "language": "ja",
+      "clips": [{
+        "youtube": {"id": "Tq32LBKx6Q4"},
+        "bilibili": {"id": "BV1KR4y1u7qE"}
+      }]
+    },
+    {
       "name": "サラマンダー",
       "language": "ja",
       "clips": [{

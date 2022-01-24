@@ -49,6 +49,8 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/01/16 21:00](https://t.bilibili.com/616109639823085723) | Bilibili | B | Z | [X](https://t.bilibili.com/616349406369858696) |  |
+| [2022/01/15 19:00](https://twitter.com/hanamaruhareru/status/1482265654908846082) | YouTube | YB | Z |  |  |
 | [2022/01/03 22:00](https://twitter.com/hanamaruhareru/status/1477973186834989063) | YouTube | YB | Z |  |  |
 | [2022/01/02 21:00](https://t.bilibili.com/610914455968114746) | Bilibili | B | Z | [X](https://t.bilibili.com/611157224702688773) |  |
 | [2021/12/31 23:00](https://t.bilibili.com/610172277030258886) | YouTube, Bilibili | YB | Z |  |  |

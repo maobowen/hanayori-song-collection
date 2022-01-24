@@ -769,6 +769,20 @@
     }]
   },
   {
+    "name": "ヨワネハキ",
+    "producers": ["MAISONdes"],
+    "versions": [{
+      "date": "2021-05-19",
+      "language": "ja",
+      "artists": ["和ぬか", "asmi"],
+      "clips": [{
+        "youtube": {"id": "wUHBqw7N_Z4"},
+        "spotify": {"id": "0FOVGBW0RpVRuDuUuN4ZVw"},
+        "apple": {"a": "1566319583", "id": "1566319592"}
+      }]
+    }]
+  },
+  {
     "name": "フォニイ",
     "producers": ["ツミキ"],
     "versions": [{
@@ -874,6 +888,20 @@
         "bilibili": {"id": "BV1Ei4y1Z7uF"},
         "spotify": {"id": "1b0zIQJV4TMwPXudWcHjQv", "market": "jp"},
         "apple": {"a": "1594310997", "id": "1594311005"}
+      }]
+    }]
+  },
+  {
+    "name": "神女劈观",
+    "versions": [{
+      "date": "2022-01-06",
+      "language": "ja",
+      "artists": ["云堇"],
+      "clips": [{
+        "youtube": {"id": "EiAhMr6IJTQ"},
+        "bilibili": {"id": "BV1kS4y1T7kK"},
+        "spotify": {"id": "6ubVAtXtHVrogoE13YIhsM", "market": "hk"},
+        "apple": {"a": "1603943542", "id": "1603943549", "storefront": "hk"}
       }]
     }]
   },
