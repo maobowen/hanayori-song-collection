@@ -49,6 +49,21 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/04/24 21:00](https://t.bilibili.com/652475991220813840) | Bilibili |  |  | [X](https://t.bilibili.com/652727521670856705) |  |
+| [2022/04/17 21:00](https://t.bilibili.com/649878390930669617) | Bilibili |  |  | [X](https://t.bilibili.com/650121855448907779) |  |
+| [2022/04/10 22:00](https://twitter.com/hanamaruhareru/status/1512732450551590912) | YouTube |  |  |  |  |
+| [2022/04/03 21:00](https://t.bilibili.com/644683219811172371) | Bilibili | B | Z | [X](https://t.bilibili.com/644927148183781397) |  |
+| [2022/03/27 21:00](https://t.bilibili.com/642085589226618913) | Bilibili | B | Z | [X](https://t.bilibili.com/642331991496196104) |  |
+| [2022/03/20 21:00](https://t.bilibili.com/639487993000755219) | Bilibili | BB | Z |  | 生日 |
+| [2022/03/19 23:30](https://twitter.com/hanamaruhareru/status/1505123982705500160) | YouTube | YB | Z |  | 生日 |
+| [2022/03/13 21:00](https://t.bilibili.com/636890392470487047) | Bilibili | B | Z | [X](https://t.bilibili.com/637130429607968839) |  |
+| [2022/03/12 23:00](https://twitter.com/hanamaruhareru/status/1502652975029780483) | YouTube |  | Z |  |  |
+| [2022/03/07 21:00](https://t.bilibili.com/634663907191947304) | Bilibili | B | Z | [X](https://t.bilibili.com/634909764008017922) |  |
+| [2022/02/22 21:00](https://t.bilibili.com/629839804160779400) | Bilibili | B | Z | [X](https://t.bilibili.com/630083401898000400) |  |
+| [2022/02/20 21:00](https://t.bilibili.com/629097625224578587) | Bilibili | B | Z | [X](https://t.bilibili.com/629345006751494356) |  |
+| [2022/02/14 21:00](https://t.bilibili.com/626920695277070382) | Bilibili | B | Z |  |  |
+| [2022/01/30 21:00](https://t.bilibili.com/621304840853075427) | Bilibili | B | Z | [X](https://t.bilibili.com/621553382022074397) |  |
+| [2022/01/23 21:00](https://t.bilibili.com/618707227454167343) | Bilibili | B | Z | [X](https://t.bilibili.com/618942591662945146) |  |
 | [2022/01/16 21:00](https://t.bilibili.com/616109639823085723) | Bilibili | B | Z | [X](https://t.bilibili.com/616349406369858696) |  |
 | [2022/01/15 19:00](https://twitter.com/hanamaruhareru/status/1482265654908846082) | YouTube | YB | Z |  |  |
 | [2022/01/03 22:00](https://twitter.com/hanamaruhareru/status/1477973186834989063) | YouTube | YB | Z |  |  |
@@ -190,6 +205,9 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| レディメイド | B | 2022/04/17 | 2021/06/06 |
+| トライアングラー | B | 2022/03/29 | 2021/05/02 |
+| 青空のラプソディ | B | 2022/01/25 | 2021/07/04 |
 | 左手指月 | B | 2021/12/21 | 2021/11/14 | 
 | 見上げてごらん夜の星を | B | 2021/10/03 | 2021/08/14 | 
 | ふわふわ時間 | B | 2021/09/22 | 2021/07/04 |
@@ -247,6 +265,15 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/04/23 21:00](https://t.bilibili.com/652284212348452902) | Bilibili | B | W | [X](https://t.bilibili.com/652341520076111909) |  |
+| [2022/04/15 21:00](https://twitter.com/kohigashihitona/status/1514863163841597442) | YouTube | Y | W |  |  |
+| [2022/04/09 21:00](https://t.bilibili.com/647049197027065858) | Bilibili | B | W | [X](https://t.bilibili.com/647147818060873747) |  |
+| [2022/03/26 21:00](https://t.bilibili.com/641819700685176837) | Bilibili | B | W | [X](https://t.bilibili.com/641948949138112520) |  |
+| [2022/03/19 21:00](https://twitter.com/kohigashihitona/status/1505105766168281088) | YouTube | Y | W |  |  |
+| [2022/03/12 21:00](https://t.bilibili.com/636596616712683602) | Bilibili | B | W |  |  |
+| [2022/02/26 21:00](https://t.bilibili.com/631457164364349460) | Bilibili | B | W | [X](https://t.bilibili.com/631568154914455570) |  |
+| [2022/02/20 21:00](https://twitter.com/kohigashihitona/status/1495233685758820352) | YouTube | YB | W |  | エルセ联动 |
+| [2022/02/04 21:00](https://t.bilibili.com/623237576141245248) | Bilibili | B | W | [X](https://t.bilibili.com/623395716831939731) |  |
 | [2022/01/15 21:00](https://t.bilibili.com/615819334398078943) | Bilibili | B | W | [X](https://t.bilibili.com/615976100694188952) |  |
 | [2021/12/31 22:30](https://twitter.com/kohigashihitona/status/1476810571542822917) | YouTube | Y | W |  |  |
 | [2021/12/26 20:00](https://t.bilibili.com/608394182049848601) | Bilibili |  | B |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-kWr4sz97Ku.html) |

@@ -25,6 +25,19 @@
     }]
   },
   {
+    "name": "雪の華",
+    "versions": [{
+      "date": "2003-10-01",
+      "language": "ja",
+      "artists": ["中島美嘉"],
+      "clips": [{
+        "youtube": {"id": "oIoaIlPpIcA"},
+        "spotify": {"id": "0SI0Te2JQTMe05NEmNbje6"},
+        "apple": {"a": "1535611616", "id": "1535611619"}
+      }]
+    }]
+  },
+  {
     "name": "奏",
     "versions": [{
       "date": "2004-03-10",
@@ -555,6 +568,20 @@
     }]
   },
   {
+    "name": "买买买",
+    "producers": ["Mitchie M"],
+    "versions": [{
+      "date": "2020-01-24",
+      "language": "ja",
+      "artists": ["初音ミク"],
+      "clips": [{
+        "youtube": {"id": "uaUp71oQO9I"},
+        "niconico": {"id": "sm36284596"},
+        "bilibili": {"id": "BV1KJ411C7Un"}
+      }]
+    }]
+  },
+  {
     "name": "心予報",
     "versions": [{
       "date": "2020-01-30",
@@ -918,6 +945,30 @@
         "bilibili": {"id": "BV1qu411U7qv"},
         "spotify": {"id": "64LMCa7fkdfHYLtCm0kGTR"},
         "apple": {"a": "1602365720", "id": "1602365723"}
+      }]
+    }]
+  },
+  {
+    "name": "My Only",
+    "versions": [{
+      "date": "2022-01-10",
+      "language": "en",
+      "artists": ["周深"],
+      "clips": [{
+        "spotify": {"id": "73nOhNPqtkx6OLHk6CSCat"},
+        "apple": {"a": "1605591508", "id": "1605591509"}
+      }]
+    }]
+  },
+  {
+    "name": "梦里啥都有",
+    "producers": ["人形兎"],
+    "versions": [{
+      "date": "2022-01-28",
+      "language": "zh",
+      "artists": ["洛天依"],
+      "clips": [{
+        "bilibili": {"id": "BV1iF411n7wg"}
       }]
     }]
   }
