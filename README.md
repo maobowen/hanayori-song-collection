@@ -49,9 +49,10 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/05/01 21:00](https://t.bilibili.com/655073591736401942) | Bilibili |  |  | [X](https://t.bilibili.com/655323374148386823) |  |
 | [2022/04/24 21:00](https://t.bilibili.com/652475991220813840) | Bilibili |  |  | [X](https://t.bilibili.com/652727521670856705) |  |
-| [2022/04/17 21:00](https://t.bilibili.com/649878390930669617) | Bilibili |  |  | [X](https://t.bilibili.com/650121855448907779) |  |
-| [2022/04/10 22:00](https://twitter.com/hanamaruhareru/status/1512732450551590912) | YouTube |  |  |  |  |
+| [2022/04/17 21:00](https://t.bilibili.com/649878390930669617) | Bilibili | B | Z | [X](https://t.bilibili.com/650121855448907779) |  |
+| [2022/04/09 22:00](https://twitter.com/hanamaruhareru/status/1512732450551590912) | YouTube | YB | Z |  |  |
 | [2022/04/03 21:00](https://t.bilibili.com/644683219811172371) | Bilibili | B | Z | [X](https://t.bilibili.com/644927148183781397) |  |
 | [2022/03/27 21:00](https://t.bilibili.com/642085589226618913) | Bilibili | B | Z | [X](https://t.bilibili.com/642331991496196104) |  |
 | [2022/03/20 21:00](https://t.bilibili.com/639487993000755219) | Bilibili | BB | Z |  | 生日 |
@@ -174,22 +175,23 @@
 | [2020/01/26 21:00](https://t.bilibili.com/348557211918997449) | Bilibili | BB | W* | [X](https://t.bilibili.com/348794229688937999) | 鱼丸联动 |
 | [2020/01/18 22:00](https://twitter.com/hanamaruhareru/status/1218499592045486085) | YouTube | Y | BW* |  |  |
 | [2020/01/12 22:00](https://t.bilibili.com/343362032365430864) | Bilibili | B |  | [X](https://t.bilibili.com/343608812595973474) |  |
-| [2019/12/30 22:00](https://twitter.com/hanamaruhareru/status/1211588180857606145) | YouTube |  |  |  |  |
+| [2019/12/30 22:00](https://twitter.com/hanamaruhareru/status/1211588180857606145) | YouTube | YB | W* |  |  |
 | [2019/12/27 23:00](https://t.bilibili.com/337424699633186108) | Bilibili |  |  |  | [Bilibili Live Star 2019 虚拟主播邀请赛](https://www.bilibili.com/blackboard/live/bls-v-web.html) |
 | [2019/12/26 22:00](https://t.bilibili.com/337053588692403430) | Bilibili |  |  |  | [Bilibili Live Star 2019 虚拟主播邀请赛](https://www.bilibili.com/blackboard/live/bls-v-web.html) |
-| [2019/12/21 23:00](https://t.bilibili.com/335198175705444250) | Bilibili |  |  | [X](https://t.bilibili.com/335458205910087850) |  |
-| [2019/12/21 19:00](https://t.bilibili.com/335198175705444250) | Bilibili |  |  |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-singingbattlesp.html) |
+| [2019/12/21 23:00](https://t.bilibili.com/335198175705444250) | Bilibili |  | BW* | [X](https://t.bilibili.com/335458205910087850) |  |
+| [2019/12/21 19:00](https://t.bilibili.com/335198175705444250) | Bilibili |  | W* |  | [哔哩哔哩虚拟主播冰火歌合战SP](https://www.bilibili.com/blackboard/live/activity-singingbattlesp.html) |
 | [2019/12/21 16:30](https://t.bilibili.com/335198175705444250) | Bilibili |  |  |  | [BilibiliWorld 2019 成都站 超V学园](https://bw.bilibili.com/2019/index.html#/chengdu/) |
-| [2019/12/15 22:00](https://t.bilibili.com/332971638889656758) | Bilibili |  |  | [X](https://t.bilibili.com/333220442050877898) |  |
-| [2019/12/07 22:00](https://t.bilibili.com/330002970376852080) | Bilibili |  |  | [X](https://t.bilibili.com/330255853756865967) |  |
-| [2019/11/25 22:00](https://twitter.com/hanamaruhareru/status/1198918176085397505) | YouTube |  |  |  |  |
-| [2019/11/19 22:00](https://t.bilibili.com/323323463006700185) | Bilibili |  |  | [X](https://t.bilibili.com/323567799402722824) |  |
-| [2019/11/10 20:00](https://t.bilibili.com/319983666374433392) | Bilibili |  |  | [X](https://t.bilibili.com/320197920816820552) |  |
+| [2019/12/15 22:00](https://t.bilibili.com/332971638889656758) | Bilibili | B | W* | [X](https://t.bilibili.com/333220442050877898) |  |
+| [2019/12/07 22:00](https://t.bilibili.com/330002970376852080) | Bilibili | B | W* | [X](https://t.bilibili.com/330255853756865967) |  |
+| [2019/11/25 22:00](https://twitter.com/hanamaruhareru/status/1198918176085397505) | YouTube | YB | W* |  |  |
+| [2019/11/19 22:00](https://t.bilibili.com/323323463006700185) | Bilibili |  | BW* | [X](https://t.bilibili.com/323567799402722824) |  |
+| [2019/11/10 20:00](https://t.bilibili.com/319983666374433392) | Bilibili |  | BW* | [X](https://t.bilibili.com/320197920816820552) |  |
 | [2019/11/02 22:00](https://t.bilibili.com/317015002160023978) | Bilibili |  |  |  |  |
-| [2019/10/27 22:00](https://t.bilibili.com/314788499701547850) | Bilibili |  |  | [X](https://t.bilibili.com/315031753766181427) |  |
-| [2019/10/18 22:00](https://twitter.com/hanamaruhareru/status/1185162749963206657) | YouTube |  |  |  |  |
-| [2019/10/13 22:30](https://t.bilibili.com/309593277195383299) | Bilibili |  |  | [X](https://t.bilibili.com/309842651589340979) |  |
-| [2019/10/05 22:00](https://t.bilibili.com/306624591508308768) | Bilibili |  |  | [X](https://t.bilibili.com/306870637300554503) |  |
+| [2019/10/27 22:00](https://t.bilibili.com/314788499701547850) | Bilibili |  | B | [X](https://t.bilibili.com/315031753766181427) |  |
+| [2019/10/18 22:00](https://twitter.com/hanamaruhareru/status/1185162749963206657) | YouTube | YB | W* |  |  |
+| [2019/10/13 22:30](https://t.bilibili.com/309593277195383299) | Bilibili | BB |  | [X](https://t.bilibili.com/309842651589340979) |  |
+| [2019/10/05 22:00](https://t.bilibili.com/306624591508308768) | Bilibili |  | B | [X](https://t.bilibili.com/306870637300554503) |  |
+| 2019/10/02 22:00 | Bilibili | BB |  |  |  |
 | [2019/09/28 22:00](https://t.bilibili.com/304027008174039037) | Bilibili |  |  | [X](https://t.bilibili.com/304278079072648339) |  |
 | [2019/09/21 22:00](https://t.bilibili.com/301429399067194471) | Bilibili |  |  | [X](https://t.bilibili.com/301679606683653176) |  |
 | [2019/09/18 21:00](https://twitter.com/hanamaruhareru/status/1174270600644354048) | YouTube |  |  |  |  |
@@ -205,6 +207,7 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| チキチキバンバン | B | 2022/04/19 | 2022/04/17 |
 | レディメイド | B | 2022/04/17 | 2021/06/06 |
 | トライアングラー | B | 2022/03/29 | 2021/05/02 |
 | 青空のラプソディ | B | 2022/01/25 | 2021/07/04 |
@@ -253,6 +256,8 @@ B站歌回切片单曲更新状态：
 | 威風堂々 | B | 2020/02/08 | 2020/02/01 |
 | 回る空うさぎ | B | 2020/02/04 | 2020/02/01 |
 | 春雷 | B | 2020/01/22 | 2020/01/18 |
+| クリスマスソング | B | 2019/12/25 | 2019/12/21 |
+| 津軽海峡・冬景色 | B | 2019/12/21 | 2019/12/15 |
 | 紅蓮華 | Z | 2021/07/02 | 2020/09/09 |
 | 春天在哪里 | Z | 2021/04/04 | 2021/04/03 |
 | 明日への扉 | Z* | 2021/03/14 | 2021/03/14 |
@@ -265,6 +270,9 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/05/04 21:00](https://t.bilibili.com/656302682517012482) | YouTube, Bilibili |  |  |  | 生日 |
+| [2022/05/03 23:00](https://twitter.com/kohigashihitona/status/1521346848942084096) | YouTube |  |  |  | 生日 |
+| [2022/04/30 21:00](https://t.bilibili.com/654779833146933251) | Bilibili |  |  |  | 椎名菜羽联动 |
 | [2022/04/23 21:00](https://t.bilibili.com/652284212348452902) | Bilibili | B | W | [X](https://t.bilibili.com/652341520076111909) |  |
 | [2022/04/15 21:00](https://twitter.com/kohigashihitona/status/1514863163841597442) | YouTube | Y | W |  |  |
 | [2022/04/09 21:00](https://t.bilibili.com/647049197027065858) | Bilibili | B | W | [X](https://t.bilibili.com/647147818060873747) |  |
@@ -351,12 +359,12 @@ B站歌回切片单曲更新状态：
 | [2020/01/26 21:00](https://t.bilibili.com/348634542801122029) | Bilibili | BB | W* | [X](https://t.bilibili.com/348794229688937999) | 鱼丸联动 |
 | 2020/01/18 19:00 | Bilibili |  | BW* | [X](https://t.bilibili.com/345784862065098881) |  |
 | 2020/01/05 20:00 | Bilibili |  | W* | [X](https://t.bilibili.com/340981997711150579) |  |
-| [2019/12/22 21:00](https://t.bilibili.com/335631082636806689) | Bilibili |  |  | [X](https://t.bilibili.com/335799213426057307) |  |
+| [2019/12/22 21:00](https://t.bilibili.com/335631082636806689) | Bilibili |  | BW* | [X](https://t.bilibili.com/335799213426057307) |  |
 | [2019/12/21 16:30](https://t.bilibili.com/335260027527466433) | Bilibili |  |  |  | [BilibiliWorld 2019 成都站 超V学园](https://bw.bilibili.com/2019/index.html#/chengdu/) |
-| [2019/12/06 22:00](https://t.bilibili.com/329794303686209673) | Bilibili |  |  | [X](https://t.bilibili.com/329870870070575878) | [寻梦异世镜-第四期：深夜小酒馆](https://www.bilibili.com/blackboard/live/activity-xmysj4xjg.html) |
-| [2019/11/23 20:00](https://t.bilibili.com/324661147752045790) | Bilibili |  |  | [X](https://t.bilibili.com/325018282876539934) |  |
+| [2019/12/06 22:00](https://t.bilibili.com/329794303686209673) | Bilibili | BB | W* | [X](https://t.bilibili.com/329870870070575878) | [寻梦异世镜-第四期：深夜小酒馆](https://www.bilibili.com/blackboard/live/activity-xmysj4xjg.html) |
+| [2019/11/23 20:00](https://t.bilibili.com/324661147752045790) | Bilibili | BB |  | [X](https://t.bilibili.com/325018282876539934) |  |
 | [2019/11/09 20:00](https://t.bilibili.com/319318831206551446) | Bilibili |  |  |  |  |
-| [2019/10/30 21:00](https://t.bilibili.com/316097506949723047) | Bilibili |  |  |  |  |
+| [2019/10/30 21:00](https://t.bilibili.com/316097506949723047) | Bilibili | BB |  |  |  |
 | [2019/10/13 21:00](https://t.bilibili.com/309621752830686056) | Bilibili |  |  |  |  |
 | [2019/09/29 21:00](https://t.bilibili.com/304590967443936062) | Bilibili |  |  |  |  |
 | [2019/09/07 20:00](https://t.bilibili.com/295694294877590604) | Bilibili |  |  |  |  |
@@ -368,6 +376,7 @@ B站歌回切片单曲更新状态：
 
 | 歌曲 | UP主 | 发布日期 | 歌回日期 |
 | :-: | :-: | :-: | :-: |
+| チキチキバンバン | B | 2022/05/01 | 2022/04/23 |
 | 怪物 | B | 2021/06/02 | 2021/05/29 |
 | 踊 | B | 2021/05/31 | 2021/05/29 |
 | 恋人失格 | B | 2021/05/19 | 2021/04/09 |
@@ -383,12 +392,16 @@ B站歌回切片单曲更新状态：
 | うっせぇわ | W | 2020/12/17 | 2020/12/15 |
 | はかせの好きなのなの | W | 2020/05/26 | 2020/05/23^ |
 | magnet | W | 2020/05/04 | 2020/01/26 |
+| ミカヅキ | W | 2019/11/26 | 2019/11/23 |
+| カラフル。 | W | 2019/11/26 | 2019/11/23 |
+| 金曜日のおはよう | W | 2019/10/31 | 2019/10/30 |
+| わが名は小学生 | W | 2019/10/31 | 2019/10/30 |
 
 *^ 非歌回。*
 
 ---
 
-© 2021 [101对双生儿](https://bmao.tech/)。保留所有版权。
+© 2022 [101对双生儿](https://bmao.tech/)。保留所有版权。
 
 [//]: # (中之人情报)
 [//]: # (https://vtamainfo.com/)
