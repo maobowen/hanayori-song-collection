@@ -737,6 +737,19 @@
     }]
   },
   {
+    "name": "萱草花",
+    "versions": [{
+      "date": "2021-02-12",
+      "language": "zh",
+      "artists": ["张小斐"],
+      "clips": [{
+        "bilibili": {"id": "BV1wK4y1n7eg"},
+        "spotify": {"id": "3089gDkIvCEypr7T0lGrNR"},
+        "apple": {"a": "1556810378", "id": "1556811547"}
+      }]
+    }]
+  },
+  {
     "name": "エンヴィーベイビー",
     "producers": ["かいりきベア"],
     "versions": [{

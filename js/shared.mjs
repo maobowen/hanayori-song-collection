@@ -195,6 +195,13 @@ export const ARTISTS = new Map([
     name: '琉绮Ruki',
     bilibili: 420249427
   })],
+  ['shiina-nanoha', new Artist({
+    id: 'shiina-nanoha',
+    name: '椎名菜羽',
+    twitter: 'ShiinaNanoha78',
+    youtube: 'UC0lIq8G4LgDPlXsDmYSUExw',
+    bilibili: 623441612
+  })],
   ['shirakami-fubuki', new Artist({
     id: 'shirakami-fubuki',
     name: '白上フブキ',
@@ -228,5 +235,5 @@ export const HANAYORI_MEMBER_IDS = ['kano', 'nonono', 'hareru', 'hitona'];
  */
 export const BILIBILI_PLAYLIST_PAGES = new Map([
   ['BV1jE411X7hH', 96],  // Hareru
-  ['BV1PE411R7w2', 60]   // Hitona
+  ['BV1PE411R7w2', 61]   // Hitona
 ]);
