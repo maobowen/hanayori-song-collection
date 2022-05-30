@@ -49,12 +49,14 @@
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/05/29 21:00](https://t.bilibili.com/665463985238179906) | Bilibili |  |  | [X](https://t.bilibili.com/665712934421266486) |  |
+| [2022/05/20 21:00](https://t.bilibili.com/662124205788102664) | Bilibili |  |  | [X](https://t.bilibili.com/662376071247691831) |  |
 | [2022/05/15 21:00](https://t.bilibili.com/660268775574077492) | Bilibili |  |  | [X](https://t.bilibili.com/660515023225880582) |  |
 | [2022/05/14 21:00](https://twitter.com/hanamaruhareru/status/1525076335600709632) | YouTube |  |  |  | 久遠たま联动 |
 | [2022/05/12 00:15](https://twitter.com/hanamaruhareru/status/1524407221433499649) | YouTube |  |  |  |  |
 | [2022/05/08 21:00](https://t.bilibili.com/657671183662055446) | Bilibili |  |  | [X](https://t.bilibili.com/657918380489048137) |  |
-| [2022/05/01 21:00](https://t.bilibili.com/655073591736401942) | Bilibili |  |  | [X](https://t.bilibili.com/655323374148386823) |  |
-| [2022/04/24 21:00](https://t.bilibili.com/652475991220813840) | Bilibili |  |  | [X](https://t.bilibili.com/652727521670856705) |  |
+| [2022/05/01 21:00](https://t.bilibili.com/655073591736401942) | Bilibili | B | Z | [X](https://t.bilibili.com/655323374148386823) |  |
+| [2022/04/24 21:00](https://t.bilibili.com/652475991220813840) | Bilibili | B | Z | [X](https://t.bilibili.com/652727521670856705) |  |
 | [2022/04/17 21:00](https://t.bilibili.com/649878390930669617) | Bilibili | B | Z | [X](https://t.bilibili.com/650121855448907779) |  |
 | [2022/04/09 22:00](https://twitter.com/hanamaruhareru/status/1512732450551590912) | YouTube | YB | Z |  |  |
 | [2022/04/03 21:00](https://t.bilibili.com/644683219811172371) | Bilibili | B | Z | [X](https://t.bilibili.com/644927148183781397) |  |
@@ -283,6 +285,8 @@ B站歌回切片单曲更新状态：
 
 | 日本时间 | 平台 | 录像 | 切片 | 歌单 | 注释 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
+| [2022/05/27 21:00](https://twitter.com/kohigashihitona/status/1530009623599919104) | YouTube | Y | W |  | 椎名菜羽联动 |
+| [2022/05/20 21:00](https://t.bilibili.com/662201498006978759) | Bilibili | B | W | [X](https://t.bilibili.com/662371462749880361) |  |
 | [2022/05/13 21:00](https://t.bilibili.com/659696836515201028) | Bilibili | B | W | [X](https://t.bilibili.com/659770456284332053) |  |
 | [2022/05/04 21:00](https://t.bilibili.com/656302682517012482) | YouTube, Bilibili | YB | W |  | 生日 |
 | [2022/05/03 23:00](https://twitter.com/kohigashihitona/status/1521346848942084096) | YouTube | YB | W |  | 生日 |

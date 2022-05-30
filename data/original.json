@@ -984,5 +984,18 @@
         "bilibili": {"id": "BV1iF411n7wg"}
       }]
     }]
+  },
+  {
+    "name": "ミックスナッツ",
+    "versions": [{
+      "date": "2022-04-15",
+      "language": "ja",
+      "artists": ["Official髭男dism"],
+      "clips": [{
+        "youtube": {"id": "CbH2F0kXgTY"},
+        "spotify": {"id": "3RFL9hE5cBocBsjD5XLJLQ"},
+        "apple": {"a": "1616586638", "id": "1616586639"}
+      }]
+    }]
   }
 ]
